@@ -5,6 +5,7 @@ toc: false
 ---
 
 # Fortune 500 Companies & Reddit
+<span style="font-style:italic"><span style="text-transform: uppercase">Disclaimer:</span> Parts of this data were AI-generated. The data used in this project has not been verified and may not be correct.</span>
 
 ```js
 const f500 = FileAttachment("./data/f500reddit.csv").csv({typed: true});
