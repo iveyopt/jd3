@@ -27,9 +27,10 @@ function launchTimeline(data, {width} = {}) {
     width,
     height: 300,
     color: {...color, legend: true},
-    y: {grid: true, label: "Companies"}
+    y: {grid: true, label: "Companies"},
+    channels: {name: "company", industry: "industry", founded: "founded"},
     marks: [
-      Plot.rectY(f500, Plot.binX({y: "count"}, {x: "founded", fill: "industry", interval: "year"})),
+      Plot.rectY(f500, Plot.binX({y: "count"}, {x: "founded", fill: "industry", interval: "year", tip: true})),
       Plot.ruleY([0])
     ]
   });
