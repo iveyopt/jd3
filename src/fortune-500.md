@@ -101,7 +101,7 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/he
 
   // add the squares
   svg.selectAll()
-    .data(data, function(d) {return d.group+':'+d.brandedSubreddit;})
+    .f500(f500, function(d) {return d.group+':'+d.brandedSubreddit;})
     .enter()
     .append("rect")
       .attr("x", function(d) { return x(d.industry) })
@@ -149,7 +149,7 @@ const color = Plot.scale({
 ```
 
 ```js
-function launchTimeline(data, {width} = {}) {
+function launchTimeline(f500, {width} = {}) {
   return Plot.plot({
     title: "Dates founded",
     width,
