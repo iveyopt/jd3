@@ -11,11 +11,11 @@ toc: false
 <span style="color: red;"><span style="text-transform: uppercase; font-style:italic">Disclaimer:</span> Parts of this data were AI-generated. The data used in this project has not been verified and may not be correct.</span>
 
 ```js
-const f500 = FileAttachment("./data/f500reddit.csv").csv({typed: true});
+const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 const color = Plot.scale({
   color: {
     type: "categorical",
-    domain: d3.groupSort(f500, (D) => -D.length, (d) => d.industry).filter((d) => d !== "Other"),
+    domain: d3.groupSort(data, (D) => -D.length, (d) => d.industry).filter((d) => d !== "Other"),
     unknown: "var(--theme-foreground-muted)"
   }
 });
@@ -23,5 +23,5 @@ const color = Plot.scale({
 
 ## Table of data
 ```js
-Inputs.table(f500);
+Inputs.table(data);
 ```
