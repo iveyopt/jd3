@@ -12,6 +12,10 @@ const f500 = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 ```
 
 ```js
+Inputs.table(f500)
+```
+
+```js
 const color = Plot.scale({
   color: {
     type: "ordinal",
