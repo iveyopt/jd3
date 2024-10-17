@@ -13,7 +13,34 @@ const f500 = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 ```
 
 ```js
-Inputs.table(f500)
+Inputs.table(f500);
+```
+
+```js
+grid = {
+  let values = [];
+  for (let row of f500) {    
+    let rowValues = [];
+    for (let [key, value] of Object.entries(row)) {
+      if (key !== "ID") {
+        rowValues.push(parseFloat(value));
+      }
+    }
+    
+    values.push(rowValues);
+  }
+  return values;
+};
+rows = f500.map((d) => d.ID);
+```
+<div id="simpleHeatmap"></div>
+
+```js
+const simpleHeatmap = document.selectElementById("simpleHeatmap");
+{
+  const heatmapElement = simpleHeatmap;
+  new uv.Heatmap(heatmapElement, grid, rows, cols);
+}
 ```
 
 ```js
