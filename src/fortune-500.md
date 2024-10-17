@@ -10,11 +10,11 @@ toc: false
 ```js
 const f500 = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 ```
-
+## Table of data
 ```js
 Inputs.table(f500);
 ```
-
+## Visualizations
 <div id="my_dataviz"></div>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
@@ -34,7 +34,7 @@ var svg = d3.select("#my_dataviz")
         "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/heatmap_data.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/heatmap_data.csv", function(f500) {
 
   // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
   var myGroups = d3.map(f500, function(d){return d.industry;}).keys()
@@ -87,7 +87,7 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/he
   }
   var mousemove = function(d) {
     tooltip
-      .html("The exact value of<br>this cell is: " + d.value)
+      .html("The exact value of<br>this cell is: " + d.rank)
       .style("left", (d3.mouse(this)[0]+70) + "px")
       .style("top", (d3.mouse(this)[1]) + "px")
   }
@@ -101,16 +101,16 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/he
 
   // add the squares
   svg.selectAll()
-    .data(data, function(d) {return d.group+':'+d.variable;})
+    .data(data, function(d) {return d.group+':'+d.brandedSubreddit;})
     .enter()
     .append("rect")
-      .attr("x", function(d) { return x(d.group) })
-      .attr("y", function(d) { return y(d.variable) })
+      .attr("x", function(d) { return x(d.industry) })
+      .attr("y", function(d) { return y(d.brandedSubreddit) })
       .attr("rx", 4)
       .attr("ry", 4)
       .attr("width", x.bandwidth() )
       .attr("height", y.bandwidth() )
-      .style("fill", function(d) { return myColor(d.value)} )
+      .style("fill", function(d) { return myColor(d.rank)} )
       .style("stroke-width", 4)
       .style("stroke", "none")
       .style("opacity", 0.8)
