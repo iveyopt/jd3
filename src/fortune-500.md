@@ -37,8 +37,8 @@ var svg = d3.select("#my_dataviz")
 d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/heatmap_data.csv", function(data) {
 
   // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
-  var myGroups = d3.map(data, function(d){return d.group;}).keys()
-  var myVars = d3.map(data, function(d){return d.variable;}).keys()
+  var myGroups = d3.map(f500, function(d){return d.industry;}).keys()
+  var myVars = d3.map(f500, function(d){return d.brandedSubreddit;}).keys()
 
   // Build X scales and axis:
   var x = d3.scaleBand()
