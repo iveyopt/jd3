@@ -14,6 +14,9 @@ const f500 = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 ```js
 Inputs.table(f500)
 ```
+```js
+d3 = require("d3@6");
+```
 
 ```js
 const color = Plot.scale({
