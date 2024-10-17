@@ -12,13 +12,6 @@ toc: false
 
 ```js
 const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
-const color = Plot.scale({
-  color: {
-    type: "categorical",
-    domain: d3.groupSort(data, (D) => -D.length, (d) => d.industry).filter((d) => d !== "Other"),
-    unknown: "var(--theme-foreground-muted)"
-  }
-});
 ```
 
 ## Table of data
