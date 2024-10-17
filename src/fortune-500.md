@@ -18,10 +18,10 @@ Inputs.table(f500);
 
 ```js
 grid = {
-  let values = [];
+  var values = [];
   for (let row of f500) {    
     let rowValues = [];
-    for (let [key, value] of Object.entries(row)) {
+    for (var [key, value] of Object.entries(row)) {
       if (key !== "ID") {
         rowValues.push(parseFloat(value));
       }
@@ -32,6 +32,7 @@ grid = {
   return values;
 };
 rows = f500.map((d) => d.ID);
+cols = Object.keys(f500[0]).filter((key) => key !== "ID");
 ```
 <div id="simpleHeatmap"></div>
 
