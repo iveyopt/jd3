@@ -77,7 +77,15 @@ Plot.plot({
     label: "Revenue (millions)"
   },
   marks: [
-    Plot.dot(data, {x: "revenue", y: "subredditOfficialMembers", fill: "industry"})
+    Plot.dot(data, {x: "revenue", y: "subredditOfficialMembers", fill: "industry"}),
+    Plot.crosshair(data, {
+      x: "revenue", y: "subredditOfficialMembers",
+    }),
+    Plot.tip(data, Plot.pointerX({
+      x: "revenue", y: "subredditOfficialMembers",
+      fill: "white",
+      title: (d) => `${d.company} \n Revenue ($M): ${d.revenue} \n Members: ${d.subredditOfficialMembers}`
+    }))
   ]
 })
 ```
