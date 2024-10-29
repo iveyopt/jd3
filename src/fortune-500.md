@@ -25,20 +25,14 @@ Plot.plot({
   color: {legend: true},
   y: {
     domain: [1780, 2030],
-    grid: true
+    grid: true,
+    label: "Date",
   },
-  x: {label: "Date"},
+  x: {
+    grid: true,
+    label: "Ranking"
+  },
   marks: [
-    Plot.tip(data, Plot.pointerX({
-      x: "rank",
-      y: "founded",
-      fill: "white",
-      title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
-    })),
-    Plot.crosshair(data, {
-      x: "rank",
-      y: "founded"
-    }),
     Plot.dot(data, {
       x: "rank",
       y: "founded",
@@ -54,6 +48,38 @@ Plot.plot({
       dy: -2,
       r: 2
     }),
+    Plot.crosshair(data, {
+      x: "rank",
+      y: "founded"
+    }),
+    Plot.tip(data, Plot.pointerX({
+      x: "rank",
+      y: "founded",
+      fill: "white",
+      title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
+    }))
+  ]
+})
+```
+
+```js
+Plot.plot({
+  title: "Revenues vs. membership in official subreddit",
+  caption: "Figure 2",
+  width: Math.max(width, 550),
+  color: {legend: true},
+  y: {
+    grid: true,
+    label: "Subreddit Members",
+  },
+  x: {
+    grid: true,
+    label: "Revenue (millions)"
+  },
+  marks: [
+    Plot.voronoi(data, {x: "revenue", y: "subredditOfficialMembers", fill: "industry", fillOpacity: 0.2, stroke: "var(--vp-c-bg)"}),
+    Plot.frame(),
+    Plot.dot(data, {x: "revenue", y: "subredditOfficialMembers", fill: "industry"})
   ]
 })
 ```
