@@ -18,8 +18,13 @@ data
 
 ```js
 Plot.plot({
+  grid: true,
+  inset: 10,
+  aspectRatio: fixed ? 1 : undefined,
+  color: {legend: true},
   marks: [
-    Plot.lineY(data, {x: "founded", y: "revenue"})
+    Plot.frame(),
+    Plot.dot(data, {x: "revenueChange", y: "profitsChange", stroke: "industry"})
   ]
 })
 ```
