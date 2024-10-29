@@ -23,7 +23,7 @@ Plot.plot({
   caption: "Figure 1",
   width: Math.max(width, 550),
   y: {
-    domain: [1780, 2030],
+    domain: [new Date("1780-01-01"), new Date("2030-01-01")],
     grid: true
   },
   x: {padding: 0.4},
