@@ -23,7 +23,7 @@ Plot.plot({
   width: Math.max(width, 550),
   y: {
     domain: [1780, 2030],
-    tickFormat: " %Y",
+    type: "time",
     grid: true
   },
   x: {padding: 0.4},
