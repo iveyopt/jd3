@@ -1,501 +1,501 @@
 rank,company,founded,industry,revenue,revenueChange,profits,profitsChange,assets,marketValue,employees,rankChange,subredditOfficial,subredditOfficialMembers,subredditEmployee,subredditEmployeeMembers,subredditPositive,subredditNegative,redditorBrand,redditorBrandPostkarma,redditorBrandCommentkarma,redditorBrandCakeday
-1,Walmart,1962,Retail,"611,289.00",6.7,"11,680.00",-14.6,"243,197.00","397,474.50","2,100,000",0,https://www.reddit.com/r/walmart/,"287,000",https://www.reddit.com/r/WalmartEmployees/,"31,000",,https://www.reddit.com/r/FuckWalmart,https://www.reddit.com/user/Walmart_Verified/,1,0,2008
-2,Amazon.com,1994,Technology,"513,983.00",9.4,"-2,722.00",-108.2,"462,675.00","1,058,439.50","1,541,000",0,https://www.reddit.com/r/amazon/,"226,000",https://www.reddit.com/r/AmazonFC/,"113,000",https://www.reddit.com/r/AmazonBudgetFinds/,https://www.reddit.com/r/AntiAmazon,,,,
-3,Exxon Mobil,1999,Energy,"413,680.00",44.8,"55,740.00",141.9,"369,067.00","446,424.20","62,000",3,https://www.reddit.com/r/ExxonMobil/,510,,,,https://www.reddit.com/r/RedCard,https://www.reddit.com/user/ExxonMobil/,1,0,2024
-4,Apple,1976,Technology,"394,328.00",7.8,"99,803.00",5.4,"352,755.00","2,609,038.90","164,000",-1,https://www.reddit.com/r/apple,"5,300,000",https://www.reddit.com/r/Apple_Employees/,234,,https://www.reddit.com/r/FuckApple,https://www.reddit.com/user/apple/,"2,942",0,2018
-5,UnitedHealth Group,1977,Healthcare,"324,162.00",12.7,"20,120.00",16.4,"245,705.00","440,854.00","400,000",0,https://www.reddit.com/r/unitedhealthgroup,100,,,,,https://www.reddit.com/user/UnitedHealth_Group/,1,0,2023
-6,CVS Health,1963,Pharmaceutical Retail,"322,467.00",10.4,"4,149.00",-47.5,"228,275.00","95,422.30","259,500",-2,https://www.reddit.com/r/CVSHealth,221,,,,,https://www.reddit.com/user/cvshealthsurvey-page/,1,0,2023
-7,Berkshire Hathaway,1839,Conglomerate,"302,089.00",9.4,"-22,819.00",-125.4,"948,452.00","675,656.80","383,000",0,https://www.reddit.com/r/BerkshireHathaway,"9,200",,,,,https://www.reddit.com/user/BerkshireHathaway-/,"50,203","23,106",2016
-8,Alphabet,2015,Technology,"282,836.00",9.8,"59,972.00",-21.1,"365,264.00","1,330,200.70","190,234",0,https://www.reddit.com/r/AlphabetStew,"2,900",,,,,https://www.reddit.com/user/alphabet/,1,0,2005
-9,McKesson,1833,Healthcare,"263,966.00",10.8,"1,114.00",0,"63,298.00","48,757.20","66,500",0,https://www.reddit.com/r/McKesson,7,,,,,https://www.reddit.com/user/Mckesson100/,1,48,2020
-10,Chevron,1879,Energy,"246,252.00",51.6,"35,465.00",127,"257,709.00","311,092.90","43,846",6,https://www.reddit.com/r/Chevron,175,,,,,https://www.reddit.com/user/Chevron/,"3,798","35,637",2008
-11,Cencora,2001,Healthcare,"238,587.00",11.5,"1,698.80",10.3,"56,560.60","32,383.60","41,500",-1,,,,,,,,1,0,2021
-12,Costco Wholesale,1983,Retail,"226,954.00",15.8,"5,844.00",16.7,"64,166.00","220,353.50","304,000",-1,https://www.reddit.com/r/CostcoWholesale,"18,000",,,,,https://www.reddit.com/user/-Costco_wholesale-/,1,3,2022
-13,Microsoft,1975,Technology,"198,270.00",18,"72,738.00",18.7,"364,840.00","2,146,048.60","221,000",1,https://www.reddit.com/r/microsoft,"906,000",https://www.reddit.com/r/MicrosoftTeams/,"64,000",https://www.reddit.com/r/MicrosoftFabric,https://www.reddit.com/r/FuckMicrosoft,https://www.reddit.com/user/Microsoft/,16,1,2020
-14,Cardinal Health,1971,Healthcare,"181,364.00",11.6,-933.00,-252.7,"43,878.00","19,451.70","46,035",1,https://www.reddit.com/r/CardinalHealth,2,,,,,,,,
-15,Cigna,1982,Healthcare,"180,516.00",3.7,"6,668.00",24.3,"143,932.00","75,900.70","70,231",-3,,,,,,,,,,
-16,Marathon Petroleum,1998,Energy,"180,012.00",27.6,"14,516.00",49.1,"89,904.00","59,544.40","17,800",3,,,,,,,https://reddit.com/user/Marathon_Petroleum/,1,0,2023
-17,Phillips 66,2012,Energy,"175,702.00",53,"11,024.00",737.1,"76,442.00","46,727.30","13,000",12,,,,,,,,,,
-18,Valero Energy,1980,Energy,"171,189.00",58,"11,528.00",1139.6,"60,982.00","51,350.50","9,743",12,,,,,,,,,,
-19,Ford Motor,1903,Automotive,"158,057.00",15.9,"-1,981.00",-111,"255,884.00","50,399.50","173,000",3,https://www.reddit.com/r/Ford,"110,000",,,,,https://www.reddit.com/user/fordmotorcompany13/,"2,703",922,2019
-20,Home Depot,1978,Retail,"157,403.00",4.1,"17,105.00",4.1,"76,445.00","299,533.70","471,600",-3,https://www.reddit.com/r/HomeDepot,"97,000",https://www.reddit.com/r/AskRetail,"8,500",https://www.reddit.com/r/HomeImprovement,https://www.reddit.com/r/FuckHomeDepot,https://www.reddit.com/user/HomeDepot/,248,0,2023
-21,General Motors,1908,Automotive,"156,735.00",23.4,"9,934.00",-0.8,"264,037.00","51,155.30","167,000",4,https://www.reddit.com/r/GeneralMotors,"13,000",https://www.reddit.com/r/GMemployees,"2,900",https://www.reddit.com/r/GeneralMotorsElectric,,https://www.reddit.com/user/GeneralMotors/,671,81,2020
-22,Elevance Health,1946,Healthcare,"156,595.00",13,"6,025.00",-1.3,"102,772.00","109,097.70","102,300",-2,,,,,,,,,,
-23,JPMorgan Chase,2000,Financial Services,"154,792.00",21.7,"37,676.00",-22.1,"3,665,743.00","383,548.60","293,723",1,https://www.reddit.com/r/JPMorganChase,584,,,,,https://www.reddit.com/user/JPMorgan_Chase/,8,0,2017
-24,Kroger,1883,Retail,"148,258.00",7.5,"2,244.00",35.6,"49,623.00","35,421.40","430,000",-3,https://www.reddit.com/r/kroger,"46,000",,,,,https://www.reddit.com/user/Kroger011/,"1,436",737,2018
-25,Centene Corporation,1984,Healthcare,"144,547.00",14.7,"1,202.00",-10.8,"76,870.00","34,809.80","74,300",1,https://www.reddit.com/r/Centene,13,,,,,https://www.reddit.com/user/centene/,1,0,2018
-26,Verizon Communications,2000,Telecommunications,"136,835.00",2.4,"21,256.00",-3.7,"379,680.00","163,333.40","117,100",-3,https://www.reddit.com/r/verizon/,"101,000",,,,,,,,
-27,Walgreens Boots Alliance,1901,Pharmaceutical Retail,"132,703.00",-10.7,"4,337.00",70.6,"90,124.00","29,835.50","262,500",-9,,,,,,,,,,
-28,Fannie Mae,1938,Financial Services,"121,596.00",19.7,"12,923.00",-41.7,"4,305,288.00",474.80,"8,000",5,,,,,,,,,,
-29,Comcast,1963,Telecommunications,"121,427.00",4.3,"5,370.00",-62.1,"257,275.00","159,830.70","186,000",-1,https://www.reddit.com/r/Comcast,"26,000",,,https://www.reddit.com/r/Comcast_Xfinity,,https://www.reddit.com/user/comcastbusiness/,9,0,2021
-30,AT&T,1983,Telecommunications,"120,741.00",-28.5,"-8,524.00",-142.4,"402,853.00","137,250.00","160,700",-17,https://www.reddit.com/r/ATT,"72,000",,,,,,,,
-31,Meta Platforms,2004,Technology,"116,609.00",-1.1,"23,200.00",-41.1,"185,727.00","549,484.00","86,482",-4,https://www.reddit.com/r/meta,"9,100",,,,,https://www.reddit.com/user/Meta_Platforms/,1,0,2023
-32,Bank of America,1998,Financial Services,"115,053.00",22.6,"27,528.00",-13.9,"3,051,375.00","228,779.50","216,823",4,https://www.reddit.com/r/BankOfAmerica,848,,,,,https://www.reddit.com/user/bankofamerica/,6,0,2020
-33,Target,1902,Retail,"109,120.00",2.9,"2,780.00",-60,"53,335.00","76,250.10","440,000",-1,https://www.reddit.com/r/Target,"197,000",,,,,https://www.reddit.com/user/target/,"3,044","3,299",2008
-34,Dell Technologies,1984,Technology,"102,301.00",-4.4,"2,442.00",-56.1,"89,611.00","29,401.70","133,000",-3,https://www.reddit.com/r/Dell,"94,000",,,,,https://www.reddit.com/user/DellTechnologies/,284,237,2018
-35,Archer Daniels Midland,1902,Agriculture,"101,556.00",19.1,"4,340.00",60.2,"59,774.00","43,529.80","41,181",3,,,,,,,,,,
-36,Citigroup,1998,Financial Services,"101,078.00",26.6,"14,845.00",-32.4,"2,416,676.00","91,269.70","238,104",8,https://www.reddit.com/r/Citigroup,1,,,,,https://www.reddit.com/user/Citigroup/,1,0,2010
-37,United Parcel Service,1907,Transportation and Logistics,"100,338.00",3.1,"11,548.00",-10.4,"71,124.00","166,189.10","404,700",-3,,,,,,https://www.reddit.com/r/DownWithUPS,https://www.reddit.com/user/UnitedParcelService/,1,4,2013
-38,Pfizer,1849,Healthcare,"100,330.00",23.4,"31,372.00",42.7,"197,205.00","230,291.60","83,000",5,https://www.reddit.com/r/Pfizer,286,https://www.reddit.com/r/pfizeremployees/,,,,https://www.reddit.com/user/pfizer/,1,0,2024
-39,Lowe's,1946,Retail,"97,059.00",0.8,"6,437.00",-23.8,"43,708.00","119,253.40","244,500",-4,https://www.reddit.com/r/Lowes,"59,000",https://www.reddit.com/r/Lowes_Employees,"4,900",,,,,,
-40,Johnson & Johnson,1886,Healthcare,"94,943.00",1.2,"17,941.00",-14.1,"187,378.00","483,575.60","152,700",-3,https://www.reddit.com/r/JordynJohnson,"26,000",,,,,https://www.reddit.com/user/johnsonjohnson11/,7,19,2021
-41,FedEx,1971,Transportation and Logistics,"93,512.00",11.4,"3,826.00",-26.9,"85,994.00","57,431.40","464,400",-2,https://www.reddit.com/r/FedEx,"36,000",,,,,https://www.reddit.com/user/FedEx/,7,0,2021
-42,Humana,1961,Healthcare,"92,870.00",11.8,"2,806.00",-4.3,"43,055.00","60,718.70","67,100",-2,,,,,,,https://www.reddit.com/user/humana/,1,0,2012
-43,Energy Transfer,1995,Energy Infrastructure,"89,876.00",33.3,"4,756.00",-13.1,"105,643.00","38,589.60","12,565",11,https://www.reddit.com/r/EnergyTransfer,597,,,,,https://www.reddit.com/user/Energy_Transfer/,1,0,2019
-44,State Farm Insurance,1922,Insurance,"89,327.50",8.6,"-6,654.20",-619.5,"318,243.00",0.00,"60,519",-2,https://www.reddit.com/r/StateFarm,"1,300",,,,,https://www.reddit.com/user/State_Farm_Insurance/,82,71,2016
-45,Freddie Mac,1970,Financial Services,"86,717.00",31.6,"9,327.00",-23,"3,208,333.00",265.50,"7,819",11,,,,,,,https://www.reddit.com/user/freddiemack1/,"26,801","164,821",2021
-46,PepsiCo,1965,Food and Beverage,"86,392.00",8.7,"8,910.00",17,"92,187.00","251,084.50","315,000",-1,https://www.reddit.com/r/PepsiCo,175,,,,,,,,
-47,Wells Fargo,1852,Financial Services,"82,859.00",0.5,"13,182.00",-38.8,"1,881,016.00","141,187.50","238,000",-6,https://www.reddit.com/r/WellsFargoBank,"1,400",,,,,,,,
-48,Walt Disney,1923,Media and Entertainment,"82,722.00",22.7,"3,145.00",57.6,"203,631.00","182,920.00","195,800",5,,,,,,,,,,
-49,ConocoPhillips,2002,Energy,"82,156.00",69.9,"18,680.00",131.2,"93,829.00","120,776.60","9,500",28,,,,,,,https://www.reddit.com/user/ConocoPhillips/,1,2,2013
-50,Tesla,2003,Automotive,"81,462.00",51.4,"12,556.00",127.5,"82,338.00","656,424.70","127,855",15,https://www.reddit.com/r/Tesla,"56,000",,,,,https://www.reddit.com/user/tesla/,1,0,2006
-51,Procter & Gamble,1837,Consumer Goods,"80,187.00",5.3,"14,742.00",3,"117,208.00","350,781.10","106,000",-4,,,,,,,https://www.reddit.com/user/Procter_and_Gamble/,1,1,2011
-52,General Electric,1892,Conglomerate,"76,555.00",3.2,225.00,0,"187,788.00","104,231.00","172,000",-4,https://www.reddit.com/r/generalelectric,673,,,,,https://www.reddit.com/user/generalelectric/,"6,163",188,2018
-53,Albertsons,1939,Retail,"71,887.00",3.2,"1,619.60",90.5,"28,123.00","11,132.20","195,750",-1,https://www.reddit.com/r/Albertsons,"1,100",,,,,,,,
-54,MetLife,1868,Insurance,"69,898.00",-1.7,"2,539.00",-61.3,"666,611.00","44,866.50","45,000",-4,,,,,,,https://www.reddit.com/user/MetLife/,1,0,2023
-55,Goldman Sachs Group,1869,Financial Services,"68,711.00",5.7,"11,261.00",-48,"1,441,799.00","113,963.90","48,500",2,https://www.reddit.com/r/Goldman_Sachs,,,,,,https://www.reddit.com/user/Goldman_Sachs_Group/,1,0,2023
-56,Sysco,1969,Food and Beverage,"68,636.10",33.8,"1,358.80",159.2,"22,085.70","39,202.30","70,510",14,https://www.reddit.com/r/sysco,214,,,,,https://www.reddit.com/user/Sysco/,1,0,2012
-57,Raytheon Technologies (RTX),2020,Aerospace and Defense,"67,074.00",4.2,"5,197.00",34.5,"158,864.00","143,292.00","182,000",1,https://www.reddit.com/r/RaytheonTechnologies,6,,,,,,,,
-58,Boeing,1916,Aerospace and Defense,"66,608.00",6.9,"-4,935.00",0,"137,100.00","127,283.20","156,000",2,https://www.reddit.com/r/boeing,"35,000",,,,,,,,
-59,StoneX Group,1924,Financial Services,"66,036.00",55.3,207.10,78.1,"19,859.60","2,137.80","3,615",28,,,,,,,https://www.reddit.com/user/StoneX_Group_Inc/,1,0,2023
-60,Lockheed Martin,1995,Aerospace and Defense,"65,984.00",-1.6,"5,732.00",-9.2,"52,880.00","120,318.70","116,000",-5,https://www.reddit.com/r/LockheedMartin,"4,200",,,,,https://www.reddit.com/user/LockheedMartin/,"4,067","1,802",2012
-61,Morgan Stanley,1935,Financial Services,"65,936.00",7.9,"11,029.00",-26.6,"1,180,231.00","147,674.30","82,427",0,,,,,,,https://www.reddit.com/user/MorganStanley28/,1,0,2022
-62,Intel,1968,Technology,"63,054.00",-20.2,"8,014.00",-59.7,"182,103.00","136,268.30","131,900",-16,https://www.reddit.com/r/intel,"883,000",,,https://www.reddit.com/r/EnergyINTEL,,https://www.reddit.com/user/Intel/,12,36,2021
-63,HP,1939,Technology,"62,983.00",-0.8,"3,203.00",-50.7,"38,587.00","28,919.40","58,000",-4,https://www.reddit.com/r/HP_Printers,193,,,https://www.reddit.com/r/HPfanfiction,,,,found,
-64,TD Synnex,2021,Technology,"62,343.80",97.2,651.30,64.9,"29,734.00","9,060.90","28,500",45,,,,,,,,,,
-65,International Business Machines,1911,Technology,"60,530.00",-16.3,"1,639.00",-71.5,"127,243.00","118,912.50","303,100",-16,https://www.reddit.com/r/internationalbusiness,"12,000",,,,,,,,
-66,HCA Healthcare,1968,Healthcare,"60,233.00",2.5,"5,643.00",-18.9,"52,438.00","73,106.50","250,500",-4,,,,,,,https://www.reddit.com/user/HCA_/,1,1,2021
-67,Prudential Financial,1875,Insurance,"60,050.00",-15.3,"-1,438.00",-118.6,"689,917.00","30,363.40","39,583",-16,,,,,,,,,,
-68,Caterpillar,1925,Manufacturing,"59,427.00",16.6,"6,705.00",3.3,"81,943.00","118,160.50","109,100",5,https://www.reddit.com/r/caterpillar,"2,600",,,,,https://www.reddit.com/user/CaterpillarSure6572/,26,0,2021
-69,Merck,1891,Healthcare,"59,283.00",15.8,"14,519.00",11.3,"109,160.00","270,080.90","68,000",2,https://www.reddit.com/r/Merck,182,,,,,https://www.reddit.com/user/Merck/,1,0,2023
-70,World Fuel Services,1984,Energy,"59,043.10",88.4,114.10,54.8,"8,164.60","1,585.20","5,214",41,,,,,,,,,,
-71,New York Life Insurance,1845,Insurance,"58,445.20",14.2,"-1,126.70",-506.6,"392,126.40",0.00,"15,050",1,https://www.reddit.com/r/NewYorkLife,51,,,,,,,,
-72,Enterprise Products Partners,1968,Energy Infrastructure,"58,186.00",42.6,"5,490.00",18.4,"68,108.00","56,223.90","7,300",17,,,,,,,,,,
-73,AbbVie,2013,Healthcare,"58,054.00",3.3,"11,836.00",2.5,"138,805.00","281,151.30","50,000",-10,https://www.reddit.com/r/ABBV,111,,,,,https://www.reddit.com/user/abbvieislife/,1,0,2024
-74,Plains GP Holdings,2013,Energy Infrastructure,"57,342.00",36.3,168.00,180,"29,207.00","2,550.60","4,100",14,,,,,,,,,,
-75,Dow,1897,Chemicals,"56,902.00",3.5,"4,582.00",-27.4,"60,603.00","38,811.90","37,800",-11,https://www.reddit.com/r/DOW,12,,,,,,,,
-76,American International Group,1919,Insurance,"56,437.00",8.4,"10,276.00",9.5,"526,634.00","36,947.50","26,200",-9,,,,,,,,,,
-77,American Express,1850,Financial Services,"55,625.00",27.4,"7,514.00",-6.8,"228,354.00","122,733.70","77,300",8,https://www.reddit.com/r/AmericanExpress,"4,200",,,,,https://www.reddit.com/user/AmericanExpress/,21,0,2023
-78,Publix Super Markets,1930,Retail,"54,942.00",13.5,"2,918.00",-33.9,"31,047.00",0.00,"242,000",-2,,,,,,,https://www.reddit.com/user/Publix_Super_Markets/,1,0,2023
-79,Charter Communications,1993,Telecommunications,"54,022.00",4.5,"5,055.00",8.6,"144,523.00","60,477.40","101,700",-10,https://www.reddit.com/r/CharterCommunications,1,,,,,,,,
-80,Tyson Foods,1935,Food and Beverage,"53,282.00",13.2,"3,238.00",6.3,"36,821.00","21,095.70","142,000",1,https://www.reddit.com/r/TSNTysonFoods,27,https://www.reddit.com/r/TysonEmployees,152,,,https://www.reddit.com/user/TysonFoods_DS/,1,0,2021
-81,Deere,1837,Manufacturing,"52,577.00",19.4,"7,131.00",19.6,"90,030.00","122,345.50","82,239",3,https://www.reddit.com/r/Deere,80,,,,,https://www.reddit.com/user/deere/,262,"2,614",2011
-82,Cisco Systems,1984,Technology,"51,557.00",3.5,"11,812.00",11.5,"94,002.00","214,109.20","83,300",-8,https://www.reddit.com/r/Cisco,"87,000",,,,,https://www.reddit.com/user/cisco_systems/,1,0,2013
-83,Nationwide,1926,Insurance,"51,449.80",8.6,988.40,-38.9,"264,510.60",0.00,"24,791",-3,https://www.reddit.com/r/Nationwide,114,,,,,https://www.reddit.com/user/nationwide13/,"1,006","9,256",2013
-84,Allstate,1931,Insurance,"51,412.00",-3.4,"-1,311.00",-182,"97,957.00","29,179.60","54,250",-18,https://www.reddit.com/r/AllState,676,,,,,,,,
-85,Delta Air Lines,1924,Transportation,"50,582.00",69.2,"1,318.00",370.7,"72,288.00","22,392.10","95,000",28,https://www.reddit.com/r/DeltaAirlines,"5,300",,,,,,,,
-86,Liberty Mutual Insurance Group,1912,Insurance,"49,956.00",3.6,414.00,-86.5,"160,316.00",0.00,"50,000",-8,,,,,,,,,,
-87,TJX,1976,Retail,"49,936.00",2.9,"3,498.00",6.6,"28,349.00","90,315.30","329,000",-12,https://www.reddit.com/r/TJX,18,,,,,,,,
-88,Progressive,1937,Insurance,"49,610.70",4,721.50,-78.5,"75,465.00","83,742.50","55,063",-9,https://www.reddit.com/r/progressive,"78,000",,,,,https://www.reddit.com/user/progressive/,8,0,2019
-89,American Airlines Group,2013,Transportation,"48,971.00",63.9,127.00,0,"64,716.00","9,629.00","129,700",25,https://www.reddit.com/r/americanairlines,"65,000",,,,,https://www.reddit.com/user/American_Airlines_/,1,2,2022
-90,CHS,1931,Agriculture,"47,791.70",24.3,"1,678.80",203.1,"18,824.80",0.00,"10,014",5,https://www.reddit.com/r/CHS,553,,,,,,,,
-91,Performance FoGroupod,1987,Food and Beverage,"47,194.10",61.6,112.50,176.4,"12,378.00","9,421.50","34,825",21,,,,,,,,,,
-92,PBF Energy,2008,Energy,"46,830.30",71.8,"2,876.80",1145.4,"13,549.10","5,588.80","3,616",38,,,,,,,https://www.reddit.com/user/PBF___/,1,0,2022
-93,Nike,1964,Apparel,"46,710.00",4.9,"6,046.00",5.6,"40,321.00","190,161.00","79,100",-10,https://www.reddit.com/r/Nike,"1,300,000",,,,https://www.reddit.com/r/nikeprossx,https://www.reddit.com/user/nike/,119,0,2018
-94,Best Buy,1966,Retail,"46,298.00",-10.6,"1,419.00",-42.2,"15,803.00","17,066.40","71,100",-26,https://www.reddit.com/r/Bestbuy,"84,000",https://www.reddit.com/r/BestBuyWorkers,"13,000",,,https://www.reddit.com/user/bestbuy/,215,"2,984",2007
-95,Bristol-Myers Squibb,1887,Healthcare,"46,159.00",-0.5,"6,327.00",-9.5,"96,820.00","145,780.00","34,300",-13,,,,,,,https://www.reddit.com/user/bristolMyersSquibb/,104,11,2017
-96,United Airlines Holdings,1926,Transportation,"44,955.00",82.5,737.00,0,"67,358.00","14,473.90","92,795",50,https://www.reddit.com/r/unitedairlines,"86,000",,,,https://www.reddit.com/r/FuckUnitedAirlines,https://www.reddit.com/user/United_Airlines/,32,"5,250",2017
-97,Thermo Fisher Scientific,2006,Medical Equipment,"44,915.00",14.5,"6,950.00",-10,"97,154.00","222,150.30","130,000",-5,,,,,,,https://www.reddit.com/user/ThermoFisherSci/,1,0,2019
-98,Qualcomm,1985,Technology,"44,200.00",31.7,"12,936.00",43,"49,014.00","142,251.70","51,000",9,https://www.reddit.com/r/qualcomm,"2,100",https://www.reddit.com/r/Qualcomm_Stock,211,,,https://www.reddit.com/user/qualcomm/,1,0,2021
-99,Abbott Laboratories,1888,Healthcare,"43,653.00",1.3,"6,933.00",-2,"74,438.00","175,984.40","115,000",-13,,,,,,,,,,
-100,Coca-Cola,1892,Food and Beverage,"43,004.00",11.3,"9,542.00",-2.3,"92,763.00","268,360.70","82,500",-7,https://www.reddit.com/r/cocacola/,"17,000",,,,FuckCocaCola (reddit.com),https://www.reddit.com/user/Coca-Cola_Official/,11,0,2018
-101,Oracle,1977,Technology,"42,440.00",4.8,"6,717.00",-51.1,"109,297.00","250,865.60","143,000",-10,https://www.reddit.com/r/oracle/,"20,000",,,,https://www.reddit.com/r/FuckOracle,https://www.reddit.com/user/OracleDBA/,"6,415","69,259",2010
-102,Nucor,1940,Manufacturing,"41,512.50",13.8,"7,607.30",11.4,"32,479.20","38,916.90","31,400",-4,https://www.reddit.com/r/Nucor/,53,,,,,https://www.reddit.com/user/Nucor18,1,0,2022
-103,TIAA,1918,Financial Services,"40,910.60",0.9,493.70,-87.8,"634,457.30",0.00,"16,070",-13,,,,,,,https://www.reddit.com/user/tiaa/,17,0,2023
-104,Massachusetts Mutual Life Insurance,1851,Insurance,"40,281.00",12.2,"1,484.50",365,"381,335.70",0.00,"10,662",-4,,,,,,,,,,
-105,General Dynamics,1952,Aerospace and Defense,"39,407.00",2.4,"3,390.00",4.1,"51,585.00","62,692.40","106,500",-11,,,,,,,https://www.reddit.com/user/GeneralDynamicsCorp/,1,274,2022
-106,Capital One Financial,1994,Financial Services,"38,373.00",19.8,"7,360.00",-40.6,"455,249.00","36,775.90","55,943",2,https://www.reddit.com/r/CapitalOne_/,"6,300",,,,,https://www.reddit.com/user/CapitalOne/,301,0,2021
-107,HF Sinclair,1947,Energy,"38,204.80",107.8,"2,922.70",423.5,"18,125.50","9,491.50","5,223",90,,,,,,,,,,
-108,Dollar General,1939,Retail,"37,844.90",10.6,"2,416.00",0.7,"29,083.40","46,113.60","170,000",-2,https://www.reddit.com/r/DollarGeneral/,"22,000",https://www.reddit.com/r/DollarGeneralWorkers/,"9,600",https://www.reddit.com/r/DollarGeneralNews/,,https://www.reddit.com/user/Dollargeneralwhore/,1,0,2022
-109,Arrow Electronics,1935,Technology,"37,124.40",7.7,"1,426.90",28.8,"21,763.20","7,278.00","22,300",-5,,,,,,,https://www.reddit.com/user/Arrow-Electronics/,1,0,2023
-110,Occidental Petroleum,1920,Energy,"37,095.00",38.6,"13,304.00",473,"72,609.00","56,069.30","11,973",25,https://www.reddit.com/r/OccidentalPetroleum/,3,,,,,,,,
-111,Northwestern Mutual,1857,Insurance,"36,920.50",0.5,911.90,-6.7,"340,390.20",0.00,"8,323",-14,,,,,,,https://www.reddit.com/user/NorthwesternMutual/,1,0,2021
-112,Travelers,1853,Insurance,"36,884.00",5.9,"2,842.00",-22.4,"115,717.00","39,783.30","32,175",-9,https://www.reddit.com/r/TravelersTV/,"20,000",,,,,https://www.reddit.com/user/TravelersOfficial/,1,0,2020
-113,Northrop Grumman,1939,Aerospace and Defense,"36,602.00",2.6,"4,896.00",-30.1,"43,755.00","70,203.20","95,000",-12,https://www.reddit.com/r/NorthropGrumman/,"10,000",,,,,https://www.reddit.com/user/Northrop__Grumman/,1,974,2022
-114,United Services Automobile Assn.,1922,Insurance,"36,297.20",-3.1,"-1,295.60",-139.3,"204,005.10",0.00,"36,820",-18,,,,,,,,,,
-115,Honeywell International,1906,Conglomerate,"35,466.00",3.1,"4,966.00",-10.4,"62,275.00","127,695.00","97,000",-10,https://www.reddit.com/r/honeywell/,"1,100",,,,,https://www.reddit.com/user/Honeywell678/,1,53,2021
-116,3M,1902,Manufacturing,"34,229.00",-3.2,"5,777.00",-2.4,"46,455.00","57,964.90","92,000",-14,,,,,,,,,,
-117,US Foods Holding,1989,Food and Beverage,"34,057.00",15.5,265.00,61.6,"12,773.00","8,568.20","29,000",0,,,,,,,,,,
-118,Warner Bros. Discovery,2022,Media and Entertainment,"33,817.00",177.4,"-7,371.00",-832.7,"134,001.00","36,777.60","37,500",192,https://www.reddit.com/r/WarnerBrosDiscovery/,519,,,,https://www.reddit.com/r/FuckWarnerBros/,https://www.reddit.com/user/WarnerBros/,1,0,2008
-119,Lennar,1954,Construction and Engineering,"33,671.00",24.1,"4,614.10",4.2,"37,984.30","29,725.70","12,012",12,https://www.reddit.com/r/LennarFullerton/,12,,,,,https://www.reddit.com/user/Lennartlau/,"1,479","33,398",2017
-120,D.R. Horton,1978,Construction and Engineering,"33,480.00",20.5,"5,857.50",40.3,"30,351.10","33,546.10","13,237",4,https://www.reddit.com/r/drhorton,343,,,,,,,,
-121,Jabil,1966,Manufacturing,"33,478.00",14.3,996.00,43.1,"19,717.00","11,749.50","250,000",-2,https://www.reddit.com/r/JABIL/,2,,,,,https://www.reddit.com/user/jabilas,"60,491","9,636",2017
-122,Cheniere Energy,1996,Energy,"33,428.00",110.7,"1,428.00",0,"41,266.00","38,407.70","1,551",111,,,,,,,https://www.reddit.com/user/cheniere/,1,0,2008
-123,Broadcom,1991,Technology,"33,203.00",21,"11,495.00",70.7,"73,249.00","267,473.20","20,000",5,https://www.reddit.com/r/Broadcom/,458,,,,https://www.reddit.com/r/BroadcomSucks/,,,,
-124,CarMax,1993,Retail,"33,197.20",65.2,"1,151.30",54.1,"26,338.30","10,157.80","32,647",50,https://www.reddit.com/r/carmax/,"11,000",,,https://www.reddit.com/r/Carmax_Hi_Low,,https://www.reddit.com/user/CarMax_Union/,49,14,2023
-125,Starbucks,1971,Food and Beverage,"32,250.30",11,"3,281.60",-21.9,"27,978.40","119,676.60","402,000",-5,https://www.reddit.com/r/starbucks/,"285,000",,,,https://www.reddit.com/r/StarbucksShaming/,https://www.reddit.com/user/Starbucks/,6,0,2024
-126,Molina Healthcare,1980,Healthcare,"31,974.00",15.1,792.00,20.2,"12,314.00","15,586.30","15,000",-1,,,,,,,,,,
-127,Uber Technologies,2009,Transportation and Logistics,"31,877.00",82.6,"-9,141.00",0,"32,109.00","63,839.70","32,800",83,https://www.reddit.com/r/uber/,"61,000",,,,,https://www.reddit.com/user/UberTechnologies/,11,1,2014
-128,Philip Morris International,2008,Consumer Goods,"31,762.00",1.1,"9,048.00",-0.7,"61,681.00","150,946.40","79,800",-18,,,,,,,,,,
-129,Netflix,1997,Media and Entertainment,"31,615.60",6.5,"4,491.90",-12.2,"48,594.80","153,858.40","12,800",-14,https://www.reddit.com/r/netflix/,"1,700,000",,,https://www.reddit.com/r/PerfectMatchNetflix/,,https://www.reddit.com/user/netflix/,"334,667","88,875",2019
-130,NRG Energy,1992,Energy,"31,543.00",16.9,"1,221.00",-44.2,"29,146.00","7,964.50","6,603",3,,,,,,,https://www.reddit.com/user/NRG-Energy/,1,0,2011
-131,Mondelez International,2012,Food and Beverage,"31,496.00",9.7,"2,717.00",-36.8,"71,161.00","95,049.80","91,000",-10,,,,,,,,,,
-132,Danaher,1969,Healthcare,"31,471.00",6.9,"7,209.00",12.1,"84,350.00","183,764.10","80,000",-14,https://www.reddit.com/r/Danaher/,3,,,,,https://www.reddit.com/user/Danaher2013/,1,0,2023
-133,Salesforce,1999,Technology,"31,352.00",18.3,208.00,-85.6,"98,849.00","199,780.00","79,390",3,https://www.reddit.com/r/salesforce/,"77,000",,,,,https://www.reddit.com/user/salesforce/,12,12,2021
-134,Paramount Global,2019,Media and Entertainment,"31,331.00",5.9,"1,104.00",-75.7,"58,393.00","14,656.70","27,400",-18,https://www.reddit.com/r/paramountglobal/,"1,400",,,,,https://www.reddit.com/user/ParamountPlus/,655,"4,689",2021
-135,CBRE Group,1906,Real Estate,"30,828.20",11.1,"1,407.40",-23.4,"20,513.40","22,563.20","115,000",-9,,,,,,,https://www.reddit.com/user/CBRE_AMZ,1,0,2024
-136,Micron Technology,1978,Technology,"30,758.00",11,"8,687.00",48.2,"66,283.00","66,035.80","48,000",-9,https://www.reddit.com/r/MicronTechnology/,100,,,,,https://www.reddit.com/user/MicronTechnology/,1,0,2022
-137,Visa,1958,Financial Services,"29,310.00",21.6,"14,957.00",21.5,"85,501.00","475,307.10","26,500",10,https://www.reddit.com/r/Visa/,488,,,,,,,,
-138,Southern,1945,Utilities,"29,279.00",26.7,"3,524.00",47.3,"134,891.00","75,947.60","27,562",15,https://www.reddit.com/r/Southern/,583,,,,,,,,
-139,United Natural Foods,1976,Food and Beverage,"28,928.00",7.2,248.00,66.4,"7,628.00","1,565.10","30,300",-7,https://www.reddit.com/r/NaturalFoods/,550,,,,,,,,
-140,Paccar,1905,Manufacturing,"28,819.70",22.5,"3,011.60",62.6,"33,275.50","38,251.00","31,100",11,https://www.reddit.com/r/Paccar/,96,,,,,https://www.reddit.com/user/paccar579/,"1,955",164,2019
-141,Duke Energy,1904,Utilities,"28,784.00",16.6,"2,550.00",-34.7,"178,086.00","74,344.40","27,859",4,,,,,,,https://www.reddit.com/user/DukeEnergy/,1,0,2016
-142,Eli Lilly,1876,Healthcare,"28,541.40",0.8,"6,244.80",11.9,"49,489.80","326,350.70","39,000",-20,https://www.reddit.com/r/elililly/,1,,,,,https://www.reddit.com/user/eli_lilly/,42,"1,925",2014
-143,Hewlett Packard Enterprise,2015,Technology,"28,496.00",2.6,868.00,-74.7,"57,123.00","20,643.20","60,200",-20,https://www.reddit.com/r/HPE/,"2,200",,,,,,,,
-144,Dollar Tree,1986,Retail,"28,331.70",7.6,"1,615.40",21.7,"23,022.10","31,757.20","136,287",-7,https://www.reddit.com/r/DollarTree/,"40,000",,,,,https://www.reddit.com/user/dollarTreeWaffles/,113,20,2020
-145,Lithia Motors,1946,Retail,"28,187.80",23.5,"1,251.00",18,"15,006.60","6,337.10","21,875",13,https://www.reddit.com/r/askcarsales/comments/13jfgri/lithia_motors/,"227,000",,,,,https://www.reddit.com/user/Lithia_Motors/,1,54,#REF!
-146,Cummins,1919,Manufacturing,"28,074.00",16.9,"2,151.00",0.9,"30,299.00","33,811.00","73,600",3,https://www.reddit.com/r/Cummins/,"17,000",,,,,https://www.reddit.com/user/cummins0990/,1,12,2020
-147,Penske Automotive Group,1990,Automotive,"27,814.80",8.8,"1,380.00",16.2,"14,114.60","9,794.70","26,816",-5,,,,,,,https://www.reddit.com/user/PenskeAutomotive/,1,0,2011
-148,PayPal Holdings,1998,Financial Services,"27,518.00",8.5,"2,419.00",-42,"78,717.00","85,916.50","29,900",-5,https://www.reddit.com/r/paypal/,"60,000",,,,,https://www.reddit.com/user/PayPalOfficial/,12,0,2008
-149,U.S. Bancorp,1863,Financial Services,"27,401.00",15.5,"5,825.00",-26.8,"674,805.00","55,221.00","76,646",1,,,,,,,https://www.reddit.com/user/usbancorpcap74/,1,0,2017
-150,Gilead Sciences,1987,Healthcare,"27,281.00",-0.1,"4,592.00",-26.2,"63,171.00","103,614.30","17,000",-21,,,,,,https://www.reddit.com/user/fuck_gilead_sciences/,,,,
-151,AutoNation,1996,Retail,"26,985.00",4.4,"1,377.40",0.3,"10,059.70","6,301.40","23,600",-10,,,,,,,https://www.reddit.com/user/AutoNationX/,1,0,2024
-152,Nvidia,1993,Technology,"26,974.00",0.2,"4,368.00",-55.2,"41,182.00","686,091.90","26,196",-18,https://www.reddit.com/r/nvidia/,"1,800,000",,,,https://www.reddit.com/r/FuckNvidia/,https://www.reddit.com/user/Nvidia/,1,"2,385",2010
-153,Kraft Heinz,2015,Food and Beverage,"26,485.00",1.7,"2,363.00",133.5,"90,513.00","47,448.00","37,000",-14,https://www.reddit.com/r/KraftHeinz/,1,,,,,https://www.reddit.com/user/kraftheinz43812/,1,0,2024
-154,Amgen,1980,Healthcare,"26,323.00",1.3,"6,552.00",11.2,"65,121.00","129,088.80","25,200",-14,,,,,,,https://www.reddit.com/user/amgentos/,1,0,2022
-155,Applied Materials,1967,Technology,"25,785.00",11.8,"6,525.00",10.8,"26,726.00","103,805.90","33,000",1,https://www.reddit.com/r/AppliedMaterials/,149,,,,,,,,
-156,EOG Resources,1999,Energy,"25,702.00",37.9,"7,759.00",66.4,"41,371.00","67,370.80","2,850",37,,,,,,,https://www.reddit.com/user/Eog-/,1,0,2023
-157,Truist Financial,2019,Financial Services,"25,356.00",9.9,"6,260.00",-2.8,"555,255.00","45,289.60","53,987",-2,https://www.reddit.com/r/TruistFinancial/,1,,,,,https://www.reddit.com/user/truistfinancial/,1,0,2023
-158,Macy's,1858,Retail,"25,305.00",0.1,"1,177.00",-17.7,"16,866.00","4,746.70","94,570",-14,https://www.reddit.com/r/MacysStores/,"2,400",https://www.reddit.com/r/MacysEmployees/,,,,https://www.reddit.com/user/macysaurus/,565,334,2018
-159,Union Pacific,1862,Transportation,"24,875.00",14.1,"6,998.00",7.3,"65,449.00","123,145.60","33,179",4,https://www.reddit.com/r/UnionPacific/,945,,,,,https://www.reddit.com/user/UnionPacific_ET44AC/,191,233,2020
-160,C.H. Robinson Worldwide,1905,Transportation and Logistics,"24,696.60",6.9,940.50,11.4,"5,954.60","11,416.50","17,399",-6,,,,,,,https://www.reddit.com/user/R-H-Worldwide/,1,0,2022
-161,Rite Aid,1962,Pharmaceutical Retail,"24,568.30",2.2,-538.50,0,"8,529.00",126.60,"53,000",-13,https://www.reddit.com/r/RiteAid/,"4,500",https://www.reddit.com/r/RiteAidEmployees/,,,,,,,
-162,Constellation Energy,1999,Energy,"24,440.00",0,-160.00,0,"46,909.00","25,711.60","13,370",0,,,,,,,,,,
-163,Avnet,1921,Technology,"24,310.70",24.4,692.40,258.5,"10,388.50","4,130.40","15,300",17,,,,,,,https://www.reddit.com/user/AvnetInc/,1,0,2018
-164,Pioneer Natural Resources,1997,Energy,"24,294.00",65.9,"7,845.00",270.4,"35,740.00","47,997.20","2,076",84,,,,,,,https://www.reddit.com/user/NaturalResources/,1,0,2013
-165,Southwest Airlines,1967,Transportation,"23,814.00",50.8,539.00,-44.8,"35,369.00","19,338.10","66,656",69,https://www.reddit.com/r/SouthwestAirlines/,"59,000",,,,,https://www.reddit.com/user/southwestairlines/,1,0,2014
-166,CDW,1984,Technology,"23,748.70",14.1,"1,114.50",12.7,"13,131.50","26,336.70","15,100",0,https://www.reddit.com/r/CDWTP/,215,,,,,https://www.reddit.com/user/CDW_Corporation,90,0,2019
-167,Advanced Micro Devices,1969,Technology,"23,601.00",43.6,"1,320.00",-58.3,"67,580.00","157,737.90","25,000",59,https://www.reddit.com/r/AdvancedMicroDevices/,"4,200",,,,,https://www.reddit.com/user/AdvancedMicroDev/,1,0,2021
-168,PNC Financial Services Group,1845,Financial Services,"23,542.00",19.5,"6,041.00",6.5,"557,263.00","50,799.60","60,720",10,,,,,,,,,,
-169,McDonald's,1955,Food and Beverage,"23,182.60",-0.2,"6,177.40",-18.1,"50,435.60","204,533.90","150,000",-17,https://www.reddit.com/r/McDonalds/,"64,000",https://www.reddit.com/r/McDonaldsEmployees/,"63,000",,,https://www.reddit.com/user/McDonaldsUSA/,"2,560",250,2017
-170,Cleveland-Cliffs,1847,Manufacturing,"22,989.00",12.4,"1,335.00",-55.3,"18,755.00","9,436.10","27,000",1,,,,,,,https://www.reddit.com/user/ClevelandCliffs-CLF/,271,"12,164",2021
-171,Freeport-McMoRan,1981,Mining,"22,780.00",-0.3,"3,468.00",-19.5,"51,093.00","58,529.70","25,600",-14,https://www.reddit.com/r/freeport/,115,,,,,https://www.reddit.com/user/freeport/,56,"2,278",2012
-172,Builders FirstSource,1998,Construction and Engineering,"22,726.40",14.2,"2,749.40",59.3,"10,595.20","12,252.70","29,000",4,https://www.reddit.com/r/buildersfirstsource/,3,,,,,https://www.reddit.com/user/Builders02/,1,137,#REF!
-,Oneok,1906,Energy Infrastructure,"22,386.90",35.3,"1,722.20",14.8,"24,379.10","28,416.40","2,966",51,,,,,,,https://www.reddit.com/user/OneOk348/,17,16,2023
-174,Hartford Financial Services Group,1810,Insurance,"22,362.00",-0.1,"1,815.00",-23.3,"73,022.00","21,816.90","18,800",-14,,,,,,,,,,
-175,Charles Schwab,1971,Financial Services,"22,307.00",17.4,"7,183.00",22.7,"551,772.00","95,264.10","35,300",13,https://www.reddit.com/r/CharlesSchwab/,"3,100",,,,,https://www.reddit.com/user/CharlesSchwabOvaHee/,1,"8,202",2020
-176,Steel Dynamics,1993,Manufacturing,"22,260.80",20.9,"3,862.70",20.2,"14,160.00","19,286.40","12,060",20,,,,,,,https://www.reddit.com/user/SteeleDynamics/,"15,041","38,660",2016
-177,Mastercard,1966,Financial Services,"22,237.00",17.8,"9,930.00",14.3,"38,724.00","346,417.90","29,900",13,https://www.reddit.com/r/Mastercard/,214,,,,,https://www.reddit.com/user/MastercardR/,1,0,2022
-178,Sherwin-Williams,1866,Chemicals,"22,148.90",11.1,"2,020.10",8.4,"22,594.00","58,090.10","64,366",-3,https://www.reddit.com/r/sherwinwilliams/,"25,000",,,,,https://www.reddit.com/user/SherwinWilliamsHR/,394,314,2019
-179,Genuine Parts,1928,Automotive,"22,096.00",17.1,"1,182.70",31.6,"16,495.40","23,558.70","58,000",12,,,,,,,,,,
-180,PG&E,1905,Utilities,"21,680.00",5,"1,800.00",0,"118,644.00","32,153.50","26,010",-12,https://www.reddit.com/r/PGE_4/,18,,,,https://www.reddit.com/r/fuckPGandE/,https://www.reddit.com/user/PGE437/,51,972,2019
-181,WESCO International,1922,Distribution,"21,420.10",17.6,860.50,84.9,"14,811.70","7,896.90","20,000",19,,,,,,,https://www.reddit.com/user/wesco_/,49,"5,350",2017
-182,Murphy USA,2013,Energy,"21,265.90",38.8,672.90,69.5,"4,123.20","5,620.90","10,550",58,https://www.reddit.com/r/MurphyUSA/,202,,,,,https://www.reddit.com/user/MurphyDogUSA/,1,0,2024
-183,WestRock,2015,Manufacturing,"21,256.50",13.4,944.60,12.7,"28,405.50","7,759.20","50,500",9,,,,,,,https://www.reddit.com/user/westrock/,1,203,2013
-184,International Paper,1898,Manufacturing,"21,161.00",-2.8,"1,504.00",-14.2,"23,940.00","12,598.10","39,000",-20,,,,,,,,,,
-185,Baker Hughes,1907,Energy,"21,156.00",3.2,-601.00,0,"34,181.00","29,385.80","55,000",-15,,,,,,,https://www.reddit.com/user/Bakerhughes303/,1,0,2022
-186,United States Steel,1901,Manufacturing,"21,065.00",3.9,"2,524.00",-39.5,"19,458.00","5,929.80","22,740",-14,https://www.reddit.com/r/TheUnitedStates/,"1,800",https://www.reddit.com/r/UnitedSteelWorkers/,,,,,,,
-187,NextEra Energy,1925,Energy,"20,956.00",22.8,"4,147.00",16.1,"158,935.00","153,196.10","15,300",28,,,,,,,https://www.reddit.com/user/NextEra/,1,0,2017
-188,Targa Resources,2003,Energy Infrastructure,"20,929.80",23.5,"1,195.50",1579.1,"19,560.00","16,506.80","2,850",28,,,,,,,https://www.reddit.com/user/_Targa/,1,0,2021
-189,Lear,1917,Automotive,"20,891.50",8.5,327.70,-12.4,"13,763.00","8,248.10","168,700",-3,,,,,,,,,,
-190,Jones Lang LaSalle,1783,Real Estate,"20,862.10",7.7,654.50,-31.9,"15,593.70","6,925.60","103,300",-5,,,,,,,https://www.reddit.com/user/JonesLangLaSalle/,1,0,2012
-191,Goodyear Tire & Rubber,1898,Automotive,"20,805.00",19,202.00,-73.6,"22,431.00","3,121.60","74,000",18,,,,,,,,,,
-192,Marriott International,1927,Hospitality,"20,773.00",49.9,"2,358.00",114.6,"24,815.00","51,287.00","140,000",78,https://www.reddit.com/r/marriott/,"71,000",,,,,https://www.reddit.com/user/Marriott-/,1,0,2022
-193,Marsh & McLennan,1871,Professional Services,"20,720.00",4.5,"3,050.00",-3,"33,454.00","82,370.90","85,000",-16,,,,,,,,,,
-194,Altria Group,1985,Consumer Goods,"20,688.00",-2,"5,764.00",132.9,"36,954.00","79,671.90","6,300",-29,,,,,,,https://www.reddit.com/user/Altria__/,1,0,2021
-195,Coupang,2010,Retail,"20,582.60",11.8,-92.00,0,"9,512.90","28,387.90","63,000",0,https://www.reddit.com/r/Coupang/,706,,,,,https://www.reddit.com/user/coupang/,9,0,2019
-196,Carrier Global,2020,Manufacturing,"20,421.00",-0.9,"3,534.00",112.4,"26,086.00","38,199.00","52,000",-27,,,,,,,,,,
-197,Halliburton,1919,Energy,"20,297.00",32.7,"1,572.00",7.9,"23,255.00","28,605.10","45,000",44,https://www.reddit.com/r/Halliburton/,126,,,,,https://www.reddit.com/user/HalliburtonCompany/,"1,220",271,2020
-198,Delek US Holdings,2001,Energy,"20,245.80",90.1,257.10,0,"8,192.80","1,537.50","3,746",148,,,,,,,,,,
-199,Kimberly-Clark,1872,Consumer Goods,"20,175.00",3.8,"1,934.00",6.6,"17,970.00","45,293.00","44,000",-17,,,,,,,https://www.reddit.com/user/Kimberly_clark_/,1,0,2023
-200,Texas Instruments,1930,Technology,"20,028.00",9.2,"8,749.00",12.6,"27,207.00","168,774.70","33,000",-2,https://www.reddit.com/r/TexasInstruments/,872,,,,,https://www.reddit.com/user/texasInstruments_84/,354,"1,006",2023
-201,Bank of New York Mellon,1784,Financial Services,"19,991.00",23.7,"2,573.00",-31.6,"405,783.00","36,735.70","51,700",28,,,,,,,,,,
-202,ManpowerGroup,1948,Professional Services,"19,827.50",-4.3,373.80,-2.2,"9,130.40","4,191.30","30,900",-35,,,,,,,,,,2022
-203,Whirlpool,1911,Consumer Goods,"19,724.00",-10.3,"-1,519.00",-185.2,"17,124.00","7,196.50","61,000",-41,https://www.reddit.com/r/Whirlpool,367,,,,,https://www.reddit.com/user/Whirlpool/,1,0,2023
-204,Waste Management,1968,Waste Management,"19,698.00",9.9,"2,238.00",23.2,"31,367.00","66,372.20","49,500",-1,https://www.reddit.com/r/wastemanagement,366,,,,,https://www.reddit.com/user/wastemanagementra/,1,0,2023
-205,American Electric Power,1906,Utilities,"19,639.50",17,"2,307.20",-7.3,"93,469.40","46,805.90","16,974",14,,,,,,,,,,
-206,Emerson Electric,1890,Manufacturing,"19,629.00",7.6,"3,231.00",40.3,"35,672.00","49,791.80","85,500",-7,,,,,,,,,,
-207,Aflac,1955,Insurance,"19,502.00",-11.8,"4,201.00",-2.9,"131,017.00","39,467.40","12,882",-46,https://www.reddit.com/r/aflac,66,,,,,https://www.reddit.com/user/aflac/,1,0,2023
-208,Cognizant Technology Solutions,1994,Technology,"19,428.00",5,"2,290.00",7.2,"17,852.00","31,031.30","355,300",-14,,,,,,,,,,
-209,Becton Dickinson,1897,Healthcare,"19,408.00",-4.1,"1,779.00",-15,"52,934.00","70,277.00","77,000",-36,https://www.reddit.com/r/Dickinson/,407,,,,,https://www.reddit.com/user/Becton_Dickinson/,1,0,2023
-210,BJ's Wholesale Club,1984,Retail,"19,315.20",15.9,513.20,20.3,"6,350.00","10,186.00","34,000",11,https://www.reddit.com/r/BJsWholesaleClub,"5,100",,,,,https://www.reddit.com/user/BJsWholesaleClub/,1,0,2023
-211,Moderna,2010,Healthcare,"19,263.00",4.3,"8,362.00",-31.5,"25,858.00","59,232.40","3,900",-16,,,,,,,,,,
-212,DTE Energy,1995,Utilities,"19,228.00",25.1,"1,083.00",19.4,"42,683.00","22,577.10","10,250",27,https://www.reddit.com/r/DTEenergy/,1,,,,,https://www.reddit.com/user/DTE_Energy/,1,0,2023
-213,Land O'Lakes,1921,Agriculture,"19,225.70",20.8,241.20,-16.1,"9,769.60",0.00,"9,000",19,https://www.reddit.com/r/LandOLakesFL,12,,,,,,,,
-214,Kinder Morgan,1997,Energy Infrastructure,"19,200.00",15.6,"2,548.00",42.8,"70,078.00","39,362.90","10,525",9,,,,,,,https://www.reddit.com/user/kindermorgan/,,,2020
-215,Tenet Healthcare,1967,Healthcare,"19,174.00",-1.6,411.00,-55,"27,156.00","6,077.10","89,088",-34,,,,,,,,,,
-216,Devon Energy,1971,Energy,"19,169.00",57,"6,015.00",113.8,"23,721.00","33,098.90","1,800",93,,,,,,,,,,
-217,Mosaic,2004,Chemicals,"19,125.20",54.8,"3,582.80",119.7,"23,386.00","15,438.00","13,570",88,https://www.reddit.com/r/Mosaic,"5,800",,,https://www.reddit.com/r/MosaicPorn,,https://www.reddit.com/user/mosaic_kid/,"1,392","1,402",2011
-218,Exelon,2000,Utilities,"19,078.00",-47.5,"2,170.00",27.2,"95,349.00","41,651.20","19,063",-119,,,,,,,,,,
-219,General Mills,1928,Food and Beverage,"18,992.80",4.8,"2,707.30",15.7,"31,090.10","50,195.30","32,500",-18,,,,,,,https://www.reddit.com/user/GeneralMillss/,"3,368","78,210",2011
-220,Global Partners,1933,Energy,"18,877.90",42.5,362.20,495.8,"3,160.90","1,054.50","3,585",60,,,,,,,,,,
-221,Western Digital,1970,Technology,"18,793.00",11.1,"1,500.00",82.7,"26,259.00","12,028.90","65,000",-4,https://www.reddit.com/r/WesternDigital,290,,,,,https://www.reddit.com/user/westerndigital/,33,"1,050",2018
-222,Lincoln National,1905,Insurance,"18,766.00",-5.5,"-2,241.00",-218.8,"335,108.00","3,802.40","11,316",-35,,,,,,,,,,
-223,Ross Stores,1982,Retail,"18,695.80",-1.2,"1,512.00",-12.2,"13,416.50","36,301.60","101,000",-34,,,,,,,https://www.reddit.com/user/Ross-Stores/,1,0,2019
-224,Stryker,1941,Medical Equipment,"18,449.00",7.8,"2,358.00",18.3,"36,884.00","108,228.00","51,000",-10,https://www.reddit.com/r/Stryker/,9,,,,,https://www.reddit.com/user/stryker2004/,"8,215","10,330",2019
-225,Kyndryl Holdings,2021,Technology,"18,317.00",0,"-2,054.00",0,"13,442.00","3,358.00","90,000",0,https://www.reddit.com/r/kyndryl,602,,,,,https://www.reddit.com/user/Kyndryl/,1,0,2021
-226,Kohl's,1962,Retail,"18,098.00",-6.9,-19.00,-102,"14,345.00","2,606.90","66,500",-43,,,,,,,,,,
-227,Stanley Black & Decker,1843,Manufacturing,"18,003.70",4.4,"1,062.50",-37.1,"24,963.30","12,333.20","54,200",-15,,,,,,,,,,
-228,Colgate-Palmolive,1806,Consumer Goods,"17,967.00",3.1,"1,785.00",-17.6,"15,731.00","62,535.10","33,800",-17,,,,,,,,,,
-229,BlackRock,1988,Financial Services,"17,873.00",-7.7,"5,178.00",-12.3,"117,628.00","100,526.20","19,800",-45,https://www.reddit.com/r/blackrock,327,,,,,https://www.reddit.com/user/Blackrock_38/,43,"15,572",2022
-230,Estée Lauder,1946,Consumer Goods,"17,737.00",9.3,"2,530.00",89.7,"83,869.00","70,997.10","41,000",-3,,,,,,,,,,
-230,Fiserv,1984,Technology,"17,737.00",9.4,"2,390.00",-16.7,"20,910.00","88,040.50","53,865",-2,https://www.reddit.com/r/Fiserv,194,,,,,https://www.reddit.com/user/Fiserv/,1,1,2023
-232,PPG Industries,1883,Chemicals,"17,652.00",5.1,"1,026.00",-28.7,"20,744.00","31,439.10","52,000",-14,,,,,,,,,,
-233,Adobe,1982,Technology,"17,606.00",11.5,"4,756.00",-1.4,"27,165.00","176,769.20","29,239",2,https://www.reddit.com/r/Adobe,"19,000",https://www.reddit.com/r/AdobeExpress/,,https://www.reddit.com/r/AfterEffects,https://www.reddit.com/r/FuckAdobe,https://www.reddit.com/user/adobe/,"1,758",182,2019
-234,Block,2009,Technology,"17,531.60",-0.7,-540.70,-425.2,"31,364.30","41,329.10","12,428",-26,https://www.reddit.com/r/BLOCK,294,,,,,https://www.reddit.com/user/block/,1,0,2009
-235,Synchrony Financial,2003,Financial Services,"17,526.00",11.3,"3,016.00",-28.5,"104,564.00","12,709.00","18,500",1,,,,,,,https://www.reddit.com/user/synchronyfinancial/,1,0,2022
-236,Principal Financial,1879,Financial Services,"17,491.60",22.6,"4,811.60",181.3,"292,239.60","18,067.50","19,300",20,,,,,,,,,,
-237,Lumen Technologies,1968,Telecommunications,"17,478.00",-11.2,"-1,548.00",-176.1,"45,581.00","2,653.50","29,000",-58,https://www.reddit.com/r/LumenTechnologies,256,,,,,https://www.reddit.com/user/lumentechnologies/,1,0,2021
-238,Corteva,2019,Chemicals,"17,455.00",11.5,"1,147.00",-34.8,"42,618.00","42,977.20","21,000",-1,https://www.reddit.com/r/farming,"161,000",,,,,https://www.reddit.com/user/Corteva/,1,0,2013
-239,Andersons,1947,Agriculture,"17,350.50",36.3,131.10,26.1,"4,608.00","1,395.60","2,244",56,,,,,,,,,,
-240,Lam Research,1980,Technology,"17,227.00",17.8,"4,605.30",17.8,"17,195.60","71,532.40","17,700",10,,,,,,,,,,
-241,Edison International,1886,Utilities,"17,220.00",15.5,612.00,-19.4,"78,041.00","27,009.70","13,110",2,,,,,,,,,,
-242,Dominion Energy,1983,Utilities,"17,174.00",20.8,994.00,-69.8,"104,243.00","46,698.90","17,200",15,https://www.reddit.com/r/DominionEnergy/,2,,,,,https://www.reddit.com/user/dominionenergysolu/,1,0,2023
-243,Booking Holdings,1997,Technology,"17,090.00",56,"3,058.00",162.5,"25,361.00","99,858.90","21,492",97,,,,,,,,,,
-244,Quanta Services,1997,Construction and Engineering,"17,073.90",31.5,491.20,1.1,"13,464.30","23,996.20","47,300",41,,,,,,,,,,
-245,Expeditors International of Washington,1979,Transportation and Logistics,"17,071.30",3.3,"1,357.40",-4.1,"5,590.40","17,008.70","20,302",-20,,,,,,,,,,
-246,L3Harris Technologies,1895,Aerospace and Defense,"17,062.00",-4.2,"1,062.00",-42.5,"33,524.00","37,277.10","46,000",-40,https://www.reddit.com/r/L3Harris,"2,300",,,,,https://www.reddit.com/user/l3harris/,1,0,2019
-247,Reliance Steel & Aluminum,1939,Manufacturing,"17,025.00",20.8,"1,840.10",30.2,"10,329.90","15,142.40","14,750",14,,,,,,,,,,
-248,Live Nation Entertainment,2005,Media and Entertainment,"16,681.30",166.1,296.00,0,"16,460.80","16,211.40","20,550",0,https://www.reddit.com/r/LiveNation,53,,,,https://www.reddit.com/r/FuckLiveNation,https://www.reddit.com/user/Live_Nation/,,,2023
-249,DISH Network,1980,Telecommunications,"16,679.40",-6.7,"2,303.20",-4.5,"52,606.60","4,955.60","14,200",-44,https://www.reddit.com/r/dishnetwork,"3,000",,,,,https://www.reddit.com/user/DISH_Network/,1,0,2011
-250,DuPont,1802,Chemicals,"16,549.00",-3.6,"5,868.00",-9.3,"41,355.00","32,894.90","23,000",-37,https://www.reddit.com/r/DuPont,261,,,,https://www.reddit.com/r/fuckdupont,https://www.reddit.com/user/dupont28/,67,604,2018
-251,Automatic Data Processing,1949,Technology,"16,498.30",9.9,"2,948.90",13.5,"63,068.20","92,247.10","60,000",-9,,,,,,,,,,
-252,Group 1 Automotive,1997,Retail,"16,412.30",18.9,751.50,36.1,"6,717.50","3,194.20","15,491",21,,,,,,,,,,
-253,Aramark,1936,Professional Services,"16,326.60",35,194.50,0,"15,082.40","9,326.40","273,875",61,https://www.reddit.com/r/Aramark/,313,,,https://www.reddit.com/r/UnionizeAutoZone,https://www.reddit.com/r/Aramark,https://www.reddit.com/user/Aramark312/,1,0,2023
-254,Thor Industries,1980,Automotive,"16,312.50",32.4,"1,137.80",72.4,"7,408.10","4,262.30","32,000",52,,,,,,,,,,
-255,DXC Technology,2017,Technology,"16,265.00",-8.3,718.00,0,"20,139.00","5,819.60","130,000",-48,,,,,,,,,,
-256,Viatris,2020,Healthcare,"16,262.70",-9.1,"2,078.60",0,"50,022.20","11,513.40","37,000",-52,,,,,,,,,,
-257,Reinsurance Group of America,1973,Insurance,"16,258.00",-2.4,623.00,1,"84,706.00","8,876.40","3,800",-35,,,,,,,,,,
-258,AutoZone,1979,Retail,"16,252.20",11.1,"2,429.60",11.9,"15,275.00","45,224.30","90,720",-9,https://www.reddit.com/r/AutoZone,"5,200",,,,,,,,
-259,PulteGroup,1950,Construction and Engineering,"16,229.00",16.5,"2,617.30",34.5,"14,796.50","13,072.80","6,524",8,,,,,,,,,,
-260,Illinois Tool Works,1912,Manufacturing,"15,932.00",10.2,"3,034.00",12.6,"15,422.00","74,208.70","46,000",-8,,,,,,,,,,
-261,Parker-Hannifin,1917,Manufacturing,"15,861.60",10.6,"1,315.60",-24.7,"25,943.90","43,111.50","55,090",-8,,,,,,,,,,
-262,BorgWarner,1928,Automotive,"15,801.00",6.5,944.00,75.8,"16,994.00","11,481.20","52,700",-18,,,,,,,https://www.reddit.com/user/BorgWarner/,2,9,2014
-263,Westlake,1986,Chemicals,"15,794.00",34.1,"2,247.00",11.5,"20,550.00","14,812.30","15,920",57,,,,,,,https://www.reddit.com/user/Westlake315/,1,0,2022
-264,Consolidated Edison,1824,Utilities,"15,670.00",14.6,"1,660.00",23.3,"69,065.00","33,967.20","14,319",12,,,,,,,,,,
-265,Gap,1969,Apparel,"15,616.00",-6.3,-202.00,-178.9,"11,386.00","3,693.00","95,000",-45,,,,,,,,,,
-266,Opendoor Technologies,2014,Real Estate,"15,567.00",94.1,"-1,353.00",0,"6,608.00","1,130.90","2,570",159,https://www.reddit.com/r/OPENDOORTECH/,"1,100",,,,,,,,
-267,Nordstrom,1901,Retail,"15,530.00",5,245.00,37.6,"8,745.00","2,605.70","60,000",-22,https://www.reddit.com/r/Nordstrom1901/,"5,000",,,,,https://www.reddit.com/user/Nordstrom1901/,48,"4,302",2014
-268,Asbury Automotive Group,1995,Retail,"15,433.80",56.9,997.30,87.3,"8,021.40","4,556.70","13,000",92,,,,,,,,,,
-269,Ball,1880,Manufacturing,"15,349.00",11.1,719.00,-18.1,"19,909.00","17,326.30","21,000",3,,,,,,,https://www.reddit.com/user/ball/,1,0,2007
-270,Kellogg,1906,Food and Beverage,"15,315.00",8,960.00,-35.5,"18,496.00","22,945.10","30,000",-12,https://www.reddit.com/r/kellogg/,81,,,,,https://www.reddit.com/user/kellogg76/,"1,569","9,539",2010
-271,Xcel Energy,1909,Utilities,"15,310.00",14,"1,736.00",8.7,"61,188.00","37,081.70","11,982",7,,,,,,,https://www.reddit.com/user/XcelEnergy/,1,0,2024
-272,W.W. Grainger,1927,Wholesale,"15,228.00",16.9,"1,547.00",48.3,"7,588.00","34,621.50","24,500",12,,,,,,,,,,
-273,Discover Financial Services,1985,Financial Services,"15,202.00",15,"4,392.00",-19.4,"131,628.00","25,635.20","20,200",8,,,,,,,,,,
-274,Baxter International,1931,Healthcare,"15,113.00",18.2,"-2,433.00",-289.5,"28,287.00","20,504.00","60,000",18,,,,,,,,,,
-275,Southwestern Energy,1929,Energy,"15,002.00",125,"1,849.00",0,"12,926.00","5,506.30","1,118",211,,,,,,,,,,
-276,DCP Midstream,2005,Energy Infrastructure,"14,993.00",40,"1,052.00",169.1,"13,334.00","8,700.70","1,910",68,,,,,,,https://www.reddit.com/user/dcp-/,95,0,2021
-277,Jacobs Solutions,1947,Construction and Engineering,"14,922.80",5.9,644.00,35,"14,660.40","14,890.20","58,350",-15,,,,,,,https://www.reddit.com/user/JacobsSolutions/,1,0,2019
-278,Laboratory Corp. of America,1978,Healthcare,"14,876.80",-7.7,"1,279.10",-46.2,"20,155.10","20,303.90","75,200",-48,,,,,,,,,,
-279,CSX,1980,Transportation,"14,853.00",18.6,"4,166.00",10.2,"41,912.00","61,330.00","22,542",19,https://www.reddit.com/r/CSX,56,,,,,,,,
-280,J.B. Hunt Transport Services,1961,Transportation,"14,814.00",21.7,969.40,27.4,"7,786.60","18,207.50","37,151",31,,,,,,,,,,
-281,Guardian Life Ins. Co. of America,1860,Insurance,"14,653.00",0,71.00,-75.4,"91,620.00",0.00,"8,025",-34,,,,,,,,,,
-282,Jackson Financial,1961,Financial Services,"14,551.00",57.4,"5,697.00",79,"311,058.00","3,078.10","3,435",113,,,,,,,,,,
-283,Fidelity National Information Services,1968,Technology,"14,528.00",4.7,"-16,720.00",-4109.6,"63,278.00","32,159.90","69,000",-15,,,,,,,,,,
-284,Berry Global Group,1967,Manufacturing,"14,495.00",4.7,766.00,4.5,"16,956.00","7,150.50","46,000",-13,,,,,,,,,,
-285,Sempra,1998,Utilities,"14,439.00",12.3,"2,138.00",62.3,"78,574.00","47,562.50","15,785",3,,,,,,,https://www.reddit.com/user/Sempra15/,1,0,2021
-286,IQVIA Holdings,2016,Healthcare,"14,410.00",3.9,"1,091.00",12.9,"25,337.00","37,021.60","86,000",-17,,,,,,,,,,
-287,O'Reilly Automotive,1957,Retail,"14,409.90",8.1,"2,172.70",0.4,"12,628.00","52,269.30","79,679",-8,,,,,,,,,,
-288,Leidos Holdings,1969,Professional Services,"14,396.00",4.8,685.00,-9,"13,071.00","12,630.00","45,000",-14,,,,,,,,,,
-289,Ameriprise Financial,1894,Financial Services,"14,347.00",6.7,"2,559.00",-7.3,"158,468.00","32,227.80","13,500",-12,,,,,,,https://www.reddit.com/user/AmeripriseFinancial/,1,0,2016
-290,Omnicom Group,1986,Professional Services,"14,289.10",0,"1,316.50",-6.5,"27,002.50","19,000.90","74,200",-35,https://www.reddit.com/r/OmnicomGroup/,1,,,,,,,,
-291,Tractor Supply,1938,Retail,"14,204.70",11.6,"1,088.70",9.2,"8,490.00","25,829.80","36,500",3,https://www.reddit.com/r/tractorsupply/,"2,000",,,,,https://www.reddit.com/user/tractorsupply/,1,0,2020
-292,Corning,1851,Technology,"14,189.00",0.8,"1,316.00",-31,"29,499.00","29,890.30","57,500",-29,https://www.reddit.com/r/Corning/,673,,,,,,,,
-293,Ecolab,1923,Chemicals,"14,187.80",11.4,"1,091.70",-3.4,"21,464.30","47,121.30","47,000",0,https://www.reddit.com/r/ecolab/,5,,,,,https://www.reddit.com/user/EcoLab420/,1,164,2021
-294,Icahn Enterprises,1987,Conglomerate,"14,101.00",24.5,-183.00,0,"27,914.00","18,283.20","20,041",34,,,,,,,,,,
-295,Farmers Insurance Exchange,1928,Insurance,"14,092.30",0.3,-314.20,0,"22,979.20",0.00,"11,344",-31,https://www.reddit.com/r/farmersinsurance,"1,000",https://www.reddit.com/r/FIG_employees,514,,,,,,
-296,Keurig Dr Pepper,1981,Food and Beverage,"14,057.00",10.8,"1,436.00",-33.1,"51,837.00","49,619.50","28,000",0,https://www.reddit.com/r/DrPepper,"36,000",https://www.reddit.com/r/DrPepperGang,,,,https://www.reddit.com/user/DrPepper_US/,"1,365",7,2021
-297,Loews,1954,Conglomerate,"14,044.00",-4.2,"1,012.00",-35.9,"75,494.00","13,395.40","12,050",-51,,,,,,,,,,
-298,Equitable Holdings,1859,Financial Services,"14,017.00",27,"1,785.00",0,"253,468.00","9,186.30","10,250",38,,,,,,,,,,
-299,Sonic Automotive,1997,Retail,"14,001.10",12.9,88.50,-74.6,"4,978.30","1,929.50","10,300",1,,,,,,,,,,
-300,Fox,2019,Media and Entertainment,"13,974.00",8.3,"1,205.00",-44,"22,185.00","17,550.70","10,600",-13,https://www.reddit.com/r/Fox,"5,900",,,,,https://www.reddit.com/user/Fox/,1,0,2006
-301,American Family Insurance Group,1927,Insurance,"13,813.80",-5.5,"-1,904.40",-359.3,"36,087.70",0.00,"12,990",-50,,,,,,,,,,
-302,Entergy,1913,Utilities,"13,764.20",17.2,"1,103.20",-1.4,"58,595.20","22,850.70","11,707",19,,,,,,https://www.reddit.com/r/fuckentergy,https://www.reddit.com/user/entergy/,1,0,2010
-303,Fluor,1912,Construction and Engineering,"13,744.00",-2.9,145.00,0,"6,827.00","4,392.30","39,576",-44,,,,,,,,,,
-304,Vistra,2016,Energy,"13,728.00",13.7,"-1,227.00",0,"32,787.00","9,154.90","4,910",11,https://www.reddit.com/r/Vistra,73,,,,,https://www.reddit.com/user/Vistraa/,"4,311","1,976",2016
-305,State Street,1792,Financial Services,"13,692.00",13.8,"2,774.00",3,"301,450.00","26,073.60","42,226",11,,,,,,,,,,
-306,Otis Worldwide,1853,Manufacturing,"13,685.00",-4.3,"1,253.00",0.6,"9,819.00","35,015.00","69,000",-52,,,,,,,,,,
-307,Peter Kiewit Sons',1884,Construction and Engineering,"13,663.00",12.5,710.00,-5.7,"7,220.00",0.00,"25,700",6,,,,,,,https://www.reddit.com/user/peter_sons/,1,0,2023
-308,Carvana,2012,Retail,"13,604.00",6.2,"-1,587.00",0,"8,698.00","1,760.80","16,600",-18,https://www.reddit.com/r/carvana,"24,000",https://www.reddit.com/r/carvanaemployees,,,,https://www.reddit.com/user/Carvana/,943,206,2023
-309,Republic Services,1998,Waste Management,"13,511.30",19.6,"1,487.60",15.3,"29,052.90","42,762.50","40,000",20,https://www.reddit.com/r/RepublicServices,52,,,,,https://www.reddit.com/user/republic_services/,2,0,2017
-310,AECOM,1990,Construction and Engineering,"13,495.60",-4.4,310.60,79.4,"11,139.30","11,716.30","50,000",-50,,,,,,,,,,
-311,Universal Health Services,1979,Healthcare,"13,399.40",6,675.60,-31.9,"13,494.20","8,982.20","82,500",-14,https://www.reddit.com/r/UniversalHealthCare/,"1,700",,,,,,,,
-312,Pacific Life,1868,Insurance,"13,360.00",-4.1,763.00,-30.8,"199,324.00",0.00,"3,950",-46,,,,,,,https://www.reddit.com/user/PacificLife/,1,0,2009
-313,VMware,1998,Technology,"13,350.00",3.9,"1,314.00",-27.8,"31,237.00","53,496.10","38,300",0,https://www.reddit.com/r/vmware,"146,000",,,,,https://www.reddit.com/user/VMware_Official/,104,0,2019
-314,Western & Southern Financial Group,1888,Insurance,"13,156.10",39.3,309.20,-14.4,"69,147.20",0.00,"2,594",58,,,,,,,,,,
-315,MGM Resorts International,1986,Hospitality,"13,127.50",35.6,"1,473.10",17.4,"45,692.20","16,563.90","66,000",49,https://www.reddit.com/r/MGMresorts,26,,,,,https://www.reddit.com/user/_MGM_/,14,"8,105",2017
-316,Casey's General Stores,1968,Retail,"12,952.60",48.8,339.80,8.6,"5,505.70","8,065.80","31,466",129,https://www.reddit.com/r/Caseys,"1,100",,,,,https://www.reddit.com/user/generalStores/,1,0,2019
-317,Crown Holdings,1892,Manufacturing,"12,943.00",-0.3,727.00,0,"14,301.00","9,934.10","26,000",-31,,,,,,,,,,
-318,Textron,1923,Aerospace and Defense,"12,869.00",3.9,861.00,15.4,"16,293.00","14,384.50","34,000",-16,https://www.reddit.com/r/textron,2,,,,,https://www.reddit.com/user/TexTronic/,1,0,2022
-319,LKQ,1998,Automotive,"12,794.00",-2.3,"1,149.00",5.3,"12,038.00","15,171.40","45,000",-36,,,,,,,https://www.reddit.com/user/lkqlkq/,1,0,2023
-320,Norfolk Southern,1982,Transportation,"12,745.00",14.4,"3,270.00",8.8,"38,885.00","48,257.20","19,300",12,https://www.reddit.com/r/norfolksouthern,378,,,,,https://www.reddit.com/user/NorfolkSouthern/,904,"5,139",2012
-321,Intuit,1983,Technology,"12,726.00",32.1,"2,066.00",0.2,"27,734.00","125,076.00","21,850",45,,,,,,,https://www.reddit.com/user/Intuit_Official/,44,0,2019
-322,Air Products & Chemicals,1940,Chemicals,"12,698.60",23,"2,256.10",7.5,"27,192.60","63,784.40","20,805",28,,,,,,,,,,
-323,Boston Scientific,1979,Healthcare,"12,682.00",6.7,698.00,-32.9,"32,469.00","71,909.50","45,000",-4,,,,,,,https://www.reddit.com/user/BostonScientific/,1,58,2021
-324,AGCO,1990,Manufacturing,"12,651.40",13.6,889.60,-0.8,"10,103.70","10,119.20","25,600",10,https://www.reddit.com/r/AGCO,3,,,,,,,,
-325,Henry Schein,1932,Healthcare,"12,647.00",2,538.00,-14.8,"8,607.00","10,704.90","22,000",-26,,,,,,,https://www.reddit.com/user/HenrySchein531/,1,0,2019
-326,Amphenol,1932,Manufacturing,"12,623.00",16.1,"1,902.30",19.6,"15,326.20","48,591.10","91,000",15,,,,,,,https://www.reddit.com/user/Amphenol/,1,104,2014
-327,AES,1981,Energy,"12,617.00",13.2,-546.00,0,"38,363.00","16,110.30","9,100",6,https://www.reddit.com/r/AES,562,,,,,,,,
-328,Mutual of Omaha Insurance,1909,Insurance,"12,530.60",8.1,-177.20,-200.2,"45,139.60",0.00,"6,350",-4,,,,,,,https://www.reddit.com/user/MutualOfOmahas/,1,4,2021
-329,Ovintiv,2002,Energy,"12,464.00",44,"3,637.00",156.9,"15,056.00","8,771.90","1,744",71,,,,,,,,,,
-330,Hormel Foods,1891,Food and Beverage,"12,458.80",9.4,"1,000.00",10,"13,306.90","21,795.70","20,000",-3,,,,,,,https://www.reddit.com/user/HormelFoods/,1,4,2011
-331,Alcoa,1888,Manufacturing,"12,451.00",2.5,-123.00,-128.7,"14,756.00","7,590.80","13,100",-19,,,,,,,,,,
-332,International Flavors & Fragrances,1958,Chemicals,"12,440.00",6.7,"-1,871.00",-793,"35,407.00","23,456.00","24,600",-10,,,,,,,,,,
-333,Jones Financial (Edward Jones),1922,Financial Services,"12,411.00",0.3,"1,404.00",-12.5,"29,892.00",0.00,"52,000",-30,,,,,,,,,,
-334,Dick's Sporting Goods,1948,Retail,"12,368.20",0.6,"1,043.10",-31.4,"8,992.20","12,148.40","35,800",-27,https://www.reddit.com/r/dickssportinggoods,"1,600",,,,,,,,
-335,Eversource Energy,1966,Utilities,"12,289.30",24.6,"1,404.90",15.1,"53,230.90","27,287.20","9,626",23,,,,,,,,,,
-336,Wayfair,2002,Retail,"12,218.00",-10.9,"-1,331.00",0,"3,580.00","3,795.80","15,745",-61,https://www.reddit.com/r/wayfair,"7,300",,,,,https://www.reddit.com/user/wayfair/,3,7,2018
-337,Community Health Systems,1985,Healthcare,"12,211.00",-1.3,46.00,-80,"14,669.00",670.10,"58,500",-33,,,https://www.reddit.com/r/CommunityHealthWorker/,137,,,https://www.reddit.com/user/community_health_/,1,0,2023
-338,Ally Financial,1919,Financial Services,"12,199.00",14.1,"1,714.00",-44,"191,826.00","7,667.70","11,600",7,https://www.reddit.com/r/allyinvest,274,,,,,https://www.reddit.com/user/allyfinancial/,688,289,2018
-339,Regeneron Pharmaceuticals,1988,Healthcare,"12,172.90",-24.3,"4,338.40",-46.3,"29,214.50","89,829.50","11,851",-108,,,,,,,,,,
-340,Liberty Media,1991,Media and Entertainment,"12,164.00",6.7,"1,815.00",356,"42,464.00","9,129.70","7,283",-14,,,,,,,https://www.reddit.com/user/LIBERTY__MEDIA/,1,72,2018
-341,APA,1954,Energy,"12,132.00",53,"3,674.00",277.6,"13,147.00","11,213.00","2,273",90,https://www.reddit.com/r/APA,476,,,,,,,,
-342,Qurate Retail,1991,Retail,"12,106.00",-13.8,"-2,594.00",-862.9,"12,571.00",406.00,"24,683",-77,,,,,,,https://www.reddit.com/user/qurate/,1,0,2015
-343,FirstEnergy,1997,Utilities,"12,053.00",12,406.00,-68.4,"46,108.00","22,924.10","12,335",0,https://www.reddit.com/r/firstenergy,44,,,,,https://www.reddit.com/user/First_Energy/,1,0,2020
-344,Analog Devices,1965,Technology,"12,014.00",64.2,"2,748.60",97.7,"50,302.40","99,764.20","24,450",119,,,,,,,https://www.reddit.com/user/AnalogDevices/,1,0,2022
-345,Ryder System,1933,Transportation and Logistics,"12,011.00",24.3,867.00,67,"14,395.00","4,147.30","48,300",20,,,,,,,https://www.reddit.com/user/RyderSystem/,1,0,2015
-346,Avis Budget Group,1946,Transportation,"11,994.00",28.8,"2,764.00",115.1,"25,927.00","7,688.90","21,500",32,,,,,,,,,,
-347,Unum Group,1848,Insurance,"11,991.00",-0.2,"1,314.20",59.5,"61,434.90","7,805.00","10,801",-30,https://www.reddit.com/r/unumgroup,1,,,,,https://www.reddit.com/user/unum_terram/,"6,244","12,420",2021
-348,Newmont,1921,Mining,"11,915.00",-2.5,-429.00,-136.8,"38,482.00","38,946.80","14,600",-40,,,,,,,https://www.reddit.com/user/NewMonth10/,1,0,2022
-349,VF,1899,Apparel,"11,841.80",28.2,"1,386.90",240,"13,342.20","8,904.10","27,650",31,,,,,,,,,,
-350,Chesapeake Energy,1989,Energy,"11,743.00",102.2,"4,936.00",0,"15,468.00","10,244.10","1,200",0,,,,,,,https://www.reddit.com/user/chesapeake_energy/,3,0,2013
-351,Mohawk Industries,1878,Manufacturing,"11,737.10",4.8,25.20,-97.6,"14,120.40","6,368.00","40,900",-21,https://www.reddit.com/r/Mohawks/,"2,300",,,,,https://www.reddit.com/user/Mohawk-/,1,0,2021
-352,Markel,1930,Insurance,"11,675.30",-9.1,-214.10,-108.8,"49,791.30","17,094.40","20,900",-63,https://www.reddit.com/r/markel,1,,,,,https://www.reddit.com/r/markel,"9,280","147,194",2015
-353,Expedia Group,1996,Technology,"11,667.00",35.7,352.00,2833.3,"21,561.00","14,879.40","16,500",51,,,,,,,https://www.reddit.com/user/Expedia_Group/,1,0,2022
-354,Caesars Entertainment,1937,Hospitality,"11,647.00",4.8,-899.00,0,"33,527.00","10,503.00","49,000",-19,,,,,,,,,,
-355,United Rentals,1997,Rental Services,"11,642.00",19.8,"2,105.00",51.9,"24,183.00","27,459.80","24,600",8,https://www.reddit.com/r/unitedrentals,1,,,,,https://www.reddit.com/user/RentalsUnited/,1,0,2018
-356,Apollo Global Management,1990,Financial Services,"11,627.00",27.4,"-3,213.00",-274.8,"259,333.00","36,042.40","4,258",30,,,,,,,https://www.reddit.com/user/apollo_global/,1,0,2024
-357,DaVita,1999,Healthcare,"11,609.90",-0.1,560.40,-42.7,"16,928.30","7,332.30","70,000",-34,,,,,,,https://www.reddit.com/user/davitag/,"2,063","1,149",2018
-358,Hess,1919,Energy,"11,570.00",52.6,"2,096.00",275,"21,695.00","40,519.90","1,623",89,https://www.reddit.com/r/Hessen,"1,800",,,,,,,,
-359,Fidelity National Financial,1847,Insurance,"11,556.00",-26.1,"1,136.00",-53.1,"65,589.00","9,508.20","21,759",-121,https://www.reddit.com/r/Fidelity,"28,000",,,,,,,,
-360,Conagra Brands,1919,Food and Beverage,"11,535.90",3.1,888.20,-31.6,"22,435.10","17,901.90","18,000",-29,,,,,,,,,,
-361,Univar Solutions,1924,Chemicals,"11,475.30",20.3,545.30,18.4,"7,145.70","5,520.50","9,746",8,,,,,,,https://www.reddit.com/user/univar/,1,0,2015
-362,Auto-Owners Insurance,1916,Insurance,"11,407.20",3.9,-54.50,-104.1,"33,219.40",0.00,"6,733",-23,,,,,,,https://www.reddit.com/user/AutoOwnersIns/,1,0,2015
-363,Raymond James Financial,1962,Financial Services,"11,308.00",14.1,"1,509.00",7.6,"80,951.00","20,085.80","17,000",-7,,,,,,,https://www.reddit.com/user/RaymondJames12/,1,284,2022
-364,Seaboard,1918,Agriculture,"11,243.00",21.8,580.00,1.8,"7,902.00","4,376.10","12,614",18,,,,,,,https://www.reddit.com/user/SeaBoard111/,1,0,2023
-365,CF Industries Holdings,1946,Chemicals,"11,185.50",71.1,"3,345.80",264.8,"13,312.50","14,206.20","2,659",127,,,,,,,,,,
-366,S&P Global,1860,Financial Services,"11,181.00",34.8,"3,248.00",7.4,"61,784.00","113,066.40","39,950",51,,,,,,,,,,
-367,W.R. Berkley,1967,Insurance,"11,166.50",18.1,"1,381.10",35.1,"33,861.10","16,402.20","8,186",4,https://www.reddit.com/r/berkley,240,,,,,https://www.reddit.com/user/Berkley-/,1,0,2022
-368,Advance Auto Parts,1932,Retail,"11,154.70",1.4,501.90,-18.5,"12,018.50","7,208.30","53,500",-31,https://www.reddit.com/r/advanceautoparts,533,,,,,https://www.reddit.com/user/advanceautoparts/,8,0,2023
-369,EMCOR Group,1994,Construction and Engineering,"11,076.10",11.8,406.10,5.9,"5,524.60","7,753.60","35,500",-12,,,,,,,,,,
-370,Williams,1908,Energy Infrastructure,"10,965.00",3.2,"2,049.00",35.1,"48,433.00","36,393.70","5,043",-23,https://www.reddit.com/r/Williams,115,,,,,,,,
-371,Interpublic Group,1961,Media and Entertainment,"10,927.80",6.7,938.00,-1.6,"18,845.00","14,341.40","58,400",-18,,,,,,,,,,
-372,TravelCenters of America,1972,Transportation,"10,845.00",47.8,164.10,180.3,"3,652.90","1,306.30","17,195",89,,,,,,,,,,
-373,American Tower,1995,Telecommunications,"10,711.10",14.5,"1,765.80",-31.2,"67,194.50","95,150.10","6,391",2,,,,,,,,,,
-374,Molson Coors Beverage,2005,Food and Beverage,"10,701.00",4.1,-175.30,-117.4,"25,868.30","11,359.80","16,600",-22,,,,,,,https://www.reddit.com/user/Molson_Coors/,38,430,2023
-375,Huntington Ingalls Industries,2011,Aerospace and Defense,"10,676.00",12.1,579.00,6.4,"10,857.00","8,265.40","43,000",-5,,,,,,,,,,
-376,NVR,1948,Construction and Engineering,"10,580.30",18,"1,725.60",39.5,"5,661.00","18,095.80","6,550",13,,,,,,,,,,
-377,Eastman Chemical,1920,Chemicals,"10,580.00",1,793.00,-7.5,"14,667.00","10,048.10","14,500",-28,,,,,,,,,,
-378,Graybar Electric,1869,Wholesale,"10,534.40",20.2,452.90,72.6,"3,749.10",0.00,"9,400",21,,,,,,,https://www.reddit.com/user/Graybar-Electric/,1,0,2019
-379,Insight Enterprises,1988,Technology,"10,431.20",10.5,280.60,27.9,"5,112.60","4,833.10","13,448",-6,,,,,,,https://www.reddit.com/user/Insight_Enterprises/,4,14,2017
-380,Hershey,1894,Food and Beverage,"10,419.30",16.1,"1,644.80",11.3,"10,948.80","51,908.80","18,970",8,https://www.reddit.com/r/Hershey,"10,000",,,,,,,,
-381,News Corp.,2013,Media and Entertainment,"10,385.00",11,623.00,88.8,"17,221.00","9,971.60","25,500",-7,,,found,,,,https://www.reddit.com/user/NewsCorporation/,1,0,2021
-382,Toll Brothers,1967,Construction and Engineering,"10,275.60",16.9,"1,286.50",54.3,"12,288.70","6,647.30","5,200",15,https://www.reddit.com/r/TollBrothers,3,,,,,https://www.reddit.com/user/TollBrothers/,1,0,2015
-383,Ulta Beauty,1990,Retail,"10,208.60",18.3,"1,242.40",26,"5,370.40","27,390.00","35,750",19,https://www.reddit.com/r/Ulta/,"83,000",,,,,https://www.reddit.com/user/ultabeauty/,242,42,2018
-384,Assurant,1892,Insurance,"10,193.00",-10.7,276.60,-79.7,"33,123.80","6,354.20","13,700",-59,https://www.reddit.com/r/Assurant,384,,,,,https://www.reddit.com/user/assurant/,1,1,2016
-385,Weyerhaeuser,1900,Agriculture,"10,184.00",-0.2,"1,880.00",-27.9,"17,340.00","22,082.00","9,264",-31,,,,,,,https://www.reddit.com/user/Weyerhaeuser9797/,1,0,2017
-386,Biogen,1978,Healthcare,"10,173.40",-7.4,"3,046.90",95.8,"24,554.10","40,171.30","8,725",-48,,,,,,,,,,
-387,Dana,1904,Automotive,"10,156.00",13.5,-242.00,-222.8,"7,449.00","2,172.20","41,800",4,,,,,,,,,,
-388,UGI,1882,Energy,"10,106.00",35.7,"1,073.00",-26.9,"17,575.00","7,284.20","10,000",67,,,,,,,,,,
-389,Chewy,2011,Retail,"10,098.90",13.6,49.20,0,"2,515.10","15,959.20","19,400",5,,,,,,,https://www.reddit.com/user/chewy2728/,30,37,2018
-390,Owens & Minor,1882,Healthcare,"9,955.50",1.7,22.40,-89.9,"5,386.30","1,108.60","22,500",-29,,,,,,,https://www.reddit.com/user/owens/,1,0,2008
-391,Quest Diagnostics,1967,Healthcare,"9,883.00",-8.4,946.00,-52.6,"12,837.00","15,750.00","44,500",-49,https://www.reddit.com/r/QuestDiagnostics,2,,,,,https://www.reddit.com/user/QuestDiagnostics/,3,0,2020
-392,Public Service Enterprise Group,1903,Utilities,"9,800.00",0.8,"1,031.00",0,"48,718.00","31,148.20","12,525",-30,,,,,,,,,,
-393,Ebay,1995,Technology,"9,795.00",-21,"-1,269.00",-109.3,"20,850.00","23,821.40","11,600",-92,https://www.reddit.com/r/Ebay,"168,000",,,,,https://www.reddit.com/user/Ebays/,"5,204","7,949",2011
-394,MasTec,1968,Construction and Engineering,"9,778.00",23,33.40,-89.9,"9,293.30","7,441.00","32,000",35,,,,,,,https://www.reddit.com/user/Mastec14_/,1,0,2022
-395,Owens Corning,1938,Manufacturing,"9,761.00",14.9,"1,241.00",24.7,"10,752.00","8,696.50","19,000",13,,,,,,,https://www.reddit.com/user/OwensCorning/,1,0,2022
-396,Celanese,1918,Chemicals,"9,673.00",13.3,"1,894.00",0.2,"26,272.00","12,067.70","13,263",10,,,,,,,https://www.reddit.com/user/Celanese/,1,0,2018
-397,Altice USA,2001,Telecommunications,"9,647.70",-4.4,194.60,-80.4,"33,665.00","1,559.80","11,000",-42,https://www.reddit.com/r/AlticeUSA/,370,,,,,https://www.reddit.com/user/Altice101/,1,0,2022
-398,Alaska Air Group,1932,Transportation,"9,646.00",56.2,58.00,-87.9,"14,186.00","5,348.40","24,196",0,,,,,,,https://www.reddit.com/user/AlaskaAir/,9,0,2022
-399,SpartanNash,1917,Food and Beverage,"9,643.10",8,34.50,-53.2,"2,306.60",869.50,"14,000",-7,https://www.reddit.com/r/SpartanNash/,10,,,,,https://www.reddit.com/user/NashSpartan/,1,0,2017
-400,Diamondback Energy,2007,Energy,"9,643.00",41.9,"4,386.00",101,"26,209.00","24,815.90",972,79,,,,,,,https://www.reddit.com/user/Diamondback-/,1,0,2021
-401,Intercontinental Exchange,2000,Financial Services,"9,636.00",5.1,"1,446.00",-64.4,"194,338.00","58,371.60","8,911",-17,,,,,,,https://www.reddit.com/user/_Intercontinental/,1,12,2021
-402,Darden Restaurants,1968,Food and Beverage,"9,630.00",33.8,952.80,51.4,"10,135.80","18,883.80","178,956",63,,,,,,,,,,
-403,UFP Industries,1955,Manufacturing,"9,626.70",11.5,692.70,29.3,"3,672.10","4,964.30","15,500",-2,,,,,,,https://www.reddit.com/user/ufp01/,1,0,2021
-404,WEC Energy Group,1987,Utilities,"9,597.40",15.4,"1,408.10",8.3,"41,872.10","29,900.00","7,022",12,,,,,,,https://www.reddit.com/user/Wec25/,5,"77,335",2012
-405,Yum China Holdings,2016,Food and Beverage,"9,569.00",-2.9,442.00,-55.4,"11,826.00","26,517.20","275,500",-46,,,,,,,,,,
-406,EnLink Midstream,2013,Energy Infrastructure,"9,542.10",42.7,361.30,1512.9,"8,651.00","5,101.70","1,132",79,,,,,,,,,,
-407,Continental Resources,1967,Energy,"9,473.70",65.6,"4,024.60",142.3,"20,878.40",0.00,"1,404",0,,,,,,,https://www.reddit.com/user/ContinentalResources/,1,0,2017
-408,Newell Brands,1903,Consumer Goods,"9,459.00",-10.7,197.00,-65.6,"13,262.00","5,145.20","28,000",-60,,,,,,,https://www.reddit.com/user/Newell_/,4,-8,2022
-409,Graphic Packaging Holding,1991,Manufacturing,"9,440.00",31.9,522.00,155.9,"10,328.00","7,828.50","24,000",57,,,,,,,https://www.reddit.com/user/Graphic-_-/,1,0,2021
-410,Olin,1892,Chemicals,"9,376.20",5.2,"1,326.90",2.3,"8,044.20","7,263.20","7,780",-17,https://www.reddit.com/r/olin/,254,,,,,https://www.reddit.com/user/oline27/,1,5,2020
-411,Fifth Third Bancorp,1858,Financial Services,"9,353.00",12.3,"2,446.00",-11.7,"207,452.00","18,143.30","19,319",4,,,,,,,,,,
-412,Thrivent Financial for Lutherans,1902,Financial Services,"9,346.80",-9.4,"1,085.40",-57.1,"110,100.40",0.00,"3,692",-61,,,,,,,,,,
-413,CenterPoint Energy,1882,Utilities,"9,321.00",11.6,"1,057.00",-28.9,"38,546.00","18,589.30","8,986",1,,,,,,,https://www.reddit.com/user/CenterpointEnergy/,1,0,2024
-414,Erie Insurance Group,1925,Insurance,"9,295.50",-3.4,-577.30,-151.1,"26,597.60",0.00,"5,997",-46,https://www.reddit.com/r/ErieInsurance/,78,,,,,https://www.reddit.com/user/ErieInsurance/,1,0,2019
-415,CommScope Holding,1976,Telecommunications,"9,228.10",7.5,"-1,286.90",0,"11,685.40","1,336.10","30,000",-10,,,,,,,,,,
-416,KLA,1975,Technology,"9,211.90",33.1,"3,321.80",59.8,"12,597.10","55,277.00","14,140",58,,,,,,,https://www.reddit.com/user/klayco47/,"29,685","8,837",2019
-417,JetBlue Airways,1998,Transportation,"9,158.00",51.7,-362.00,0,"13,045.00","2,382.50","18,785",0,https://www.reddit.com/r/jetblue/,"9,600",,,,,https://www.reddit.com/user/jetBlueAirways881/,197,651,2017
-418,Motorola Solutions,1928,Technology,"9,112.00",11.5,"1,363.00",9.5,"12,814.00","47,917.30","20,000",5,https://www.reddit.com/r/MotorolaSolutions/,"2,900",,,,,https://www.reddit.com/user/MotorolaSolutions/,1,0,2018
-419,Citizens Financial Group,1828,Financial Services,"9,069.00",29.8,"2,073.00",-10.6,"226,733.00","14,708.50","18,889",54,,,,,,,,,,
-420,Coterra Energy,2021,Energy,"9,051.00",162.4,"4,065.00",251,"20,154.00","18,785.50","1,225",0,,,,,,,https://www.reddit.com/user/COTERRA/,1,1,2021
-421,Avery Dennison,1935,Manufacturing,"9,039.30",7.5,757.10,2.3,"7,950.50","14,512.80","36,000",-9,,,,,,,https://www.reddit.com/user/Avery_Dennison/,1,0,2019
-422,PVH,1881,Apparel,"9,024.20",-1.4,200.40,-79,"11,768.30","5,591.50","25,000",-37,,,,,,,https://www.reddit.com/user/pvh/,639,"6,670",2010
-423,GXO Logistics,2021,Transportation and Logistics,"8,993.00",13.3,197.00,28.8,"9,219.00","5,993.40","112,000",7,,,,,,,https://www.reddit.com/user/-_gxo_-/,"11,769","10,068",2020
-424,Polaris,1954,Automotive,"8,986.70",8.9,447.10,-9.5,"5,217.90","6,304.30","16,200",-5,https://www.reddit.com/r/Polaris/,"3,900",,,,,https://www.reddit.com/user/polaris98/,"4,767",732,2016
-425,Global Payments,1967,Financial Services,"8,975.50",5.3,111.50,-88.5,"44,809.00","27,760.70","25,000",-18,,,,,,,https://www.reddit.com/user/Global_Payments_AT/,1,0,2023
-426,Arconic,2016,Manufacturing,"8,961.00",19.4,-182.00,0,"6,015.00","2,607.20","11,550",26,,,,,,,https://www.reddit.com/user/Arconic/,82,"1,667",2010
-427,Vertex Pharmaceuticals,1989,Healthcare,"8,930.70",17.9,"3,322.00",41.8,"18,150.90","81,001.80","4,800",21,,,,,,,https://www.reddit.com/user/pharmaceuticals1438/,1,0,2021
-428,Commercial Metals,1915,Manufacturing,"8,913.50",32.4,"1,217.30",194.8,"6,237.00","5,727.00","12,483",56,,,,,,,,,,
-429,Autoliv,1953,Automotive,"8,842.00",7.4,423.00,-2.8,"7,717.00","8,013.10","65,300",-8,,,,,,,https://www.reddit.com/user/autoliv/,1,0,2017
-430,Constellation Brands,1945,Food and Beverage,"8,820.70",2.4,-40.40,-102,"25,855.80","41,688.20","10,000",-27,,,,,,,https://www.reddit.com/user/_Constellation_/,37,407,2020
-431,Hilton Worldwide Holdings,1919,Hospitality,"8,773.00",51.6,"1,255.00",206.1,"15,512.00","37,534.90","159,000",0,,,,,,,https://www.reddit.com/user/Hilton__/,7,69,2019
-432,Foot Locker,1974,Retail,"8,759.00",-2.3,342.00,-61.7,"7,907.00","3,708.20","31,040",-42,https://www.reddit.com/r/FootLocker/,665,,,,,https://www.reddit.com/user/footlocker_official/,20,0,2018
-433,Huntsman,1970,Chemicals,"8,715.00",3.1,460.00,-56,"8,220.00","5,025.30","7,000",-23,https://www.reddit.com/r/huntsman/,12,,,,,https://www.reddit.com/user/Huntsman2701/,9,"2,686",2019
-434,Burlington Stores,1972,Retail,"8,702.60",-6.6,230.10,-43.7,"7,269.60","13,122.70","38,018",-57,https://www.reddit.com/r/BurlingtonStores/,5,,,,,https://www.reddit.com/user/Burlington_Stats/,266,20,2019
-435,Hertz Global Holdings,1918,Transportation,"8,685.00",18.4,"2,059.00",462.6,"22,497.00","5,252.00","25,000",27,,,,,,,https://www.reddit.com/user/__hertz/,"1,790","3,421",2022
-436,Masco,1929,Manufacturing,"8,680.00",3.6,844.00,105.9,"5,187.00","11,206.70","19,000",-23,https://www.reddit.com/r/mascots/,"1,500",,,,,https://www.reddit.com/user/mascotlogopro/,"6,253",181,2020
-437,Williams-Sonoma,1956,Retail,"8,674.40",5.2,"1,127.90",0.1,"4,663.00","8,057.30","16,800",-17,https://www.reddit.com/r/Williamssonoma/,32,,,,,https://www.reddit.com/user/williams-sonoma/,19,182,2019
-438,Chipotle Mexican Grill,1993,Food and Beverage,"8,634.70",14.4,899.10,37.7,"6,927.50","47,186.10","104,958",12,https://www.reddit.com/r/ChipotleMexicanGrill/,207,,,,,https://www.reddit.com/user/Chipotle-Grill/,"30,778","14,601",2018
-439,M&T Bank,1856,Financial Services,"8,603.70",40.9,"1,991.70",7.2,"200,729.80","20,093.00","22,509",0,,,,,,,https://www.reddit.com/user/MTBANK/,1,0,2021
-440,LPL Financial Holdings,1989,Financial Services,"8,600.80",11.4,845.70,83.9,"9,482.20","15,913.90","6,415",2,,,,,,,https://www.reddit.com/user/LPL-Official/,"17,634",641,2021
-441,CMS Energy,1886,Utilities,"8,596.00",14,837.00,-38.1,"31,353.00","17,901.60","8,817",10,,,,,,,https://www.reddit.com/user/cms_cms_cms/,7,2,2016
-442,Campbell Soup,1869,Food and Beverage,"8,562.00",1,757.00,-24.5,"11,892.00","16,465.20","14,700",-33,,,,,,,https://www.reddit.com/user/CampbellSoup2000/,9,59,2019
-443,Arthur J. Gallagher,1927,Insurance,"8,550.60",4.2,"1,114.20",22.9,"38,907.80","40,954.70","43,640",-21,,,,,,,https://www.reddit.com/user/Arthur__J/,1,0,2021
-444,Blackstone,1985,Financial Services,"8,517.70",-62.3,"1,747.60",-70.2,"42,524.20","62,047.50","4,695",-285,https://www.reddit.com/r/blackstone/,"4,900",,,,,https://www.reddit.com/user/blackstone1314/,2,274,2018
-445,Dover,1925,Manufacturing,"8,508.10",7.6,"1,065.40",-5.2,"10,896.50","21,236.80","25,000",-12,https://www.reddit.com/r/dover/,343,,,,,https://www.reddit.com/user/DoverHawk/,"26,576","2,193",2015
-446,ODP,1986,Retail,"8,491.00",-8.4,166.00,0,"4,149.00","1,806.30","25,000",-67,https://www.reddit.com/r/odp/,91,,,,,https://www.reddit.com/user/Odpalony777/,"17,536",23,2021
-447,Packaging Corp. of America,1959,Manufacturing,"8,478.00",9.7,"1,029.80",22.4,"8,003.80","12,478.50","15,100",-6,,,,,,,,,,
-448,Brighthouse Financial,2017,Financial Services,"8,473.00",18.6,5.00,0,"225,580.00","2,986.10","1,500",20,,,,,,,https://www.reddit.com/user/brighthouse76/,1,0,2024
-449,Beacon Roofing Supply,1928,Construction and Engineering,"8,429.70",23.6,458.40,88.6,"6,003.50","3,781.30","7,478",29,,,,,,,,,,
-450,Airbnb,2008,Hospitality,"8,399.00",40.2,"1,893.00",0,"16,038.00","79,681.70","6,811",0,https://www.reddit.com/r/AirBnB/,,,,,,https://www.reddit.com/user/airbnb/,1,0,2011
-451,Boise Cascade,1957,Manufacturing,"8,387.30",5.8,857.70,20.4,"3,240.50","2,505.70","6,840",-19,,,,,,,https://www.reddit.com/user/CascadeCascade/,489,"2,535",2017
-452,Booz Allen Hamilton Holding,1914,Professional Services,"8,363.70",6.4,466.70,-23.4,"6,025.60","12,260.70","29,300",-16,,,,,,,,,,
-453,Westinghouse Air Brake Technologies,1869,Transportation,"8,362.00",6.9,633.00,13.4,"18,516.00","18,226.40","27,000",-14,,,,,,,,,,
-454,ON Semiconductor,1999,Technology,"8,326.20",23.5,"1,902.20",88.4,"11,978.50","35,559.60","31,055",29,,,,,,,https://www.reddit.com/user/semiconductor-/,1,0,2024
-455,Oshkosh,1917,Manufacturing,"8,282.00",4.1,173.90,-57.5,"7,729.00","5,445.20","15,000",-27,https://www.reddit.com/r/Oshkosh/,"3,700",,,,,https://www.reddit.com/user/oshkosh/,1,248,2011
-456,Franklin Resources,1947,Financial Services,"8,275.30",-1.8,"1,291.90",-29.5,"28,060.60","13,479.60","9,800",-45,,,,,,,https://www.reddit.com/user/Franklin500franklin/,19,1,2020
-457,Taylor Morrison Home,1936,Construction and Engineering,"8,224.90",9.6,"1,052.80",58.8,"8,470.70","4,143.50","3,000",-4,,,,,,,https://www.reddit.com/user/Taylor_Morrison/,1,0,2015
-458,A-Mark Precious Metals,1965,Financial Services,"8,159.30",7.2,132.50,-17,"1,442.70",815.30,381,-12,,,,,,,https://www.reddit.com/user/Precious-Metals/,206,14,2021
-459,KeyCorp,1825,Financial Services,"8,130.00",7.5,"1,917.00",-27,"189,813.00","11,579.20","17,660",-10,,,,,,,https://www.reddit.com/user/Keycorp/,1,0,2022
-460,ARKO,2003,Retail,"8,127.60",26.7,71.70,21.2,"3,255.20","1,020.20","12,223",38,https://www.reddit.com/r/arkos/,176,,,,,https://www.reddit.com/user/arkofcovenant/,"6,553","90,846",2011
-461,Lululemon athletica,1998,Apparel,"8,110.50",29.6,854.80,-12.4,"5,607.00","46,312.10","34,000",0,,,,,,,https://www.reddit.com/user/Lululemon_Athletica/,1,0,2023
-462,Old Republic International,1923,Insurance,"8,083.70",-13.5,686.40,-55.3,"25,159.40","7,399.00","9,500",-86,,,,,,,,,,
-463,Zoetis,1952,Healthcare,"8,080.00",3.9,"2,114.00",3.8,"14,925.00","77,052.60","13,800",-23,,,,,,,https://www.reddit.com/user/ZoetisUS/,1,0,2021
-464,Marathon Oil,1887,Energy,"8,036.00",47,"3,612.00",281.8,"19,940.00","15,086.50","1,570",0,,,,,,,https://www.reddit.com/user/marathon-/,1,0,2024
-465,J.M. Smucker,1897,Food and Beverage,"7,998.90",0,631.70,-27.9,"16,055.00","16,781.30","6,700",-39,,,,,,,https://www.reddit.com/user/smucker/,109,375,2011
-466,Huntington Bancshares,1866,Financial Services,"7,950.00",30.8,"2,238.00",72.8,"182,906.00","16,235.90","19,920",0,https://www.reddit.com/r/huntingtonbeach/,"13,000",,,,,https://www.reddit.com/user/Happy_Huntington/,"371,076","93,003",2019
-467,NGL Energy Partners,2010,Energy Infrastructure,"7,947.90",51.6,-184.80,0,"6,070.30",380.80,842,0,,,,,,,,,,
-468,Ingredion,1906,Chemicals,"7,946.00",15.3,492.00,320.5,"7,561.00","6,711.30","11,700",8,,,,,,,https://www.reddit.com/user/IngredionInc/,1,0,2024
-469,Fortune Brands Innovations,2011,Manufacturing,"7,922.70",3.5,686.70,-11.1,"6,120.90","7,457.10","11,200",-25,,,,,,,,,,
-470,PPL,1920,Utilities,"7,902.00",10.9,756.00,0,"37,837.00","20,472.30","6,527",-1,,,,,,,https://www.reddit.com/user/ppl/,1,0,2006
-471,Sanmina,1980,Manufacturing,"7,890.50",16.8,256.10,-4.8,"4,859.50","3,559.20","36,000",11,,,,,,,https://www.reddit.com/user/Sanminanna/,1,0,2021
-472,Bed Bath & Beyond,1971,Retail,"7,867.80",-14.8,-559.60,0,"5,130.60",183.00,"32,000",-91,https://www.reddit.com/r/BedBathandBeyond/,"4,100",,,,,https://www.reddit.com/user/bedbathbeyondcoupons/,1,1,2022
-473,Cintas,1929,Professional Services,"7,854.50",10.4,"1,235.80",11.2,"8,147.30","47,041.80","43,000",-3,https://www.reddit.com/r/cintasssr/,204,,,,,https://www.reddit.com/user/cintas_493/,89,31,2021
-474,NCR,1884,Technology,"7,844.00",9.6,60.00,-38.1,"11,507.00","3,303.80","35,000",-8,https://www.reddit.com/r/NCR/,445,,,,,https://www.reddit.com/user/NCResident5/,"1,773","40,283",2018
-475,ABM Industries,1909,Professional Services,"7,806.60",25.3,230.40,82.4,"4,868.90","2,970.80","127,000",0,,,,,,,https://www.reddit.com/user/_ABM__/,1,0,2021
-476,Rockwell Automation,1903,Manufacturing,"7,760.40",10.9,932.20,-31.4,"10,758.70","33,682.90","26,000",-4,,,,,,,https://www.reddit.com/user/RockwellAutomation/,1,0,2014
-477,Northern Trust,1889,Financial Services,"7,751.70",19.5,"1,336.00",-13.5,"155,036.70","18,309.10","23,600",16,,,,,,,https://www.reddit.com/user/northern_trust/,4,2,2019
-478,XPO,2000,Transportation and Logistics,"7,718.00",-39.7,666.00,98.2,"6,269.00","3,684.50","39,500",-187,,,,,,,https://www.reddit.com/user/xponentialdesign/,"318,788","1,565",2021
-479,Science Applications International,1969,Technology,"7,704.00",4.2,300.00,8.3,"5,543.00","5,870.50","25,000",-23,,,,,,,,,,
-480,Ameren,1902,Utilities,"7,662.00",25.2,"1,074.00",8.5,"37,904.00","22,675.30","9,244",20,,,,,,,,,,
-481,First American Financial,1889,Financial Services,"7,605.00",-17.5,263.00,-78.8,"14,955.00","5,749.70","21,153",-98,,,,,,,https://www.reddit.com/user/first_American/,1,0,2020
-482,Bath & Body Works,1990,Retail,"7,560.00",-4.1,800.00,-40,"5,494.00","8,368.30","33,000",-47,https://www.reddit.com/r/bathandbodyworks/,"92,000",,,,,https://www.reddit.com/user/Bathbodyworksgal/,"2,229","3,925",2019
-483,Regions Financial,1971,Financial Services,"7,531.00",14,"2,245.00",-10.9,"155,220.00","17,345.50","20,073",6,,,,,,,,,,
-484,Activision Blizzard,2008,Media and Entertainment,"7,528.00",-14.5,"1,513.00",-43.9,"27,383.00","67,126.00","13,000",-88,https://www.reddit.com/r/activisionblizzard/,633,,,,,https://www.reddit.com/user/ActivisionBlizzard/,448,"65,674",2014
-485,Avantor,1904,Chemicals,"7,512.40",1.7,686.50,19.9,"13,464.30","14,270.60","14,500",-28,https://www.reddit.com/r/Avantris,"1,700",,,,,https://www.reddit.com/user/avantor/,1,201,2016
-486,Genworth Financial,2004,Insurance,"7,507.00",-4.8,609.00,-32.6,"86,442.00","2,476.60","2,500",-52,,,,,,,https://www.reddit.com/user/genworth/,1,0,2008
-487,EQT,1888,Energy,"7,497.70",144.6,"1,771.00",0,"22,669.90","11,499.10",744,0,https://www.reddit.com/r/EQT/,2,,,,,https://www.reddit.com/user/eqt/,"4,505","6,046",2013
-488,Skechers U.S.A.,1992,Apparel,"7,444.60",18,373.00,-49.7,"6,893.50","7,379.10","11,450",0,,,,,,,https://www.reddit.com/user/Skechers_2_/,1,0,2021
-489,Landstar System,1988,Transportation and Logistics,"7,439.70",13.7,430.90,12.9,"1,931.90","6,457.40","1,449",2,,,,,,,https://www.reddit.com/user/landstar/,1,100,2011
-490,Knight-Swift Transportation Holdings,1990,Transportation,"7,428.60",23.9,771.30,3.8,"10,951.70","9,105.90","28,300",0,,,,,,,,,,
-491,SVB Financial Group,1983,Financial Services,"7,401.00",22.8,"1,672.00",-8.8,"211,793.00",53.60,"8,553",0,,,,,,,,,,
-492,Par Pacific Holdings,1984,Energy,"7,321.80",55.4,364.20,0,"3,280.60","1,772.90","1,397",0,,,,,,,,,,
-493,Albemarle,1994,Chemicals,"7,320.10",120,"2,689.80",2075,"15,456.50","25,927.90","7,400",0,https://www.reddit.com/r/Albemarle/,78,,,,,https://www.reddit.com/user/Albemarle909/,1,100,2021
-494,Vulcan Materials,1909,Construction and Engineering,"7,315.20",31.8,575.60,-14.2,"14,234.60","22,827.20","11,974",0,,,,,,,https://www.reddit.com/user/-Vulcan/,719,"5,411",2014
-495,Watsco,1945,Wholesale,"7,274.30",15.8,601.20,43.5,"3,488.20","12,353.50","7,238",0,,,,,,,https://www.reddit.com/user/watsco72/,1,0,2014
-496,KKR,1976,Financial Services,"7,273.40",-72.2,-841.10,-118,"277,077.20","45,225.40","4,150",-358,https://www.reddit.com/r/KolkataKnightRiders,"24,000",,,,,,,,
-497,Equinix,1998,Telecommunications,"7,263.10",9.5,704.30,40.8,"30,310.70","66,872.60","12,097",-10,,,,,,,https://www.reddit.com/user/Equinix5/,1,65,2019
-498,Sonoco Products,1899,Manufacturing,"7,250.60",29.7,466.40,0,"7,052.90","5,974.70","22,000",0,,,,,,,https://www.reddit.com/user/Sonoco2001/,"4,861",197,2020
-499,ServiceNow,2004,Technology,"7,245.00",22.9,325.00,41.3,"13,299.00","94,338.20","20,433",0,https://www.reddit.com/r/servicenow/,"21,000",,,,,https://www.reddit.com/user/servicenow/,1,0,2024
-500,Robert Half International,1948,Professional Services,"7,238.10",12,657.90,9.9,"2,964.50","8,677.30","16,300",-6,https://www.reddit.com/r/roberthalf,85,,,,,,,,
+1,Walmart,1962,Retail,611289.00,6.7,11680.00,-14.6,243197.00,397474.50,2100000,0,https://www.reddit.com/r/walmart/,287000,https://www.reddit.com/r/WalmartEmployees/,31000,,https://www.reddit.com/r/FuckWalmart,https://www.reddit.com/user/Walmart_Verified/,1,0,2008
+2,Amazon.com,1994,Technology,513983.00,9.4,-2722.00,-108.2,462675.00,1058439.50,1541000,0,https://www.reddit.com/r/amazon/,226000,https://www.reddit.com/r/AmazonFC/,113000,https://www.reddit.com/r/AmazonBudgetFinds/,https://www.reddit.com/r/AntiAmazon,,,,
+3,Exxon Mobil,1999,Energy,413680.00,44.8,55740.00,141.9,369067.00,446424.20,62000,3,https://www.reddit.com/r/ExxonMobil/,510,,,,https://www.reddit.com/r/RedCard,https://www.reddit.com/user/ExxonMobil/,1,0,2024
+4,Apple,1976,Technology,394328.00,7.8,99803.00,5.4,352755.00,2609038.90,164000,-1,https://www.reddit.com/r/apple,5300000,https://www.reddit.com/r/Apple_Employees/,234,,https://www.reddit.com/r/FuckApple,https://www.reddit.com/user/apple/,2942,0,2018
+5,UnitedHealth Group,1977,Healthcare,324162.00,12.7,20120.00,16.4,245705.00,440854.00,400000,0,https://www.reddit.com/r/unitedhealthgroup,100,,,,,https://www.reddit.com/user/UnitedHealth_Group/,1,0,2023
+6,CVS Health,1963,Pharmaceutical Retail,322467.00,10.4,4149.00,-47.5,228275.00,95422.30,259500,-2,https://www.reddit.com/r/CVSHealth,221,,,,,https://www.reddit.com/user/cvshealthsurvey-page/,1,0,2023
+7,Berkshire Hathaway,1839,Conglomerate,302089.00,9.4,-22819.00,-125.4,948452.00,675656.80,383000,0,https://www.reddit.com/r/BerkshireHathaway,9200,,,,,https://www.reddit.com/user/BerkshireHathaway-/,50203,23106,2016
+8,Alphabet,2015,Technology,282836.00,9.8,59972.00,-21.1,365264.00,1330200.70,190234,0,https://www.reddit.com/r/AlphabetStew,2900,,,,,https://www.reddit.com/user/alphabet/,1,0,2005
+9,McKesson,1833,Healthcare,263966.00,10.8,1114.00,0,63298.00,48757.20,66500,0,https://www.reddit.com/r/McKesson,7,,,,,https://www.reddit.com/user/Mckesson100/,1,48,2020
+10,Chevron,1879,Energy,246252.00,51.6,35465.00,127,257709.00,311092.90,43846,6,https://www.reddit.com/r/Chevron,175,,,,,https://www.reddit.com/user/Chevron/,3798,35637,2008
+11,Cencora,2001,Healthcare,238587.00,11.5,1698.80,10.3,56560.60,32383.60,41500,-1,,,,,,,,1,0,2021
+12,Costco Wholesale,1983,Retail,226954.00,15.8,5844.00,16.7,64166.00,220353.50,304000,-1,https://www.reddit.com/r/CostcoWholesale,18000,,,,,https://www.reddit.com/user/-Costco_wholesale-/,1,3,2022
+13,Microsoft,1975,Technology,198270.00,18,72738.00,18.7,364840.00,2146048.60,221000,1,https://www.reddit.com/r/microsoft,906000,https://www.reddit.com/r/MicrosoftTeams/,64000,https://www.reddit.com/r/MicrosoftFabric,https://www.reddit.com/r/FuckMicrosoft,https://www.reddit.com/user/Microsoft/,16,1,2020
+14,Cardinal Health,1971,Healthcare,181364.00,11.6,-933.00,-252.7,43878.00,19451.70,46035,1,https://www.reddit.com/r/CardinalHealth,2,,,,,,,,
+15,Cigna,1982,Healthcare,180516.00,3.7,6668.00,24.3,143932.00,75900.70,70231,-3,,,,,,,,,,
+16,Marathon Petroleum,1998,Energy,180012.00,27.6,14516.00,49.1,89904.00,59544.40,17800,3,,,,,,,https://reddit.com/user/Marathon_Petroleum/,1,0,2023
+17,Phillips 66,2012,Energy,175702.00,53,11024.00,737.1,76442.00,46727.30,13000,12,,,,,,,,,,
+18,Valero Energy,1980,Energy,171189.00,58,11528.00,1139.6,60982.00,51350.50,9743,12,,,,,,,,,,
+19,Ford Motor,1903,Automotive,158057.00,15.9,-1981.00,-111,255884.00,50399.50,173000,3,https://www.reddit.com/r/Ford,110000,,,,,https://www.reddit.com/user/fordmotorcompany13/,2703,922,2019
+20,Home Depot,1978,Retail,157403.00,4.1,17105.00,4.1,76445.00,299533.70,471600,-3,https://www.reddit.com/r/HomeDepot,97000,https://www.reddit.com/r/AskRetail,8500,https://www.reddit.com/r/HomeImprovement,https://www.reddit.com/r/FuckHomeDepot,https://www.reddit.com/user/HomeDepot/,248,0,2023
+21,General Motors,1908,Automotive,156735.00,23.4,9934.00,-0.8,264037.00,51155.30,167000,4,https://www.reddit.com/r/GeneralMotors,13000,https://www.reddit.com/r/GMemployees,2900,https://www.reddit.com/r/GeneralMotorsElectric,,https://www.reddit.com/user/GeneralMotors/,671,81,2020
+22,Elevance Health,1946,Healthcare,156595.00,13,6025.00,-1.3,102772.00,109097.70,102300,-2,,,,,,,,,,
+23,JPMorgan Chase,2000,Financial Services,154792.00,21.7,37676.00,-22.1,3665743.00,383548.60,293723,1,https://www.reddit.com/r/JPMorganChase,584,,,,,https://www.reddit.com/user/JPMorgan_Chase/,8,0,2017
+24,Kroger,1883,Retail,148258.00,7.5,2244.00,35.6,49623.00,35421.40,430000,-3,https://www.reddit.com/r/kroger,46000,,,,,https://www.reddit.com/user/Kroger011/,1436,737,2018
+25,Centene Corporation,1984,Healthcare,144547.00,14.7,1202.00,-10.8,76870.00,34809.80,74300,1,https://www.reddit.com/r/Centene,13,,,,,https://www.reddit.com/user/centene/,1,0,2018
+26,Verizon Communications,2000,Telecommunications,136835.00,2.4,21256.00,-3.7,379680.00,163333.40,117100,-3,https://www.reddit.com/r/verizon/,101000,,,,,,,,
+27,Walgreens Boots Alliance,1901,Pharmaceutical Retail,132703.00,-10.7,4337.00,70.6,90124.00,29835.50,262500,-9,,,,,,,,,,
+28,Fannie Mae,1938,Financial Services,121596.00,19.7,12923.00,-41.7,4305288.00,474.80,8000,5,,,,,,,,,,
+29,Comcast,1963,Telecommunications,121427.00,4.3,5370.00,-62.1,257275.00,159830.70,186000,-1,https://www.reddit.com/r/Comcast,26000,,,https://www.reddit.com/r/Comcast_Xfinity,,https://www.reddit.com/user/comcastbusiness/,9,0,2021
+30,AT&T,1983,Telecommunications,120741.00,-28.5,-8524.00,-142.4,402853.00,137250.00,160700,-17,https://www.reddit.com/r/ATT,72000,,,,,,,,
+31,Meta Platforms,2004,Technology,116609.00,-1.1,23200.00,-41.1,185727.00,549484.00,86482,-4,https://www.reddit.com/r/meta,9100,,,,,https://www.reddit.com/user/Meta_Platforms/,1,0,2023
+32,Bank of America,1998,Financial Services,115053.00,22.6,27528.00,-13.9,3051375.00,228779.50,216823,4,https://www.reddit.com/r/BankOfAmerica,848,,,,,https://www.reddit.com/user/bankofamerica/,6,0,2020
+33,Target,1902,Retail,109120.00,2.9,2780.00,-60,53335.00,76250.10,440000,-1,https://www.reddit.com/r/Target,197000,,,,,https://www.reddit.com/user/target/,3044,3299,2008
+34,Dell Technologies,1984,Technology,102301.00,-4.4,2442.00,-56.1,89611.00,29401.70,133000,-3,https://www.reddit.com/r/Dell,94000,,,,,https://www.reddit.com/user/DellTechnologies/,284,237,2018
+35,Archer Daniels Midland,1902,Agriculture,101556.00,19.1,4340.00,60.2,59774.00,43529.80,41181,3,,,,,,,,,,
+36,Citigroup,1998,Financial Services,101078.00,26.6,14845.00,-32.4,2416676.00,91269.70,238104,8,https://www.reddit.com/r/Citigroup,1,,,,,https://www.reddit.com/user/Citigroup/,1,0,2010
+37,United Parcel Service,1907,Transportation and Logistics,100338.00,3.1,11548.00,-10.4,71124.00,166189.10,404700,-3,,,,,,https://www.reddit.com/r/DownWithUPS,https://www.reddit.com/user/UnitedParcelService/,1,4,2013
+38,Pfizer,1849,Healthcare,100330.00,23.4,31372.00,42.7,197205.00,230291.60,83000,5,https://www.reddit.com/r/Pfizer,286,https://www.reddit.com/r/pfizeremployees/,,,,https://www.reddit.com/user/pfizer/,1,0,2024
+39,Lowe's,1946,Retail,97059.00,0.8,6437.00,-23.8,43708.00,119253.40,244500,-4,https://www.reddit.com/r/Lowes,59000,https://www.reddit.com/r/Lowes_Employees,4900,,,,,,
+40,Johnson & Johnson,1886,Healthcare,94943.00,1.2,17941.00,-14.1,187378.00,483575.60,152700,-3,https://www.reddit.com/r/JordynJohnson,26000,,,,,https://www.reddit.com/user/johnsonjohnson11/,7,19,2021
+41,FedEx,1971,Transportation and Logistics,93512.00,11.4,3826.00,-26.9,85994.00,57431.40,464400,-2,https://www.reddit.com/r/FedEx,36000,,,,,https://www.reddit.com/user/FedEx/,7,0,2021
+42,Humana,1961,Healthcare,92870.00,11.8,2806.00,-4.3,43055.00,60718.70,67100,-2,,,,,,,https://www.reddit.com/user/humana/,1,0,2012
+43,Energy Transfer,1995,Energy Infrastructure,89876.00,33.3,4756.00,-13.1,105643.00,38589.60,12565,11,https://www.reddit.com/r/EnergyTransfer,597,,,,,https://www.reddit.com/user/Energy_Transfer/,1,0,2019
+44,State Farm Insurance,1922,Insurance,89327.50,8.6,-6654.20,-619.5,318243.00,0.00,60519,-2,https://www.reddit.com/r/StateFarm,1300,,,,,https://www.reddit.com/user/State_Farm_Insurance/,82,71,2016
+45,Freddie Mac,1970,Financial Services,86717.00,31.6,9327.00,-23,3208333.00,265.50,7819,11,,,,,,,https://www.reddit.com/user/freddiemack1/,26801,164821,2021
+46,PepsiCo,1965,Food and Beverage,86392.00,8.7,8910.00,17,92187.00,251084.50,315000,-1,https://www.reddit.com/r/PepsiCo,175,,,,,,,,
+47,Wells Fargo,1852,Financial Services,82859.00,0.5,13182.00,-38.8,1881016.00,141187.50,238000,-6,https://www.reddit.com/r/WellsFargoBank,1400,,,,,,,,
+48,Walt Disney,1923,Media and Entertainment,82722.00,22.7,3145.00,57.6,203631.00,182920.00,195800,5,,,,,,,,,,
+49,ConocoPhillips,2002,Energy,82156.00,69.9,18680.00,131.2,93829.00,120776.60,9500,28,,,,,,,https://www.reddit.com/user/ConocoPhillips/,1,2,2013
+50,Tesla,2003,Automotive,81462.00,51.4,12556.00,127.5,82338.00,656424.70,127855,15,https://www.reddit.com/r/Tesla,56000,,,,,https://www.reddit.com/user/tesla/,1,0,2006
+51,Procter & Gamble,1837,Consumer Goods,80187.00,5.3,14742.00,3,117208.00,350781.10,106000,-4,,,,,,,https://www.reddit.com/user/Procter_and_Gamble/,1,1,2011
+52,General Electric,1892,Conglomerate,76555.00,3.2,225.00,0,187788.00,104231.00,172000,-4,https://www.reddit.com/r/generalelectric,673,,,,,https://www.reddit.com/user/generalelectric/,6163,188,2018
+53,Albertsons,1939,Retail,71887.00,3.2,1619.60,90.5,28123.00,11132.20,195750,-1,https://www.reddit.com/r/Albertsons,1100,,,,,,,,
+54,MetLife,1868,Insurance,69898.00,-1.7,2539.00,-61.3,666611.00,44866.50,45000,-4,,,,,,,https://www.reddit.com/user/MetLife/,1,0,2023
+55,Goldman Sachs Group,1869,Financial Services,68711.00,5.7,11261.00,-48,1441799.00,113963.90,48500,2,https://www.reddit.com/r/Goldman_Sachs,,,,,,https://www.reddit.com/user/Goldman_Sachs_Group/,1,0,2023
+56,Sysco,1969,Food and Beverage,68636.10,33.8,1358.80,159.2,22085.70,39202.30,70510,14,https://www.reddit.com/r/sysco,214,,,,,https://www.reddit.com/user/Sysco/,1,0,2012
+57,Raytheon Technologies (RTX),2020,Aerospace and Defense,67074.00,4.2,5197.00,34.5,158864.00,143292.00,182000,1,https://www.reddit.com/r/RaytheonTechnologies,6,,,,,,,,
+58,Boeing,1916,Aerospace and Defense,66608.00,6.9,-4935.00,0,137100.00,127283.20,156000,2,https://www.reddit.com/r/boeing,35000,,,,,,,,
+59,StoneX Group,1924,Financial Services,66036.00,55.3,207.10,78.1,19859.60,2137.80,3615,28,,,,,,,https://www.reddit.com/user/StoneX_Group_Inc/,1,0,2023
+60,Lockheed Martin,1995,Aerospace and Defense,65984.00,-1.6,5732.00,-9.2,52880.00,120318.70,116000,-5,https://www.reddit.com/r/LockheedMartin,4200,,,,,https://www.reddit.com/user/LockheedMartin/,4067,1802,2012
+61,Morgan Stanley,1935,Financial Services,65936.00,7.9,11029.00,-26.6,1180231.00,147674.30,82427,0,,,,,,,https://www.reddit.com/user/MorganStanley28/,1,0,2022
+62,Intel,1968,Technology,63054.00,-20.2,8014.00,-59.7,182103.00,136268.30,131900,-16,https://www.reddit.com/r/intel,883000,,,https://www.reddit.com/r/EnergyINTEL,,https://www.reddit.com/user/Intel/,12,36,2021
+63,HP,1939,Technology,62983.00,-0.8,3203.00,-50.7,38587.00,28919.40,58000,-4,https://www.reddit.com/r/HP_Printers,193,,,https://www.reddit.com/r/HPfanfiction,,,,found,
+64,TD Synnex,2021,Technology,62343.80,97.2,651.30,64.9,29734.00,9060.90,28500,45,,,,,,,,,,
+65,International Business Machines,1911,Technology,60530.00,-16.3,1639.00,-71.5,127243.00,118912.50,303100,-16,https://www.reddit.com/r/internationalbusiness,12000,,,,,,,,
+66,HCA Healthcare,1968,Healthcare,60233.00,2.5,5643.00,-18.9,52438.00,73106.50,250500,-4,,,,,,,https://www.reddit.com/user/HCA_/,1,1,2021
+67,Prudential Financial,1875,Insurance,60050.00,-15.3,-1438.00,-118.6,689917.00,30363.40,39583,-16,,,,,,,,,,
+68,Caterpillar,1925,Manufacturing,59427.00,16.6,6705.00,3.3,81943.00,118160.50,109100,5,https://www.reddit.com/r/caterpillar,2600,,,,,https://www.reddit.com/user/CaterpillarSure6572/,26,0,2021
+69,Merck,1891,Healthcare,59283.00,15.8,14519.00,11.3,109160.00,270080.90,68000,2,https://www.reddit.com/r/Merck,182,,,,,https://www.reddit.com/user/Merck/,1,0,2023
+70,World Fuel Services,1984,Energy,59043.10,88.4,114.10,54.8,8164.60,1585.20,5214,41,,,,,,,,,,
+71,New York Life Insurance,1845,Insurance,58445.20,14.2,-1126.70,-506.6,392126.40,0.00,15050,1,https://www.reddit.com/r/NewYorkLife,51,,,,,,,,
+72,Enterprise Products Partners,1968,Energy Infrastructure,58186.00,42.6,5490.00,18.4,68108.00,56223.90,7300,17,,,,,,,,,,
+73,AbbVie,2013,Healthcare,58054.00,3.3,11836.00,2.5,138805.00,281151.30,50000,-10,https://www.reddit.com/r/ABBV,111,,,,,https://www.reddit.com/user/abbvieislife/,1,0,2024
+74,Plains GP Holdings,2013,Energy Infrastructure,57342.00,36.3,168.00,180,29207.00,2550.60,4100,14,,,,,,,,,,
+75,Dow,1897,Chemicals,56902.00,3.5,4582.00,-27.4,60603.00,38811.90,37800,-11,https://www.reddit.com/r/DOW,12,,,,,,,,
+76,American International Group,1919,Insurance,56437.00,8.4,10276.00,9.5,526634.00,36947.50,26200,-9,,,,,,,,,,
+77,American Express,1850,Financial Services,55625.00,27.4,7514.00,-6.8,228354.00,122733.70,77300,8,https://www.reddit.com/r/AmericanExpress,4200,,,,,https://www.reddit.com/user/AmericanExpress/,21,0,2023
+78,Publix Super Markets,1930,Retail,54942.00,13.5,2918.00,-33.9,31047.00,0.00,242000,-2,,,,,,,https://www.reddit.com/user/Publix_Super_Markets/,1,0,2023
+79,Charter Communications,1993,Telecommunications,54022.00,4.5,5055.00,8.6,144523.00,60477.40,101700,-10,https://www.reddit.com/r/CharterCommunications,1,,,,,,,,
+80,Tyson Foods,1935,Food and Beverage,53282.00,13.2,3238.00,6.3,36821.00,21095.70,142000,1,https://www.reddit.com/r/TSNTysonFoods,27,https://www.reddit.com/r/TysonEmployees,152,,,https://www.reddit.com/user/TysonFoods_DS/,1,0,2021
+81,Deere,1837,Manufacturing,52577.00,19.4,7131.00,19.6,90030.00,122345.50,82239,3,https://www.reddit.com/r/Deere,80,,,,,https://www.reddit.com/user/deere/,262,2614,2011
+82,Cisco Systems,1984,Technology,51557.00,3.5,11812.00,11.5,94002.00,214109.20,83300,-8,https://www.reddit.com/r/Cisco,87000,,,,,https://www.reddit.com/user/cisco_systems/,1,0,2013
+83,Nationwide,1926,Insurance,51449.80,8.6,988.40,-38.9,264510.60,0.00,24791,-3,https://www.reddit.com/r/Nationwide,114,,,,,https://www.reddit.com/user/nationwide13/,1006,9256,2013
+84,Allstate,1931,Insurance,51412.00,-3.4,-1311.00,-182,97957.00,29179.60,54250,-18,https://www.reddit.com/r/AllState,676,,,,,,,,
+85,Delta Air Lines,1924,Transportation,50582.00,69.2,1318.00,370.7,72288.00,22392.10,95000,28,https://www.reddit.com/r/DeltaAirlines,5300,,,,,,,,
+86,Liberty Mutual Insurance Group,1912,Insurance,49956.00,3.6,414.00,-86.5,160316.00,0.00,50000,-8,,,,,,,,,,
+87,TJX,1976,Retail,49936.00,2.9,3498.00,6.6,28349.00,90315.30,329000,-12,https://www.reddit.com/r/TJX,18,,,,,,,,
+88,Progressive,1937,Insurance,49610.70,4,721.50,-78.5,75465.00,83742.50,55063,-9,https://www.reddit.com/r/progressive,78000,,,,,https://www.reddit.com/user/progressive/,8,0,2019
+89,American Airlines Group,2013,Transportation,48971.00,63.9,127.00,0,64716.00,9629.00,129700,25,https://www.reddit.com/r/americanairlines,65000,,,,,https://www.reddit.com/user/American_Airlines_/,1,2,2022
+90,CHS,1931,Agriculture,47791.70,24.3,1678.80,203.1,18824.80,0.00,10014,5,https://www.reddit.com/r/CHS,553,,,,,,,,
+91,Performance FoGroupod,1987,Food and Beverage,47194.10,61.6,112.50,176.4,12378.00,9421.50,34825,21,,,,,,,,,,
+92,PBF Energy,2008,Energy,46830.30,71.8,2876.80,1145.4,13549.10,5588.80,3616,38,,,,,,,https://www.reddit.com/user/PBF___/,1,0,2022
+93,Nike,1964,Apparel,46710.00,4.9,6046.00,5.6,40321.00,190161.00,79100,-10,https://www.reddit.com/r/Nike,1300000,,,,https://www.reddit.com/r/nikeprossx,https://www.reddit.com/user/nike/,119,0,2018
+94,Best Buy,1966,Retail,46298.00,-10.6,1419.00,-42.2,15803.00,17066.40,71100,-26,https://www.reddit.com/r/Bestbuy,84000,https://www.reddit.com/r/BestBuyWorkers,13000,,,https://www.reddit.com/user/bestbuy/,215,2984,2007
+95,Bristol-Myers Squibb,1887,Healthcare,46159.00,-0.5,6327.00,-9.5,96820.00,145780.00,34300,-13,,,,,,,https://www.reddit.com/user/bristolMyersSquibb/,104,11,2017
+96,United Airlines Holdings,1926,Transportation,44955.00,82.5,737.00,0,67358.00,14473.90,92795,50,https://www.reddit.com/r/unitedairlines,86000,,,,https://www.reddit.com/r/FuckUnitedAirlines,https://www.reddit.com/user/United_Airlines/,32,5250,2017
+97,Thermo Fisher Scientific,2006,Medical Equipment,44915.00,14.5,6950.00,-10,97154.00,222150.30,130000,-5,,,,,,,https://www.reddit.com/user/ThermoFisherSci/,1,0,2019
+98,Qualcomm,1985,Technology,44200.00,31.7,12936.00,43,49014.00,142251.70,51000,9,https://www.reddit.com/r/qualcomm,2100,https://www.reddit.com/r/Qualcomm_Stock,211,,,https://www.reddit.com/user/qualcomm/,1,0,2021
+99,Abbott Laboratories,1888,Healthcare,43653.00,1.3,6933.00,-2,74438.00,175984.40,115000,-13,,,,,,,,,,
+100,Coca-Cola,1892,Food and Beverage,43004.00,11.3,9542.00,-2.3,92763.00,268360.70,82500,-7,https://www.reddit.com/r/cocacola/,17000,,,,FuckCocaCola (reddit.com),https://www.reddit.com/user/Coca-Cola_Official/,11,0,2018
+101,Oracle,1977,Technology,42440.00,4.8,6717.00,-51.1,109297.00,250865.60,143000,-10,https://www.reddit.com/r/oracle/,20000,,,,https://www.reddit.com/r/FuckOracle,https://www.reddit.com/user/OracleDBA/,6415,69259,2010
+102,Nucor,1940,Manufacturing,41512.50,13.8,7607.30,11.4,32479.20,38916.90,31400,-4,https://www.reddit.com/r/Nucor/,53,,,,,https://www.reddit.com/user/Nucor18,1,0,2022
+103,TIAA,1918,Financial Services,40910.60,0.9,493.70,-87.8,634457.30,0.00,16070,-13,,,,,,,https://www.reddit.com/user/tiaa/,17,0,2023
+104,Massachusetts Mutual Life Insurance,1851,Insurance,40281.00,12.2,1484.50,365,381335.70,0.00,10662,-4,,,,,,,,,,
+105,General Dynamics,1952,Aerospace and Defense,39407.00,2.4,3390.00,4.1,51585.00,62692.40,106500,-11,,,,,,,https://www.reddit.com/user/GeneralDynamicsCorp/,1,274,2022
+106,Capital One Financial,1994,Financial Services,38373.00,19.8,7360.00,-40.6,455249.00,36775.90,55943,2,https://www.reddit.com/r/CapitalOne_/,6300,,,,,https://www.reddit.com/user/CapitalOne/,301,0,2021
+107,HF Sinclair,1947,Energy,38204.80,107.8,2922.70,423.5,18125.50,9491.50,5223,90,,,,,,,,,,
+108,Dollar General,1939,Retail,37844.90,10.6,2416.00,0.7,29083.40,46113.60,170000,-2,https://www.reddit.com/r/DollarGeneral/,22000,https://www.reddit.com/r/DollarGeneralWorkers/,9600,https://www.reddit.com/r/DollarGeneralNews/,,https://www.reddit.com/user/Dollargeneralwhore/,1,0,2022
+109,Arrow Electronics,1935,Technology,37124.40,7.7,1426.90,28.8,21763.20,7278.00,22300,-5,,,,,,,https://www.reddit.com/user/Arrow-Electronics/,1,0,2023
+110,Occidental Petroleum,1920,Energy,37095.00,38.6,13304.00,473,72609.00,56069.30,11973,25,https://www.reddit.com/r/OccidentalPetroleum/,3,,,,,,,,
+111,Northwestern Mutual,1857,Insurance,36920.50,0.5,911.90,-6.7,340390.20,0.00,8323,-14,,,,,,,https://www.reddit.com/user/NorthwesternMutual/,1,0,2021
+112,Travelers,1853,Insurance,36884.00,5.9,2842.00,-22.4,115717.00,39783.30,32175,-9,https://www.reddit.com/r/TravelersTV/,20000,,,,,https://www.reddit.com/user/TravelersOfficial/,1,0,2020
+113,Northrop Grumman,1939,Aerospace and Defense,36602.00,2.6,4896.00,-30.1,43755.00,70203.20,95000,-12,https://www.reddit.com/r/NorthropGrumman/,10000,,,,,https://www.reddit.com/user/Northrop__Grumman/,1,974,2022
+114,United Services Automobile Assn.,1922,Insurance,36297.20,-3.1,-1295.60,-139.3,204005.10,0.00,36820,-18,,,,,,,,,,
+115,Honeywell International,1906,Conglomerate,35466.00,3.1,4966.00,-10.4,62275.00,127695.00,97000,-10,https://www.reddit.com/r/honeywell/,1100,,,,,https://www.reddit.com/user/Honeywell678/,1,53,2021
+116,3M,1902,Manufacturing,34229.00,-3.2,5777.00,-2.4,46455.00,57964.90,92000,-14,,,,,,,,,,
+117,US Foods Holding,1989,Food and Beverage,34057.00,15.5,265.00,61.6,12773.00,8568.20,29000,0,,,,,,,,,,
+118,Warner Bros. Discovery,2022,Media and Entertainment,33817.00,177.4,-7371.00,-832.7,134001.00,36777.60,37500,192,https://www.reddit.com/r/WarnerBrosDiscovery/,519,,,,https://www.reddit.com/r/FuckWarnerBros/,https://www.reddit.com/user/WarnerBros/,1,0,2008
+119,Lennar,1954,Construction and Engineering,33671.00,24.1,4614.10,4.2,37984.30,29725.70,12012,12,https://www.reddit.com/r/LennarFullerton/,12,,,,,https://www.reddit.com/user/Lennartlau/,1479,33398,2017
+120,D.R. Horton,1978,Construction and Engineering,33480.00,20.5,5857.50,40.3,30351.10,33546.10,13237,4,https://www.reddit.com/r/drhorton,343,,,,,,,,
+121,Jabil,1966,Manufacturing,33478.00,14.3,996.00,43.1,19717.00,11749.50,250000,-2,https://www.reddit.com/r/JABIL/,2,,,,,https://www.reddit.com/user/jabilas,60491,9636,2017
+122,Cheniere Energy,1996,Energy,33428.00,110.7,1428.00,0,41266.00,38407.70,1551,111,,,,,,,https://www.reddit.com/user/cheniere/,1,0,2008
+123,Broadcom,1991,Technology,33203.00,21,11495.00,70.7,73249.00,267473.20,20000,5,https://www.reddit.com/r/Broadcom/,458,,,,https://www.reddit.com/r/BroadcomSucks/,,,,
+124,CarMax,1993,Retail,33197.20,65.2,1151.30,54.1,26338.30,10157.80,32647,50,https://www.reddit.com/r/carmax/,11000,,,https://www.reddit.com/r/Carmax_Hi_Low,,https://www.reddit.com/user/CarMax_Union/,49,14,2023
+125,Starbucks,1971,Food and Beverage,32250.30,11,3281.60,-21.9,27978.40,119676.60,402000,-5,https://www.reddit.com/r/starbucks/,285000,,,,https://www.reddit.com/r/StarbucksShaming/,https://www.reddit.com/user/Starbucks/,6,0,2024
+126,Molina Healthcare,1980,Healthcare,31974.00,15.1,792.00,20.2,12314.00,15586.30,15000,-1,,,,,,,,,,
+127,Uber Technologies,2009,Transportation and Logistics,31877.00,82.6,-9141.00,0,32109.00,63839.70,32800,83,https://www.reddit.com/r/uber/,61000,,,,,https://www.reddit.com/user/UberTechnologies/,11,1,2014
+128,Philip Morris International,2008,Consumer Goods,31762.00,1.1,9048.00,-0.7,61681.00,150946.40,79800,-18,,,,,,,,,,
+129,Netflix,1997,Media and Entertainment,31615.60,6.5,4491.90,-12.2,48594.80,153858.40,12800,-14,https://www.reddit.com/r/netflix/,1700000,,,https://www.reddit.com/r/PerfectMatchNetflix/,,https://www.reddit.com/user/netflix/,334667,88875,2019
+130,NRG Energy,1992,Energy,31543.00,16.9,1221.00,-44.2,29146.00,7964.50,6603,3,,,,,,,https://www.reddit.com/user/NRG-Energy/,1,0,2011
+131,Mondelez International,2012,Food and Beverage,31496.00,9.7,2717.00,-36.8,71161.00,95049.80,91000,-10,,,,,,,,,,
+132,Danaher,1969,Healthcare,31471.00,6.9,7209.00,12.1,84350.00,183764.10,80000,-14,https://www.reddit.com/r/Danaher/,3,,,,,https://www.reddit.com/user/Danaher2013/,1,0,2023
+133,Salesforce,1999,Technology,31352.00,18.3,208.00,-85.6,98849.00,199780.00,79390,3,https://www.reddit.com/r/salesforce/,77000,,,,,https://www.reddit.com/user/salesforce/,12,12,2021
+134,Paramount Global,2019,Media and Entertainment,31331.00,5.9,1104.00,-75.7,58393.00,14656.70,27400,-18,https://www.reddit.com/r/paramountglobal/,1400,,,,,https://www.reddit.com/user/ParamountPlus/,655,4689,2021
+135,CBRE Group,1906,Real Estate,30828.20,11.1,1407.40,-23.4,20513.40,22563.20,115000,-9,,,,,,,https://www.reddit.com/user/CBRE_AMZ,1,0,2024
+136,Micron Technology,1978,Technology,30758.00,11,8687.00,48.2,66283.00,66035.80,48000,-9,https://www.reddit.com/r/MicronTechnology/,100,,,,,https://www.reddit.com/user/MicronTechnology/,1,0,2022
+137,Visa,1958,Financial Services,29310.00,21.6,14957.00,21.5,85501.00,475307.10,26500,10,https://www.reddit.com/r/Visa/,488,,,,,,,,
+138,Southern,1945,Utilities,29279.00,26.7,3524.00,47.3,134891.00,75947.60,27562,15,https://www.reddit.com/r/Southern/,583,,,,,,,,
+139,United Natural Foods,1976,Food and Beverage,28928.00,7.2,248.00,66.4,7628.00,1565.10,30300,-7,https://www.reddit.com/r/NaturalFoods/,550,,,,,,,,
+140,Paccar,1905,Manufacturing,28819.70,22.5,3011.60,62.6,33275.50,38251.00,31100,11,https://www.reddit.com/r/Paccar/,96,,,,,https://www.reddit.com/user/paccar579/,1955,164,2019
+141,Duke Energy,1904,Utilities,28784.00,16.6,2550.00,-34.7,178086.00,74344.40,27859,4,,,,,,,https://www.reddit.com/user/DukeEnergy/,1,0,2016
+142,Eli Lilly,1876,Healthcare,28541.40,0.8,6244.80,11.9,49489.80,326350.70,39000,-20,https://www.reddit.com/r/elililly/,1,,,,,https://www.reddit.com/user/eli_lilly/,42,1925,2014
+143,Hewlett Packard Enterprise,2015,Technology,28496.00,2.6,868.00,-74.7,57123.00,20643.20,60200,-20,https://www.reddit.com/r/HPE/,2200,,,,,,,,
+144,Dollar Tree,1986,Retail,28331.70,7.6,1615.40,21.7,23022.10,31757.20,136287,-7,https://www.reddit.com/r/DollarTree/,40000,,,,,https://www.reddit.com/user/dollarTreeWaffles/,113,20,2020
+145,Lithia Motors,1946,Retail,28187.80,23.5,1251.00,18,15006.60,6337.10,21875,13,https://www.reddit.com/r/askcarsales/comments/13jfgri/lithia_motors/,227000,,,,,https://www.reddit.com/user/Lithia_Motors/,1,54,#REF!
+146,Cummins,1919,Manufacturing,28074.00,16.9,2151.00,0.9,30299.00,33811.00,73600,3,https://www.reddit.com/r/Cummins/,17000,,,,,https://www.reddit.com/user/cummins0990/,1,12,2020
+147,Penske Automotive Group,1990,Automotive,27814.80,8.8,1380.00,16.2,14114.60,9794.70,26816,-5,,,,,,,https://www.reddit.com/user/PenskeAutomotive/,1,0,2011
+148,PayPal Holdings,1998,Financial Services,27518.00,8.5,2419.00,-42,78717.00,85916.50,29900,-5,https://www.reddit.com/r/paypal/,60000,,,,,https://www.reddit.com/user/PayPalOfficial/,12,0,2008
+149,U.S. Bancorp,1863,Financial Services,27401.00,15.5,5825.00,-26.8,674805.00,55221.00,76646,1,,,,,,,https://www.reddit.com/user/usbancorpcap74/,1,0,2017
+150,Gilead Sciences,1987,Healthcare,27281.00,-0.1,4592.00,-26.2,63171.00,103614.30,17000,-21,,,,,,https://www.reddit.com/user/fuck_gilead_sciences/,,,,
+151,AutoNation,1996,Retail,26985.00,4.4,1377.40,0.3,10059.70,6301.40,23600,-10,,,,,,,https://www.reddit.com/user/AutoNationX/,1,0,2024
+152,Nvidia,1993,Technology,26974.00,0.2,4368.00,-55.2,41182.00,686091.90,26196,-18,https://www.reddit.com/r/nvidia/,1800000,,,,https://www.reddit.com/r/FuckNvidia/,https://www.reddit.com/user/Nvidia/,1,2385,2010
+153,Kraft Heinz,2015,Food and Beverage,26485.00,1.7,2363.00,133.5,90513.00,47448.00,37000,-14,https://www.reddit.com/r/KraftHeinz/,1,,,,,https://www.reddit.com/user/kraftheinz43812/,1,0,2024
+154,Amgen,1980,Healthcare,26323.00,1.3,6552.00,11.2,65121.00,129088.80,25200,-14,,,,,,,https://www.reddit.com/user/amgentos/,1,0,2022
+155,Applied Materials,1967,Technology,25785.00,11.8,6525.00,10.8,26726.00,103805.90,33000,1,https://www.reddit.com/r/AppliedMaterials/,149,,,,,,,,
+156,EOG Resources,1999,Energy,25702.00,37.9,7759.00,66.4,41371.00,67370.80,2850,37,,,,,,,https://www.reddit.com/user/Eog-/,1,0,2023
+157,Truist Financial,2019,Financial Services,25356.00,9.9,6260.00,-2.8,555255.00,45289.60,53987,-2,https://www.reddit.com/r/TruistFinancial/,1,,,,,https://www.reddit.com/user/truistfinancial/,1,0,2023
+158,Macy's,1858,Retail,25305.00,0.1,1177.00,-17.7,16866.00,4746.70,94570,-14,https://www.reddit.com/r/MacysStores/,2400,https://www.reddit.com/r/MacysEmployees/,,,,https://www.reddit.com/user/macysaurus/,565,334,2018
+159,Union Pacific,1862,Transportation,24875.00,14.1,6998.00,7.3,65449.00,123145.60,33179,4,https://www.reddit.com/r/UnionPacific/,945,,,,,https://www.reddit.com/user/UnionPacific_ET44AC/,191,233,2020
+160,C.H. Robinson Worldwide,1905,Transportation and Logistics,24696.60,6.9,940.50,11.4,5954.60,11416.50,17399,-6,,,,,,,https://www.reddit.com/user/R-H-Worldwide/,1,0,2022
+161,Rite Aid,1962,Pharmaceutical Retail,24568.30,2.2,-538.50,0,8529.00,126.60,53000,-13,https://www.reddit.com/r/RiteAid/,4500,https://www.reddit.com/r/RiteAidEmployees/,,,,,,,
+162,Constellation Energy,1999,Energy,24440.00,0,-160.00,0,46909.00,25711.60,13370,0,,,,,,,,,,
+163,Avnet,1921,Technology,24310.70,24.4,692.40,258.5,10388.50,4130.40,15300,17,,,,,,,https://www.reddit.com/user/AvnetInc/,1,0,2018
+164,Pioneer Natural Resources,1997,Energy,24294.00,65.9,7845.00,270.4,35740.00,47997.20,2076,84,,,,,,,https://www.reddit.com/user/NaturalResources/,1,0,2013
+165,Southwest Airlines,1967,Transportation,23814.00,50.8,539.00,-44.8,35369.00,19338.10,66656,69,https://www.reddit.com/r/SouthwestAirlines/,59000,,,,,https://www.reddit.com/user/southwestairlines/,1,0,2014
+166,CDW,1984,Technology,23748.70,14.1,1114.50,12.7,13131.50,26336.70,15100,0,https://www.reddit.com/r/CDWTP/,215,,,,,https://www.reddit.com/user/CDW_Corporation,90,0,2019
+167,Advanced Micro Devices,1969,Technology,23601.00,43.6,1320.00,-58.3,67580.00,157737.90,25000,59,https://www.reddit.com/r/AdvancedMicroDevices/,4200,,,,,https://www.reddit.com/user/AdvancedMicroDev/,1,0,2021
+168,PNC Financial Services Group,1845,Financial Services,23542.00,19.5,6041.00,6.5,557263.00,50799.60,60720,10,,,,,,,,,,
+169,McDonald's,1955,Food and Beverage,23182.60,-0.2,6177.40,-18.1,50435.60,204533.90,150000,-17,https://www.reddit.com/r/McDonalds/,64000,https://www.reddit.com/r/McDonaldsEmployees/,63000,,,https://www.reddit.com/user/McDonaldsUSA/,2560,250,2017
+170,Cleveland-Cliffs,1847,Manufacturing,22989.00,12.4,1335.00,-55.3,18755.00,9436.10,27000,1,,,,,,,https://www.reddit.com/user/ClevelandCliffs-CLF/,271,12164,2021
+171,Freeport-McMoRan,1981,Mining,22780.00,-0.3,3468.00,-19.5,51093.00,58529.70,25600,-14,https://www.reddit.com/r/freeport/,115,,,,,https://www.reddit.com/user/freeport/,56,2278,2012
+172,Builders FirstSource,1998,Construction and Engineering,22726.40,14.2,2749.40,59.3,10595.20,12252.70,29000,4,https://www.reddit.com/r/buildersfirstsource/,3,,,,,https://www.reddit.com/user/Builders02/,1,137,#REF!
+,Oneok,1906,Energy Infrastructure,22386.90,35.3,1722.20,14.8,24379.10,28416.40,2966,51,,,,,,,https://www.reddit.com/user/OneOk348/,17,16,2023
+174,Hartford Financial Services Group,1810,Insurance,22362.00,-0.1,1815.00,-23.3,73022.00,21816.90,18800,-14,,,,,,,,,,
+175,Charles Schwab,1971,Financial Services,22307.00,17.4,7183.00,22.7,551772.00,95264.10,35300,13,https://www.reddit.com/r/CharlesSchwab/,3100,,,,,https://www.reddit.com/user/CharlesSchwabOvaHee/,1,8202,2020
+176,Steel Dynamics,1993,Manufacturing,22260.80,20.9,3862.70,20.2,14160.00,19286.40,12060,20,,,,,,,https://www.reddit.com/user/SteeleDynamics/,15041,38660,2016
+177,Mastercard,1966,Financial Services,22237.00,17.8,9930.00,14.3,38724.00,346417.90,29900,13,https://www.reddit.com/r/Mastercard/,214,,,,,https://www.reddit.com/user/MastercardR/,1,0,2022
+178,Sherwin-Williams,1866,Chemicals,22148.90,11.1,2020.10,8.4,22594.00,58090.10,64366,-3,https://www.reddit.com/r/sherwinwilliams/,25000,,,,,https://www.reddit.com/user/SherwinWilliamsHR/,394,314,2019
+179,Genuine Parts,1928,Automotive,22096.00,17.1,1182.70,31.6,16495.40,23558.70,58000,12,,,,,,,,,,
+180,PG&E,1905,Utilities,21680.00,5,1800.00,0,118644.00,32153.50,26010,-12,https://www.reddit.com/r/PGE_4/,18,,,,https://www.reddit.com/r/fuckPGandE/,https://www.reddit.com/user/PGE437/,51,972,2019
+181,WESCO International,1922,Distribution,21420.10,17.6,860.50,84.9,14811.70,7896.90,20000,19,,,,,,,https://www.reddit.com/user/wesco_/,49,5350,2017
+182,Murphy USA,2013,Energy,21265.90,38.8,672.90,69.5,4123.20,5620.90,10550,58,https://www.reddit.com/r/MurphyUSA/,202,,,,,https://www.reddit.com/user/MurphyDogUSA/,1,0,2024
+183,WestRock,2015,Manufacturing,21256.50,13.4,944.60,12.7,28405.50,7759.20,50500,9,,,,,,,https://www.reddit.com/user/westrock/,1,203,2013
+184,International Paper,1898,Manufacturing,21161.00,-2.8,1504.00,-14.2,23940.00,12598.10,39000,-20,,,,,,,,,,
+185,Baker Hughes,1907,Energy,21156.00,3.2,-601.00,0,34181.00,29385.80,55000,-15,,,,,,,https://www.reddit.com/user/Bakerhughes303/,1,0,2022
+186,United States Steel,1901,Manufacturing,21065.00,3.9,2524.00,-39.5,19458.00,5929.80,22740,-14,https://www.reddit.com/r/TheUnitedStates/,1800,https://www.reddit.com/r/UnitedSteelWorkers/,,,,,,,
+187,NextEra Energy,1925,Energy,20956.00,22.8,4147.00,16.1,158935.00,153196.10,15300,28,,,,,,,https://www.reddit.com/user/NextEra/,1,0,2017
+188,Targa Resources,2003,Energy Infrastructure,20929.80,23.5,1195.50,1579.1,19560.00,16506.80,2850,28,,,,,,,https://www.reddit.com/user/_Targa/,1,0,2021
+189,Lear,1917,Automotive,20891.50,8.5,327.70,-12.4,13763.00,8248.10,168700,-3,,,,,,,,,,
+190,Jones Lang LaSalle,1783,Real Estate,20862.10,7.7,654.50,-31.9,15593.70,6925.60,103300,-5,,,,,,,https://www.reddit.com/user/JonesLangLaSalle/,1,0,2012
+191,Goodyear Tire & Rubber,1898,Automotive,20805.00,19,202.00,-73.6,22431.00,3121.60,74000,18,,,,,,,,,,
+192,Marriott International,1927,Hospitality,20773.00,49.9,2358.00,114.6,24815.00,51287.00,140000,78,https://www.reddit.com/r/marriott/,71000,,,,,https://www.reddit.com/user/Marriott-/,1,0,2022
+193,Marsh & McLennan,1871,Professional Services,20720.00,4.5,3050.00,-3,33454.00,82370.90,85000,-16,,,,,,,,,,
+194,Altria Group,1985,Consumer Goods,20688.00,-2,5764.00,132.9,36954.00,79671.90,6300,-29,,,,,,,https://www.reddit.com/user/Altria__/,1,0,2021
+195,Coupang,2010,Retail,20582.60,11.8,-92.00,0,9512.90,28387.90,63000,0,https://www.reddit.com/r/Coupang/,706,,,,,https://www.reddit.com/user/coupang/,9,0,2019
+196,Carrier Global,2020,Manufacturing,20421.00,-0.9,3534.00,112.4,26086.00,38199.00,52000,-27,,,,,,,,,,
+197,Halliburton,1919,Energy,20297.00,32.7,1572.00,7.9,23255.00,28605.10,45000,44,https://www.reddit.com/r/Halliburton/,126,,,,,https://www.reddit.com/user/HalliburtonCompany/,1220,271,2020
+198,Delek US Holdings,2001,Energy,20245.80,90.1,257.10,0,8192.80,1537.50,3746,148,,,,,,,,,,
+199,Kimberly-Clark,1872,Consumer Goods,20175.00,3.8,1934.00,6.6,17970.00,45293.00,44000,-17,,,,,,,https://www.reddit.com/user/Kimberly_clark_/,1,0,2023
+200,Texas Instruments,1930,Technology,20028.00,9.2,8749.00,12.6,27207.00,168774.70,33000,-2,https://www.reddit.com/r/TexasInstruments/,872,,,,,https://www.reddit.com/user/texasInstruments_84/,354,1006,2023
+201,Bank of New York Mellon,1784,Financial Services,19991.00,23.7,2573.00,-31.6,405783.00,36735.70,51700,28,,,,,,,,,,
+202,ManpowerGroup,1948,Professional Services,19827.50,-4.3,373.80,-2.2,9130.40,4191.30,30900,-35,,,,,,,,,,2022
+203,Whirlpool,1911,Consumer Goods,19724.00,-10.3,-1519.00,-185.2,17124.00,7196.50,61000,-41,https://www.reddit.com/r/Whirlpool,367,,,,,https://www.reddit.com/user/Whirlpool/,1,0,2023
+204,Waste Management,1968,Waste Management,19698.00,9.9,2238.00,23.2,31367.00,66372.20,49500,-1,https://www.reddit.com/r/wastemanagement,366,,,,,https://www.reddit.com/user/wastemanagementra/,1,0,2023
+205,American Electric Power,1906,Utilities,19639.50,17,2307.20,-7.3,93469.40,46805.90,16974,14,,,,,,,,,,
+206,Emerson Electric,1890,Manufacturing,19629.00,7.6,3231.00,40.3,35672.00,49791.80,85500,-7,,,,,,,,,,
+207,Aflac,1955,Insurance,19502.00,-11.8,4201.00,-2.9,131017.00,39467.40,12882,-46,https://www.reddit.com/r/aflac,66,,,,,https://www.reddit.com/user/aflac/,1,0,2023
+208,Cognizant Technology Solutions,1994,Technology,19428.00,5,2290.00,7.2,17852.00,31031.30,355300,-14,,,,,,,,,,
+209,Becton Dickinson,1897,Healthcare,19408.00,-4.1,1779.00,-15,52934.00,70277.00,77000,-36,https://www.reddit.com/r/Dickinson/,407,,,,,https://www.reddit.com/user/Becton_Dickinson/,1,0,2023
+210,BJ's Wholesale Club,1984,Retail,19315.20,15.9,513.20,20.3,6350.00,10186.00,34000,11,https://www.reddit.com/r/BJsWholesaleClub,5100,,,,,https://www.reddit.com/user/BJsWholesaleClub/,1,0,2023
+211,Moderna,2010,Healthcare,19263.00,4.3,8362.00,-31.5,25858.00,59232.40,3900,-16,,,,,,,,,,
+212,DTE Energy,1995,Utilities,19228.00,25.1,1083.00,19.4,42683.00,22577.10,10250,27,https://www.reddit.com/r/DTEenergy/,1,,,,,https://www.reddit.com/user/DTE_Energy/,1,0,2023
+213,Land O'Lakes,1921,Agriculture,19225.70,20.8,241.20,-16.1,9769.60,0.00,9000,19,https://www.reddit.com/r/LandOLakesFL,12,,,,,,,,
+214,Kinder Morgan,1997,Energy Infrastructure,19200.00,15.6,2548.00,42.8,70078.00,39362.90,10525,9,,,,,,,https://www.reddit.com/user/kindermorgan/,,,2020
+215,Tenet Healthcare,1967,Healthcare,19174.00,-1.6,411.00,-55,27156.00,6077.10,89088,-34,,,,,,,,,,
+216,Devon Energy,1971,Energy,19169.00,57,6015.00,113.8,23721.00,33098.90,1800,93,,,,,,,,,,
+217,Mosaic,2004,Chemicals,19125.20,54.8,3582.80,119.7,23386.00,15438.00,13570,88,https://www.reddit.com/r/Mosaic,5800,,,https://www.reddit.com/r/MosaicPorn,,https://www.reddit.com/user/mosaic_kid/,1392,1402,2011
+218,Exelon,2000,Utilities,19078.00,-47.5,2170.00,27.2,95349.00,41651.20,19063,-119,,,,,,,,,,
+219,General Mills,1928,Food and Beverage,18992.80,4.8,2707.30,15.7,31090.10,50195.30,32500,-18,,,,,,,https://www.reddit.com/user/GeneralMillss/,3368,78210,2011
+220,Global Partners,1933,Energy,18877.90,42.5,362.20,495.8,3160.90,1054.50,3585,60,,,,,,,,,,
+221,Western Digital,1970,Technology,18793.00,11.1,1500.00,82.7,26259.00,12028.90,65000,-4,https://www.reddit.com/r/WesternDigital,290,,,,,https://www.reddit.com/user/westerndigital/,33,1050,2018
+222,Lincoln National,1905,Insurance,18766.00,-5.5,-2241.00,-218.8,335108.00,3802.40,11316,-35,,,,,,,,,,
+223,Ross Stores,1982,Retail,18695.80,-1.2,1512.00,-12.2,13416.50,36301.60,101000,-34,,,,,,,https://www.reddit.com/user/Ross-Stores/,1,0,2019
+224,Stryker,1941,Medical Equipment,18449.00,7.8,2358.00,18.3,36884.00,108228.00,51000,-10,https://www.reddit.com/r/Stryker/,9,,,,,https://www.reddit.com/user/stryker2004/,8215,10330,2019
+225,Kyndryl Holdings,2021,Technology,18317.00,0,-2054.00,0,13442.00,3358.00,90000,0,https://www.reddit.com/r/kyndryl,602,,,,,https://www.reddit.com/user/Kyndryl/,1,0,2021
+226,Kohl's,1962,Retail,18098.00,-6.9,-19.00,-102,14345.00,2606.90,66500,-43,,,,,,,,,,
+227,Stanley Black & Decker,1843,Manufacturing,18003.70,4.4,1062.50,-37.1,24963.30,12333.20,54200,-15,,,,,,,,,,
+228,Colgate-Palmolive,1806,Consumer Goods,17967.00,3.1,1785.00,-17.6,15731.00,62535.10,33800,-17,,,,,,,,,,
+229,BlackRock,1988,Financial Services,17873.00,-7.7,5178.00,-12.3,117628.00,100526.20,19800,-45,https://www.reddit.com/r/blackrock,327,,,,,https://www.reddit.com/user/Blackrock_38/,43,15572,2022
+230,Estée Lauder,1946,Consumer Goods,17737.00,9.3,2530.00,89.7,83869.00,70997.10,41000,-3,,,,,,,,,,
+230,Fiserv,1984,Technology,17737.00,9.4,2390.00,-16.7,20910.00,88040.50,53865,-2,https://www.reddit.com/r/Fiserv,194,,,,,https://www.reddit.com/user/Fiserv/,1,1,2023
+232,PPG Industries,1883,Chemicals,17652.00,5.1,1026.00,-28.7,20744.00,31439.10,52000,-14,,,,,,,,,,
+233,Adobe,1982,Technology,17606.00,11.5,4756.00,-1.4,27165.00,176769.20,29239,2,https://www.reddit.com/r/Adobe,19000,https://www.reddit.com/r/AdobeExpress/,,https://www.reddit.com/r/AfterEffects,https://www.reddit.com/r/FuckAdobe,https://www.reddit.com/user/adobe/,1758,182,2019
+234,Block,2009,Technology,17531.60,-0.7,-540.70,-425.2,31364.30,41329.10,12428,-26,https://www.reddit.com/r/BLOCK,294,,,,,https://www.reddit.com/user/block/,1,0,2009
+235,Synchrony Financial,2003,Financial Services,17526.00,11.3,3016.00,-28.5,104564.00,12709.00,18500,1,,,,,,,https://www.reddit.com/user/synchronyfinancial/,1,0,2022
+236,Principal Financial,1879,Financial Services,17491.60,22.6,4811.60,181.3,292239.60,18067.50,19300,20,,,,,,,,,,
+237,Lumen Technologies,1968,Telecommunications,17478.00,-11.2,-1548.00,-176.1,45581.00,2653.50,29000,-58,https://www.reddit.com/r/LumenTechnologies,256,,,,,https://www.reddit.com/user/lumentechnologies/,1,0,2021
+238,Corteva,2019,Chemicals,17455.00,11.5,1147.00,-34.8,42618.00,42977.20,21000,-1,https://www.reddit.com/r/farming,161000,,,,,https://www.reddit.com/user/Corteva/,1,0,2013
+239,Andersons,1947,Agriculture,17350.50,36.3,131.10,26.1,4608.00,1395.60,2244,56,,,,,,,,,,
+240,Lam Research,1980,Technology,17227.00,17.8,4605.30,17.8,17195.60,71532.40,17700,10,,,,,,,,,,
+241,Edison International,1886,Utilities,17220.00,15.5,612.00,-19.4,78041.00,27009.70,13110,2,,,,,,,,,,
+242,Dominion Energy,1983,Utilities,17174.00,20.8,994.00,-69.8,104243.00,46698.90,17200,15,https://www.reddit.com/r/DominionEnergy/,2,,,,,https://www.reddit.com/user/dominionenergysolu/,1,0,2023
+243,Booking Holdings,1997,Technology,17090.00,56,3058.00,162.5,25361.00,99858.90,21492,97,,,,,,,,,,
+244,Quanta Services,1997,Construction and Engineering,17073.90,31.5,491.20,1.1,13464.30,23996.20,47300,41,,,,,,,,,,
+245,Expeditors International of Washington,1979,Transportation and Logistics,17071.30,3.3,1357.40,-4.1,5590.40,17008.70,20302,-20,,,,,,,,,,
+246,L3Harris Technologies,1895,Aerospace and Defense,17062.00,-4.2,1062.00,-42.5,33524.00,37277.10,46000,-40,https://www.reddit.com/r/L3Harris,2300,,,,,https://www.reddit.com/user/l3harris/,1,0,2019
+247,Reliance Steel & Aluminum,1939,Manufacturing,17025.00,20.8,1840.10,30.2,10329.90,15142.40,14750,14,,,,,,,,,,
+248,Live Nation Entertainment,2005,Media and Entertainment,16681.30,166.1,296.00,0,16460.80,16211.40,20550,0,https://www.reddit.com/r/LiveNation,53,,,,https://www.reddit.com/r/FuckLiveNation,https://www.reddit.com/user/Live_Nation/,,,2023
+249,DISH Network,1980,Telecommunications,16679.40,-6.7,2303.20,-4.5,52606.60,4955.60,14200,-44,https://www.reddit.com/r/dishnetwork,3000,,,,,https://www.reddit.com/user/DISH_Network/,1,0,2011
+250,DuPont,1802,Chemicals,16549.00,-3.6,5868.00,-9.3,41355.00,32894.90,23000,-37,https://www.reddit.com/r/DuPont,261,,,,https://www.reddit.com/r/fuckdupont,https://www.reddit.com/user/dupont28/,67,604,2018
+251,Automatic Data Processing,1949,Technology,16498.30,9.9,2948.90,13.5,63068.20,92247.10,60000,-9,,,,,,,,,,
+252,Group 1 Automotive,1997,Retail,16412.30,18.9,751.50,36.1,6717.50,3194.20,15491,21,,,,,,,,,,
+253,Aramark,1936,Professional Services,16326.60,35,194.50,0,15082.40,9326.40,273875,61,https://www.reddit.com/r/Aramark/,313,,,https://www.reddit.com/r/UnionizeAutoZone,https://www.reddit.com/r/Aramark,https://www.reddit.com/user/Aramark312/,1,0,2023
+254,Thor Industries,1980,Automotive,16312.50,32.4,1137.80,72.4,7408.10,4262.30,32000,52,,,,,,,,,,
+255,DXC Technology,2017,Technology,16265.00,-8.3,718.00,0,20139.00,5819.60,130000,-48,,,,,,,,,,
+256,Viatris,2020,Healthcare,16262.70,-9.1,2078.60,0,50022.20,11513.40,37000,-52,,,,,,,,,,
+257,Reinsurance Group of America,1973,Insurance,16258.00,-2.4,623.00,1,84706.00,8876.40,3800,-35,,,,,,,,,,
+258,AutoZone,1979,Retail,16252.20,11.1,2429.60,11.9,15275.00,45224.30,90720,-9,https://www.reddit.com/r/AutoZone,5200,,,,,,,,
+259,PulteGroup,1950,Construction and Engineering,16229.00,16.5,2617.30,34.5,14796.50,13072.80,6524,8,,,,,,,,,,
+260,Illinois Tool Works,1912,Manufacturing,15932.00,10.2,3034.00,12.6,15422.00,74208.70,46000,-8,,,,,,,,,,
+261,Parker-Hannifin,1917,Manufacturing,15861.60,10.6,1315.60,-24.7,25943.90,43111.50,55090,-8,,,,,,,,,,
+262,BorgWarner,1928,Automotive,15801.00,6.5,944.00,75.8,16994.00,11481.20,52700,-18,,,,,,,https://www.reddit.com/user/BorgWarner/,2,9,2014
+263,Westlake,1986,Chemicals,15794.00,34.1,2247.00,11.5,20550.00,14812.30,15920,57,,,,,,,https://www.reddit.com/user/Westlake315/,1,0,2022
+264,Consolidated Edison,1824,Utilities,15670.00,14.6,1660.00,23.3,69065.00,33967.20,14319,12,,,,,,,,,,
+265,Gap,1969,Apparel,15616.00,-6.3,-202.00,-178.9,11386.00,3693.00,95000,-45,,,,,,,,,,
+266,Opendoor Technologies,2014,Real Estate,15567.00,94.1,-1353.00,0,6608.00,1130.90,2570,159,https://www.reddit.com/r/OPENDOORTECH/,1100,,,,,,,,
+267,Nordstrom,1901,Retail,15530.00,5,245.00,37.6,8745.00,2605.70,60000,-22,https://www.reddit.com/r/Nordstrom1901/,5000,,,,,https://www.reddit.com/user/Nordstrom1901/,48,4302,2014
+268,Asbury Automotive Group,1995,Retail,15433.80,56.9,997.30,87.3,8021.40,4556.70,13000,92,,,,,,,,,,
+269,Ball,1880,Manufacturing,15349.00,11.1,719.00,-18.1,19909.00,17326.30,21000,3,,,,,,,https://www.reddit.com/user/ball/,1,0,2007
+270,Kellogg,1906,Food and Beverage,15315.00,8,960.00,-35.5,18496.00,22945.10,30000,-12,https://www.reddit.com/r/kellogg/,81,,,,,https://www.reddit.com/user/kellogg76/,1569,9539,2010
+271,Xcel Energy,1909,Utilities,15310.00,14,1736.00,8.7,61188.00,37081.70,11982,7,,,,,,,https://www.reddit.com/user/XcelEnergy/,1,0,2024
+272,W.W. Grainger,1927,Wholesale,15228.00,16.9,1547.00,48.3,7588.00,34621.50,24500,12,,,,,,,,,,
+273,Discover Financial Services,1985,Financial Services,15202.00,15,4392.00,-19.4,131628.00,25635.20,20200,8,,,,,,,,,,
+274,Baxter International,1931,Healthcare,15113.00,18.2,-2433.00,-289.5,28287.00,20504.00,60000,18,,,,,,,,,,
+275,Southwestern Energy,1929,Energy,15002.00,125,1849.00,0,12926.00,5506.30,1118,211,,,,,,,,,,
+276,DCP Midstream,2005,Energy Infrastructure,14993.00,40,1052.00,169.1,13334.00,8700.70,1910,68,,,,,,,https://www.reddit.com/user/dcp-/,95,0,2021
+277,Jacobs Solutions,1947,Construction and Engineering,14922.80,5.9,644.00,35,14660.40,14890.20,58350,-15,,,,,,,https://www.reddit.com/user/JacobsSolutions/,1,0,2019
+278,Laboratory Corp. of America,1978,Healthcare,14876.80,-7.7,1279.10,-46.2,20155.10,20303.90,75200,-48,,,,,,,,,,
+279,CSX,1980,Transportation,14853.00,18.6,4166.00,10.2,41912.00,61330.00,22542,19,https://www.reddit.com/r/CSX,56,,,,,,,,
+280,J.B. Hunt Transport Services,1961,Transportation,14814.00,21.7,969.40,27.4,7786.60,18207.50,37151,31,,,,,,,,,,
+281,Guardian Life Ins. Co. of America,1860,Insurance,14653.00,0,71.00,-75.4,91620.00,0.00,8025,-34,,,,,,,,,,
+282,Jackson Financial,1961,Financial Services,14551.00,57.4,5697.00,79,311058.00,3078.10,3435,113,,,,,,,,,,
+283,Fidelity National Information Services,1968,Technology,14528.00,4.7,-16720.00,-4109.6,63278.00,32159.90,69000,-15,,,,,,,,,,
+284,Berry Global Group,1967,Manufacturing,14495.00,4.7,766.00,4.5,16956.00,7150.50,46000,-13,,,,,,,,,,
+285,Sempra,1998,Utilities,14439.00,12.3,2138.00,62.3,78574.00,47562.50,15785,3,,,,,,,https://www.reddit.com/user/Sempra15/,1,0,2021
+286,IQVIA Holdings,2016,Healthcare,14410.00,3.9,1091.00,12.9,25337.00,37021.60,86000,-17,,,,,,,,,,
+287,O'Reilly Automotive,1957,Retail,14409.90,8.1,2172.70,0.4,12628.00,52269.30,79679,-8,,,,,,,,,,
+288,Leidos Holdings,1969,Professional Services,14396.00,4.8,685.00,-9,13071.00,12630.00,45000,-14,,,,,,,,,,
+289,Ameriprise Financial,1894,Financial Services,14347.00,6.7,2559.00,-7.3,158468.00,32227.80,13500,-12,,,,,,,https://www.reddit.com/user/AmeripriseFinancial/,1,0,2016
+290,Omnicom Group,1986,Professional Services,14289.10,0,1316.50,-6.5,27002.50,19000.90,74200,-35,https://www.reddit.com/r/OmnicomGroup/,1,,,,,,,,
+291,Tractor Supply,1938,Retail,14204.70,11.6,1088.70,9.2,8490.00,25829.80,36500,3,https://www.reddit.com/r/tractorsupply/,2000,,,,,https://www.reddit.com/user/tractorsupply/,1,0,2020
+292,Corning,1851,Technology,14189.00,0.8,1316.00,-31,29499.00,29890.30,57500,-29,https://www.reddit.com/r/Corning/,673,,,,,,,,
+293,Ecolab,1923,Chemicals,14187.80,11.4,1091.70,-3.4,21464.30,47121.30,47000,0,https://www.reddit.com/r/ecolab/,5,,,,,https://www.reddit.com/user/EcoLab420/,1,164,2021
+294,Icahn Enterprises,1987,Conglomerate,14101.00,24.5,-183.00,0,27914.00,18283.20,20041,34,,,,,,,,,,
+295,Farmers Insurance Exchange,1928,Insurance,14092.30,0.3,-314.20,0,22979.20,0.00,11344,-31,https://www.reddit.com/r/farmersinsurance,1000,https://www.reddit.com/r/FIG_employees,514,,,,,,
+296,Keurig Dr Pepper,1981,Food and Beverage,14057.00,10.8,1436.00,-33.1,51837.00,49619.50,28000,0,https://www.reddit.com/r/DrPepper,36000,https://www.reddit.com/r/DrPepperGang,,,,https://www.reddit.com/user/DrPepper_US/,1365,7,2021
+297,Loews,1954,Conglomerate,14044.00,-4.2,1012.00,-35.9,75494.00,13395.40,12050,-51,,,,,,,,,,
+298,Equitable Holdings,1859,Financial Services,14017.00,27,1785.00,0,253468.00,9186.30,10250,38,,,,,,,,,,
+299,Sonic Automotive,1997,Retail,14001.10,12.9,88.50,-74.6,4978.30,1929.50,10300,1,,,,,,,,,,
+300,Fox,2019,Media and Entertainment,13974.00,8.3,1205.00,-44,22185.00,17550.70,10600,-13,https://www.reddit.com/r/Fox,5900,,,,,https://www.reddit.com/user/Fox/,1,0,2006
+301,American Family Insurance Group,1927,Insurance,13813.80,-5.5,-1904.40,-359.3,36087.70,0.00,12990,-50,,,,,,,,,,
+302,Entergy,1913,Utilities,13764.20,17.2,1103.20,-1.4,58595.20,22850.70,11707,19,,,,,,https://www.reddit.com/r/fuckentergy,https://www.reddit.com/user/entergy/,1,0,2010
+303,Fluor,1912,Construction and Engineering,13744.00,-2.9,145.00,0,6827.00,4392.30,39576,-44,,,,,,,,,,
+304,Vistra,2016,Energy,13728.00,13.7,-1227.00,0,32787.00,9154.90,4910,11,https://www.reddit.com/r/Vistra,73,,,,,https://www.reddit.com/user/Vistraa/,4311,1976,2016
+305,State Street,1792,Financial Services,13692.00,13.8,2774.00,3,301450.00,26073.60,42226,11,,,,,,,,,,
+306,Otis Worldwide,1853,Manufacturing,13685.00,-4.3,1253.00,0.6,9819.00,35015.00,69000,-52,,,,,,,,,,
+307,Peter Kiewit Sons',1884,Construction and Engineering,13663.00,12.5,710.00,-5.7,7220.00,0.00,25700,6,,,,,,,https://www.reddit.com/user/peter_sons/,1,0,2023
+308,Carvana,2012,Retail,13604.00,6.2,-1587.00,0,8698.00,1760.80,16600,-18,https://www.reddit.com/r/carvana,24000,https://www.reddit.com/r/carvanaemployees,,,,https://www.reddit.com/user/Carvana/,943,206,2023
+309,Republic Services,1998,Waste Management,13511.30,19.6,1487.60,15.3,29052.90,42762.50,40000,20,https://www.reddit.com/r/RepublicServices,52,,,,,https://www.reddit.com/user/republic_services/,2,0,2017
+310,AECOM,1990,Construction and Engineering,13495.60,-4.4,310.60,79.4,11139.30,11716.30,50000,-50,,,,,,,,,,
+311,Universal Health Services,1979,Healthcare,13399.40,6,675.60,-31.9,13494.20,8982.20,82500,-14,https://www.reddit.com/r/UniversalHealthCare/,1700,,,,,,,,
+312,Pacific Life,1868,Insurance,13360.00,-4.1,763.00,-30.8,199324.00,0.00,3950,-46,,,,,,,https://www.reddit.com/user/PacificLife/,1,0,2009
+313,VMware,1998,Technology,13350.00,3.9,1314.00,-27.8,31237.00,53496.10,38300,0,https://www.reddit.com/r/vmware,146000,,,,,https://www.reddit.com/user/VMware_Official/,104,0,2019
+314,Western & Southern Financial Group,1888,Insurance,13156.10,39.3,309.20,-14.4,69147.20,0.00,2594,58,,,,,,,,,,
+315,MGM Resorts International,1986,Hospitality,13127.50,35.6,1473.10,17.4,45692.20,16563.90,66000,49,https://www.reddit.com/r/MGMresorts,26,,,,,https://www.reddit.com/user/_MGM_/,14,8105,2017
+316,Casey's General Stores,1968,Retail,12952.60,48.8,339.80,8.6,5505.70,8065.80,31466,129,https://www.reddit.com/r/Caseys,1100,,,,,https://www.reddit.com/user/generalStores/,1,0,2019
+317,Crown Holdings,1892,Manufacturing,12943.00,-0.3,727.00,0,14301.00,9934.10,26000,-31,,,,,,,,,,
+318,Textron,1923,Aerospace and Defense,12869.00,3.9,861.00,15.4,16293.00,14384.50,34000,-16,https://www.reddit.com/r/textron,2,,,,,https://www.reddit.com/user/TexTronic/,1,0,2022
+319,LKQ,1998,Automotive,12794.00,-2.3,1149.00,5.3,12038.00,15171.40,45000,-36,,,,,,,https://www.reddit.com/user/lkqlkq/,1,0,2023
+320,Norfolk Southern,1982,Transportation,12745.00,14.4,3270.00,8.8,38885.00,48257.20,19300,12,https://www.reddit.com/r/norfolksouthern,378,,,,,https://www.reddit.com/user/NorfolkSouthern/,904,5139,2012
+321,Intuit,1983,Technology,12726.00,32.1,2066.00,0.2,27734.00,125076.00,21850,45,,,,,,,https://www.reddit.com/user/Intuit_Official/,44,0,2019
+322,Air Products & Chemicals,1940,Chemicals,12698.60,23,2256.10,7.5,27192.60,63784.40,20805,28,,,,,,,,,,
+323,Boston Scientific,1979,Healthcare,12682.00,6.7,698.00,-32.9,32469.00,71909.50,45000,-4,,,,,,,https://www.reddit.com/user/BostonScientific/,1,58,2021
+324,AGCO,1990,Manufacturing,12651.40,13.6,889.60,-0.8,10103.70,10119.20,25600,10,https://www.reddit.com/r/AGCO,3,,,,,,,,
+325,Henry Schein,1932,Healthcare,12647.00,2,538.00,-14.8,8607.00,10704.90,22000,-26,,,,,,,https://www.reddit.com/user/HenrySchein531/,1,0,2019
+326,Amphenol,1932,Manufacturing,12623.00,16.1,1902.30,19.6,15326.20,48591.10,91000,15,,,,,,,https://www.reddit.com/user/Amphenol/,1,104,2014
+327,AES,1981,Energy,12617.00,13.2,-546.00,0,38363.00,16110.30,9100,6,https://www.reddit.com/r/AES,562,,,,,,,,
+328,Mutual of Omaha Insurance,1909,Insurance,12530.60,8.1,-177.20,-200.2,45139.60,0.00,6350,-4,,,,,,,https://www.reddit.com/user/MutualOfOmahas/,1,4,2021
+329,Ovintiv,2002,Energy,12464.00,44,3637.00,156.9,15056.00,8771.90,1744,71,,,,,,,,,,
+330,Hormel Foods,1891,Food and Beverage,12458.80,9.4,1000.00,10,13306.90,21795.70,20000,-3,,,,,,,https://www.reddit.com/user/HormelFoods/,1,4,2011
+331,Alcoa,1888,Manufacturing,12451.00,2.5,-123.00,-128.7,14756.00,7590.80,13100,-19,,,,,,,,,,
+332,International Flavors & Fragrances,1958,Chemicals,12440.00,6.7,-1871.00,-793,35407.00,23456.00,24600,-10,,,,,,,,,,
+333,Jones Financial (Edward Jones),1922,Financial Services,12411.00,0.3,1404.00,-12.5,29892.00,0.00,52000,-30,,,,,,,,,,
+334,Dick's Sporting Goods,1948,Retail,12368.20,0.6,1043.10,-31.4,8992.20,12148.40,35800,-27,https://www.reddit.com/r/dickssportinggoods,1600,,,,,,,,
+335,Eversource Energy,1966,Utilities,12289.30,24.6,1404.90,15.1,53230.90,27287.20,9626,23,,,,,,,,,,
+336,Wayfair,2002,Retail,12218.00,-10.9,-1331.00,0,3580.00,3795.80,15745,-61,https://www.reddit.com/r/wayfair,7300,,,,,https://www.reddit.com/user/wayfair/,3,7,2018
+337,Community Health Systems,1985,Healthcare,12211.00,-1.3,46.00,-80,14669.00,670.10,58500,-33,,,https://www.reddit.com/r/CommunityHealthWorker/,137,,,https://www.reddit.com/user/community_health_/,1,0,2023
+338,Ally Financial,1919,Financial Services,12199.00,14.1,1714.00,-44,191826.00,7667.70,11600,7,https://www.reddit.com/r/allyinvest,274,,,,,https://www.reddit.com/user/allyfinancial/,688,289,2018
+339,Regeneron Pharmaceuticals,1988,Healthcare,12172.90,-24.3,4338.40,-46.3,29214.50,89829.50,11851,-108,,,,,,,,,,
+340,Liberty Media,1991,Media and Entertainment,12164.00,6.7,1815.00,356,42464.00,9129.70,7283,-14,,,,,,,https://www.reddit.com/user/LIBERTY__MEDIA/,1,72,2018
+341,APA,1954,Energy,12132.00,53,3674.00,277.6,13147.00,11213.00,2273,90,https://www.reddit.com/r/APA,476,,,,,,,,
+342,Qurate Retail,1991,Retail,12106.00,-13.8,-2594.00,-862.9,12571.00,406.00,24683,-77,,,,,,,https://www.reddit.com/user/qurate/,1,0,2015
+343,FirstEnergy,1997,Utilities,12053.00,12,406.00,-68.4,46108.00,22924.10,12335,0,https://www.reddit.com/r/firstenergy,44,,,,,https://www.reddit.com/user/First_Energy/,1,0,2020
+344,Analog Devices,1965,Technology,12014.00,64.2,2748.60,97.7,50302.40,99764.20,24450,119,,,,,,,https://www.reddit.com/user/AnalogDevices/,1,0,2022
+345,Ryder System,1933,Transportation and Logistics,12011.00,24.3,867.00,67,14395.00,4147.30,48300,20,,,,,,,https://www.reddit.com/user/RyderSystem/,1,0,2015
+346,Avis Budget Group,1946,Transportation,11994.00,28.8,2764.00,115.1,25927.00,7688.90,21500,32,,,,,,,,,,
+347,Unum Group,1848,Insurance,11991.00,-0.2,1314.20,59.5,61434.90,7805.00,10801,-30,https://www.reddit.com/r/unumgroup,1,,,,,https://www.reddit.com/user/unum_terram/,6244,12420,2021
+348,Newmont,1921,Mining,11915.00,-2.5,-429.00,-136.8,38482.00,38946.80,14600,-40,,,,,,,https://www.reddit.com/user/NewMonth10/,1,0,2022
+349,VF,1899,Apparel,11841.80,28.2,1386.90,240,13342.20,8904.10,27650,31,,,,,,,,,,
+350,Chesapeake Energy,1989,Energy,11743.00,102.2,4936.00,0,15468.00,10244.10,1200,0,,,,,,,https://www.reddit.com/user/chesapeake_energy/,3,0,2013
+351,Mohawk Industries,1878,Manufacturing,11737.10,4.8,25.20,-97.6,14120.40,6368.00,40900,-21,https://www.reddit.com/r/Mohawks/,2300,,,,,https://www.reddit.com/user/Mohawk-/,1,0,2021
+352,Markel,1930,Insurance,11675.30,-9.1,-214.10,-108.8,49791.30,17094.40,20900,-63,https://www.reddit.com/r/markel,1,,,,,https://www.reddit.com/r/markel,9280,147194,2015
+353,Expedia Group,1996,Technology,11667.00,35.7,352.00,2833.3,21561.00,14879.40,16500,51,,,,,,,https://www.reddit.com/user/Expedia_Group/,1,0,2022
+354,Caesars Entertainment,1937,Hospitality,11647.00,4.8,-899.00,0,33527.00,10503.00,49000,-19,,,,,,,,,,
+355,United Rentals,1997,Rental Services,11642.00,19.8,2105.00,51.9,24183.00,27459.80,24600,8,https://www.reddit.com/r/unitedrentals,1,,,,,https://www.reddit.com/user/RentalsUnited/,1,0,2018
+356,Apollo Global Management,1990,Financial Services,11627.00,27.4,-3213.00,-274.8,259333.00,36042.40,4258,30,,,,,,,https://www.reddit.com/user/apollo_global/,1,0,2024
+357,DaVita,1999,Healthcare,11609.90,-0.1,560.40,-42.7,16928.30,7332.30,70000,-34,,,,,,,https://www.reddit.com/user/davitag/,2063,1149,2018
+358,Hess,1919,Energy,11570.00,52.6,2096.00,275,21695.00,40519.90,1623,89,https://www.reddit.com/r/Hessen,1800,,,,,,,,
+359,Fidelity National Financial,1847,Insurance,11556.00,-26.1,1136.00,-53.1,65589.00,9508.20,21759,-121,https://www.reddit.com/r/Fidelity,28000,,,,,,,,
+360,Conagra Brands,1919,Food and Beverage,11535.90,3.1,888.20,-31.6,22435.10,17901.90,18000,-29,,,,,,,,,,
+361,Univar Solutions,1924,Chemicals,11475.30,20.3,545.30,18.4,7145.70,5520.50,9746,8,,,,,,,https://www.reddit.com/user/univar/,1,0,2015
+362,Auto-Owners Insurance,1916,Insurance,11407.20,3.9,-54.50,-104.1,33219.40,0.00,6733,-23,,,,,,,https://www.reddit.com/user/AutoOwnersIns/,1,0,2015
+363,Raymond James Financial,1962,Financial Services,11308.00,14.1,1509.00,7.6,80951.00,20085.80,17000,-7,,,,,,,https://www.reddit.com/user/RaymondJames12/,1,284,2022
+364,Seaboard,1918,Agriculture,11243.00,21.8,580.00,1.8,7902.00,4376.10,12614,18,,,,,,,https://www.reddit.com/user/SeaBoard111/,1,0,2023
+365,CF Industries Holdings,1946,Chemicals,11185.50,71.1,3345.80,264.8,13312.50,14206.20,2659,127,,,,,,,,,,
+366,S&P Global,1860,Financial Services,11181.00,34.8,3248.00,7.4,61784.00,113066.40,39950,51,,,,,,,,,,
+367,W.R. Berkley,1967,Insurance,11166.50,18.1,1381.10,35.1,33861.10,16402.20,8186,4,https://www.reddit.com/r/berkley,240,,,,,https://www.reddit.com/user/Berkley-/,1,0,2022
+368,Advance Auto Parts,1932,Retail,11154.70,1.4,501.90,-18.5,12018.50,7208.30,53500,-31,https://www.reddit.com/r/advanceautoparts,533,,,,,https://www.reddit.com/user/advanceautoparts/,8,0,2023
+369,EMCOR Group,1994,Construction and Engineering,11076.10,11.8,406.10,5.9,5524.60,7753.60,35500,-12,,,,,,,,,,
+370,Williams,1908,Energy Infrastructure,10965.00,3.2,2049.00,35.1,48433.00,36393.70,5043,-23,https://www.reddit.com/r/Williams,115,,,,,,,,
+371,Interpublic Group,1961,Media and Entertainment,10927.80,6.7,938.00,-1.6,18845.00,14341.40,58400,-18,,,,,,,,,,
+372,TravelCenters of America,1972,Transportation,10845.00,47.8,164.10,180.3,3652.90,1306.30,17195,89,,,,,,,,,,
+373,American Tower,1995,Telecommunications,10711.10,14.5,1765.80,-31.2,67194.50,95150.10,6391,2,,,,,,,,,,
+374,Molson Coors Beverage,2005,Food and Beverage,10701.00,4.1,-175.30,-117.4,25868.30,11359.80,16600,-22,,,,,,,https://www.reddit.com/user/Molson_Coors/,38,430,2023
+375,Huntington Ingalls Industries,2011,Aerospace and Defense,10676.00,12.1,579.00,6.4,10857.00,8265.40,43000,-5,,,,,,,,,,
+376,NVR,1948,Construction and Engineering,10580.30,18,1725.60,39.5,5661.00,18095.80,6550,13,,,,,,,,,,
+377,Eastman Chemical,1920,Chemicals,10580.00,1,793.00,-7.5,14667.00,10048.10,14500,-28,,,,,,,,,,
+378,Graybar Electric,1869,Wholesale,10534.40,20.2,452.90,72.6,3749.10,0.00,9400,21,,,,,,,https://www.reddit.com/user/Graybar-Electric/,1,0,2019
+379,Insight Enterprises,1988,Technology,10431.20,10.5,280.60,27.9,5112.60,4833.10,13448,-6,,,,,,,https://www.reddit.com/user/Insight_Enterprises/,4,14,2017
+380,Hershey,1894,Food and Beverage,10419.30,16.1,1644.80,11.3,10948.80,51908.80,18970,8,https://www.reddit.com/r/Hershey,10000,,,,,,,,
+381,News Corp.,2013,Media and Entertainment,10385.00,11,623.00,88.8,17221.00,9971.60,25500,-7,,,found,,,,https://www.reddit.com/user/NewsCorporation/,1,0,2021
+382,Toll Brothers,1967,Construction and Engineering,10275.60,16.9,1286.50,54.3,12288.70,6647.30,5200,15,https://www.reddit.com/r/TollBrothers,3,,,,,https://www.reddit.com/user/TollBrothers/,1,0,2015
+383,Ulta Beauty,1990,Retail,10208.60,18.3,1242.40,26,5370.40,27390.00,35750,19,https://www.reddit.com/r/Ulta/,83000,,,,,https://www.reddit.com/user/ultabeauty/,242,42,2018
+384,Assurant,1892,Insurance,10193.00,-10.7,276.60,-79.7,33123.80,6354.20,13700,-59,https://www.reddit.com/r/Assurant,384,,,,,https://www.reddit.com/user/assurant/,1,1,2016
+385,Weyerhaeuser,1900,Agriculture,10184.00,-0.2,1880.00,-27.9,17340.00,22082.00,9264,-31,,,,,,,https://www.reddit.com/user/Weyerhaeuser9797/,1,0,2017
+386,Biogen,1978,Healthcare,10173.40,-7.4,3046.90,95.8,24554.10,40171.30,8725,-48,,,,,,,,,,
+387,Dana,1904,Automotive,10156.00,13.5,-242.00,-222.8,7449.00,2172.20,41800,4,,,,,,,,,,
+388,UGI,1882,Energy,10106.00,35.7,1073.00,-26.9,17575.00,7284.20,10000,67,,,,,,,,,,
+389,Chewy,2011,Retail,10098.90,13.6,49.20,0,2515.10,15959.20,19400,5,,,,,,,https://www.reddit.com/user/chewy2728/,30,37,2018
+390,Owens & Minor,1882,Healthcare,9955.50,1.7,22.40,-89.9,5386.30,1108.60,22500,-29,,,,,,,https://www.reddit.com/user/owens/,1,0,2008
+391,Quest Diagnostics,1967,Healthcare,9883.00,-8.4,946.00,-52.6,12837.00,15750.00,44500,-49,https://www.reddit.com/r/QuestDiagnostics,2,,,,,https://www.reddit.com/user/QuestDiagnostics/,3,0,2020
+392,Public Service Enterprise Group,1903,Utilities,9800.00,0.8,1031.00,0,48718.00,31148.20,12525,-30,,,,,,,,,,
+393,Ebay,1995,Technology,9795.00,-21,-1269.00,-109.3,20850.00,23821.40,11600,-92,https://www.reddit.com/r/Ebay,168000,,,,,https://www.reddit.com/user/Ebays/,5204,7949,2011
+394,MasTec,1968,Construction and Engineering,9778.00,23,33.40,-89.9,9293.30,7441.00,32000,35,,,,,,,https://www.reddit.com/user/Mastec14_/,1,0,2022
+395,Owens Corning,1938,Manufacturing,9761.00,14.9,1241.00,24.7,10752.00,8696.50,19000,13,,,,,,,https://www.reddit.com/user/OwensCorning/,1,0,2022
+396,Celanese,1918,Chemicals,9673.00,13.3,1894.00,0.2,26272.00,12067.70,13263,10,,,,,,,https://www.reddit.com/user/Celanese/,1,0,2018
+397,Altice USA,2001,Telecommunications,9647.70,-4.4,194.60,-80.4,33665.00,1559.80,11000,-42,https://www.reddit.com/r/AlticeUSA/,370,,,,,https://www.reddit.com/user/Altice101/,1,0,2022
+398,Alaska Air Group,1932,Transportation,9646.00,56.2,58.00,-87.9,14186.00,5348.40,24196,0,,,,,,,https://www.reddit.com/user/AlaskaAir/,9,0,2022
+399,SpartanNash,1917,Food and Beverage,9643.10,8,34.50,-53.2,2306.60,869.50,14000,-7,https://www.reddit.com/r/SpartanNash/,10,,,,,https://www.reddit.com/user/NashSpartan/,1,0,2017
+400,Diamondback Energy,2007,Energy,9643.00,41.9,4386.00,101,26209.00,24815.90,972,79,,,,,,,https://www.reddit.com/user/Diamondback-/,1,0,2021
+401,Intercontinental Exchange,2000,Financial Services,9636.00,5.1,1446.00,-64.4,194338.00,58371.60,8911,-17,,,,,,,https://www.reddit.com/user/_Intercontinental/,1,12,2021
+402,Darden Restaurants,1968,Food and Beverage,9630.00,33.8,952.80,51.4,10135.80,18883.80,178956,63,,,,,,,,,,
+403,UFP Industries,1955,Manufacturing,9626.70,11.5,692.70,29.3,3672.10,4964.30,15500,-2,,,,,,,https://www.reddit.com/user/ufp01/,1,0,2021
+404,WEC Energy Group,1987,Utilities,9597.40,15.4,1408.10,8.3,41872.10,29900.00,7022,12,,,,,,,https://www.reddit.com/user/Wec25/,5,77335,2012
+405,Yum China Holdings,2016,Food and Beverage,9569.00,-2.9,442.00,-55.4,11826.00,26517.20,275500,-46,,,,,,,,,,
+406,EnLink Midstream,2013,Energy Infrastructure,9542.10,42.7,361.30,1512.9,8651.00,5101.70,1132,79,,,,,,,,,,
+407,Continental Resources,1967,Energy,9473.70,65.6,4024.60,142.3,20878.40,0.00,1404,0,,,,,,,https://www.reddit.com/user/ContinentalResources/,1,0,2017
+408,Newell Brands,1903,Consumer Goods,9459.00,-10.7,197.00,-65.6,13262.00,5145.20,28000,-60,,,,,,,https://www.reddit.com/user/Newell_/,4,-8,2022
+409,Graphic Packaging Holding,1991,Manufacturing,9440.00,31.9,522.00,155.9,10328.00,7828.50,24000,57,,,,,,,https://www.reddit.com/user/Graphic-_-/,1,0,2021
+410,Olin,1892,Chemicals,9376.20,5.2,1326.90,2.3,8044.20,7263.20,7780,-17,https://www.reddit.com/r/olin/,254,,,,,https://www.reddit.com/user/oline27/,1,5,2020
+411,Fifth Third Bancorp,1858,Financial Services,9353.00,12.3,2446.00,-11.7,207452.00,18143.30,19319,4,,,,,,,,,,
+412,Thrivent Financial for Lutherans,1902,Financial Services,9346.80,-9.4,1085.40,-57.1,110100.40,0.00,3692,-61,,,,,,,,,,
+413,CenterPoint Energy,1882,Utilities,9321.00,11.6,1057.00,-28.9,38546.00,18589.30,8986,1,,,,,,,https://www.reddit.com/user/CenterpointEnergy/,1,0,2024
+414,Erie Insurance Group,1925,Insurance,9295.50,-3.4,-577.30,-151.1,26597.60,0.00,5997,-46,https://www.reddit.com/r/ErieInsurance/,78,,,,,https://www.reddit.com/user/ErieInsurance/,1,0,2019
+415,CommScope Holding,1976,Telecommunications,9228.10,7.5,-1286.90,0,11685.40,1336.10,30000,-10,,,,,,,,,,
+416,KLA,1975,Technology,9211.90,33.1,3321.80,59.8,12597.10,55277.00,14140,58,,,,,,,https://www.reddit.com/user/klayco47/,29685,8837,2019
+417,JetBlue Airways,1998,Transportation,9158.00,51.7,-362.00,0,13045.00,2382.50,18785,0,https://www.reddit.com/r/jetblue/,9600,,,,,https://www.reddit.com/user/jetBlueAirways881/,197,651,2017
+418,Motorola Solutions,1928,Technology,9112.00,11.5,1363.00,9.5,12814.00,47917.30,20000,5,https://www.reddit.com/r/MotorolaSolutions/,2900,,,,,https://www.reddit.com/user/MotorolaSolutions/,1,0,2018
+419,Citizens Financial Group,1828,Financial Services,9069.00,29.8,2073.00,-10.6,226733.00,14708.50,18889,54,,,,,,,,,,
+420,Coterra Energy,2021,Energy,9051.00,162.4,4065.00,251,20154.00,18785.50,1225,0,,,,,,,https://www.reddit.com/user/COTERRA/,1,1,2021
+421,Avery Dennison,1935,Manufacturing,9039.30,7.5,757.10,2.3,7950.50,14512.80,36000,-9,,,,,,,https://www.reddit.com/user/Avery_Dennison/,1,0,2019
+422,PVH,1881,Apparel,9024.20,-1.4,200.40,-79,11768.30,5591.50,25000,-37,,,,,,,https://www.reddit.com/user/pvh/,639,6670,2010
+423,GXO Logistics,2021,Transportation and Logistics,8993.00,13.3,197.00,28.8,9219.00,5993.40,112000,7,,,,,,,https://www.reddit.com/user/-_gxo_-/,11769,10068,2020
+424,Polaris,1954,Automotive,8986.70,8.9,447.10,-9.5,5217.90,6304.30,16200,-5,https://www.reddit.com/r/Polaris/,3900,,,,,https://www.reddit.com/user/polaris98/,4767,732,2016
+425,Global Payments,1967,Financial Services,8975.50,5.3,111.50,-88.5,44809.00,27760.70,25000,-18,,,,,,,https://www.reddit.com/user/Global_Payments_AT/,1,0,2023
+426,Arconic,2016,Manufacturing,8961.00,19.4,-182.00,0,6015.00,2607.20,11550,26,,,,,,,https://www.reddit.com/user/Arconic/,82,1667,2010
+427,Vertex Pharmaceuticals,1989,Healthcare,8930.70,17.9,3322.00,41.8,18150.90,81001.80,4800,21,,,,,,,https://www.reddit.com/user/pharmaceuticals1438/,1,0,2021
+428,Commercial Metals,1915,Manufacturing,8913.50,32.4,1217.30,194.8,6237.00,5727.00,12483,56,,,,,,,,,,
+429,Autoliv,1953,Automotive,8842.00,7.4,423.00,-2.8,7717.00,8013.10,65300,-8,,,,,,,https://www.reddit.com/user/autoliv/,1,0,2017
+430,Constellation Brands,1945,Food and Beverage,8820.70,2.4,-40.40,-102,25855.80,41688.20,10000,-27,,,,,,,https://www.reddit.com/user/_Constellation_/,37,407,2020
+431,Hilton Worldwide Holdings,1919,Hospitality,8773.00,51.6,1255.00,206.1,15512.00,37534.90,159000,0,,,,,,,https://www.reddit.com/user/Hilton__/,7,69,2019
+432,Foot Locker,1974,Retail,8759.00,-2.3,342.00,-61.7,7907.00,3708.20,31040,-42,https://www.reddit.com/r/FootLocker/,665,,,,,https://www.reddit.com/user/footlocker_official/,20,0,2018
+433,Huntsman,1970,Chemicals,8715.00,3.1,460.00,-56,8220.00,5025.30,7000,-23,https://www.reddit.com/r/huntsman/,12,,,,,https://www.reddit.com/user/Huntsman2701/,9,2686,2019
+434,Burlington Stores,1972,Retail,8702.60,-6.6,230.10,-43.7,7269.60,13122.70,38018,-57,https://www.reddit.com/r/BurlingtonStores/,5,,,,,https://www.reddit.com/user/Burlington_Stats/,266,20,2019
+435,Hertz Global Holdings,1918,Transportation,8685.00,18.4,2059.00,462.6,22497.00,5252.00,25000,27,,,,,,,https://www.reddit.com/user/__hertz/,1790,3421,2022
+436,Masco,1929,Manufacturing,8680.00,3.6,844.00,105.9,5187.00,11206.70,19000,-23,https://www.reddit.com/r/mascots/,1500,,,,,https://www.reddit.com/user/mascotlogopro/,6253,181,2020
+437,Williams-Sonoma,1956,Retail,8674.40,5.2,1127.90,0.1,4663.00,8057.30,16800,-17,https://www.reddit.com/r/Williamssonoma/,32,,,,,https://www.reddit.com/user/williams-sonoma/,19,182,2019
+438,Chipotle Mexican Grill,1993,Food and Beverage,8634.70,14.4,899.10,37.7,6927.50,47186.10,104958,12,https://www.reddit.com/r/ChipotleMexicanGrill/,207,,,,,https://www.reddit.com/user/Chipotle-Grill/,30778,14601,2018
+439,M&T Bank,1856,Financial Services,8603.70,40.9,1991.70,7.2,200729.80,20093.00,22509,0,,,,,,,https://www.reddit.com/user/MTBANK/,1,0,2021
+440,LPL Financial Holdings,1989,Financial Services,8600.80,11.4,845.70,83.9,9482.20,15913.90,6415,2,,,,,,,https://www.reddit.com/user/LPL-Official/,17634,641,2021
+441,CMS Energy,1886,Utilities,8596.00,14,837.00,-38.1,31353.00,17901.60,8817,10,,,,,,,https://www.reddit.com/user/cms_cms_cms/,7,2,2016
+442,Campbell Soup,1869,Food and Beverage,8562.00,1,757.00,-24.5,11892.00,16465.20,14700,-33,,,,,,,https://www.reddit.com/user/CampbellSoup2000/,9,59,2019
+443,Arthur J. Gallagher,1927,Insurance,8550.60,4.2,1114.20,22.9,38907.80,40954.70,43640,-21,,,,,,,https://www.reddit.com/user/Arthur__J/,1,0,2021
+444,Blackstone,1985,Financial Services,8517.70,-62.3,1747.60,-70.2,42524.20,62047.50,4695,-285,https://www.reddit.com/r/blackstone/,4900,,,,,https://www.reddit.com/user/blackstone1314/,2,274,2018
+445,Dover,1925,Manufacturing,8508.10,7.6,1065.40,-5.2,10896.50,21236.80,25000,-12,https://www.reddit.com/r/dover/,343,,,,,https://www.reddit.com/user/DoverHawk/,26576,2193,2015
+446,ODP,1986,Retail,8491.00,-8.4,166.00,0,4149.00,1806.30,25000,-67,https://www.reddit.com/r/odp/,91,,,,,https://www.reddit.com/user/Odpalony777/,17536,23,2021
+447,Packaging Corp. of America,1959,Manufacturing,8478.00,9.7,1029.80,22.4,8003.80,12478.50,15100,-6,,,,,,,,,,
+448,Brighthouse Financial,2017,Financial Services,8473.00,18.6,5.00,0,225580.00,2986.10,1500,20,,,,,,,https://www.reddit.com/user/brighthouse76/,1,0,2024
+449,Beacon Roofing Supply,1928,Construction and Engineering,8429.70,23.6,458.40,88.6,6003.50,3781.30,7478,29,,,,,,,,,,
+450,Airbnb,2008,Hospitality,8399.00,40.2,1893.00,0,16038.00,79681.70,6811,0,https://www.reddit.com/r/AirBnB/,,,,,,https://www.reddit.com/user/airbnb/,1,0,2011
+451,Boise Cascade,1957,Manufacturing,8387.30,5.8,857.70,20.4,3240.50,2505.70,6840,-19,,,,,,,https://www.reddit.com/user/CascadeCascade/,489,2535,2017
+452,Booz Allen Hamilton Holding,1914,Professional Services,8363.70,6.4,466.70,-23.4,6025.60,12260.70,29300,-16,,,,,,,,,,
+453,Westinghouse Air Brake Technologies,1869,Transportation,8362.00,6.9,633.00,13.4,18516.00,18226.40,27000,-14,,,,,,,,,,
+454,ON Semiconductor,1999,Technology,8326.20,23.5,1902.20,88.4,11978.50,35559.60,31055,29,,,,,,,https://www.reddit.com/user/semiconductor-/,1,0,2024
+455,Oshkosh,1917,Manufacturing,8282.00,4.1,173.90,-57.5,7729.00,5445.20,15000,-27,https://www.reddit.com/r/Oshkosh/,3700,,,,,https://www.reddit.com/user/oshkosh/,1,248,2011
+456,Franklin Resources,1947,Financial Services,8275.30,-1.8,1291.90,-29.5,28060.60,13479.60,9800,-45,,,,,,,https://www.reddit.com/user/Franklin500franklin/,19,1,2020
+457,Taylor Morrison Home,1936,Construction and Engineering,8224.90,9.6,1052.80,58.8,8470.70,4143.50,3000,-4,,,,,,,https://www.reddit.com/user/Taylor_Morrison/,1,0,2015
+458,A-Mark Precious Metals,1965,Financial Services,8159.30,7.2,132.50,-17,1442.70,815.30,381,-12,,,,,,,https://www.reddit.com/user/Precious-Metals/,206,14,2021
+459,KeyCorp,1825,Financial Services,8130.00,7.5,1917.00,-27,189813.00,11579.20,17660,-10,,,,,,,https://www.reddit.com/user/Keycorp/,1,0,2022
+460,ARKO,2003,Retail,8127.60,26.7,71.70,21.2,3255.20,1020.20,12223,38,https://www.reddit.com/r/arkos/,176,,,,,https://www.reddit.com/user/arkofcovenant/,6553,90846,2011
+461,Lululemon athletica,1998,Apparel,8110.50,29.6,854.80,-12.4,5607.00,46312.10,34000,0,,,,,,,https://www.reddit.com/user/Lululemon_Athletica/,1,0,2023
+462,Old Republic International,1923,Insurance,8083.70,-13.5,686.40,-55.3,25159.40,7399.00,9500,-86,,,,,,,,,,
+463,Zoetis,1952,Healthcare,8080.00,3.9,2114.00,3.8,14925.00,77052.60,13800,-23,,,,,,,https://www.reddit.com/user/ZoetisUS/,1,0,2021
+464,Marathon Oil,1887,Energy,8036.00,47,3612.00,281.8,19940.00,15086.50,1570,0,,,,,,,https://www.reddit.com/user/marathon-/,1,0,2024
+465,J.M. Smucker,1897,Food and Beverage,7998.90,0,631.70,-27.9,16055.00,16781.30,6700,-39,,,,,,,https://www.reddit.com/user/smucker/,109,375,2011
+466,Huntington Bancshares,1866,Financial Services,7950.00,30.8,2238.00,72.8,182906.00,16235.90,19920,0,https://www.reddit.com/r/huntingtonbeach/,13000,,,,,https://www.reddit.com/user/Happy_Huntington/,371076,93003,2019
+467,NGL Energy Partners,2010,Energy Infrastructure,7947.90,51.6,-184.80,0,6070.30,380.80,842,0,,,,,,,,,,
+468,Ingredion,1906,Chemicals,7946.00,15.3,492.00,320.5,7561.00,6711.30,11700,8,,,,,,,https://www.reddit.com/user/IngredionInc/,1,0,2024
+469,Fortune Brands Innovations,2011,Manufacturing,7922.70,3.5,686.70,-11.1,6120.90,7457.10,11200,-25,,,,,,,,,,
+470,PPL,1920,Utilities,7902.00,10.9,756.00,0,37837.00,20472.30,6527,-1,,,,,,,https://www.reddit.com/user/ppl/,1,0,2006
+471,Sanmina,1980,Manufacturing,7890.50,16.8,256.10,-4.8,4859.50,3559.20,36000,11,,,,,,,https://www.reddit.com/user/Sanminanna/,1,0,2021
+472,Bed Bath & Beyond,1971,Retail,7867.80,-14.8,-559.60,0,5130.60,183.00,32000,-91,https://www.reddit.com/r/BedBathandBeyond/,4100,,,,,https://www.reddit.com/user/bedbathbeyondcoupons/,1,1,2022
+473,Cintas,1929,Professional Services,7854.50,10.4,1235.80,11.2,8147.30,47041.80,43000,-3,https://www.reddit.com/r/cintasssr/,204,,,,,https://www.reddit.com/user/cintas_493/,89,31,2021
+474,NCR,1884,Technology,7844.00,9.6,60.00,-38.1,11507.00,3303.80,35000,-8,https://www.reddit.com/r/NCR/,445,,,,,https://www.reddit.com/user/NCResident5/,1773,40283,2018
+475,ABM Industries,1909,Professional Services,7806.60,25.3,230.40,82.4,4868.90,2970.80,127000,0,,,,,,,https://www.reddit.com/user/_ABM__/,1,0,2021
+476,Rockwell Automation,1903,Manufacturing,7760.40,10.9,932.20,-31.4,10758.70,33682.90,26000,-4,,,,,,,https://www.reddit.com/user/RockwellAutomation/,1,0,2014
+477,Northern Trust,1889,Financial Services,7751.70,19.5,1336.00,-13.5,155036.70,18309.10,23600,16,,,,,,,https://www.reddit.com/user/northern_trust/,4,2,2019
+478,XPO,2000,Transportation and Logistics,7718.00,-39.7,666.00,98.2,6269.00,3684.50,39500,-187,,,,,,,https://www.reddit.com/user/xponentialdesign/,318788,1565,2021
+479,Science Applications International,1969,Technology,7704.00,4.2,300.00,8.3,5543.00,5870.50,25000,-23,,,,,,,,,,
+480,Ameren,1902,Utilities,7662.00,25.2,1074.00,8.5,37904.00,22675.30,9244,20,,,,,,,,,,
+481,First American Financial,1889,Financial Services,7605.00,-17.5,263.00,-78.8,14955.00,5749.70,21153,-98,,,,,,,https://www.reddit.com/user/first_American/,1,0,2020
+482,Bath & Body Works,1990,Retail,7560.00,-4.1,800.00,-40,5494.00,8368.30,33000,-47,https://www.reddit.com/r/bathandbodyworks/,92000,,,,,https://www.reddit.com/user/Bathbodyworksgal/,2229,3925,2019
+483,Regions Financial,1971,Financial Services,7531.00,14,2245.00,-10.9,155220.00,17345.50,20073,6,,,,,,,,,,
+484,Activision Blizzard,2008,Media and Entertainment,7528.00,-14.5,1513.00,-43.9,27383.00,67126.00,13000,-88,https://www.reddit.com/r/activisionblizzard/,633,,,,,https://www.reddit.com/user/ActivisionBlizzard/,448,65674,2014
+485,Avantor,1904,Chemicals,7512.40,1.7,686.50,19.9,13464.30,14270.60,14500,-28,https://www.reddit.com/r/Avantris,1700,,,,,https://www.reddit.com/user/avantor/,1,201,2016
+486,Genworth Financial,2004,Insurance,7507.00,-4.8,609.00,-32.6,86442.00,2476.60,2500,-52,,,,,,,https://www.reddit.com/user/genworth/,1,0,2008
+487,EQT,1888,Energy,7497.70,144.6,1771.00,0,22669.90,11499.10,744,0,https://www.reddit.com/r/EQT/,2,,,,,https://www.reddit.com/user/eqt/,4505,6046,2013
+488,Skechers U.S.A.,1992,Apparel,7444.60,18,373.00,-49.7,6893.50,7379.10,11450,0,,,,,,,https://www.reddit.com/user/Skechers_2_/,1,0,2021
+489,Landstar System,1988,Transportation and Logistics,7439.70,13.7,430.90,12.9,1931.90,6457.40,1449,2,,,,,,,https://www.reddit.com/user/landstar/,1,100,2011
+490,Knight-Swift Transportation Holdings,1990,Transportation,7428.60,23.9,771.30,3.8,10951.70,9105.90,28300,0,,,,,,,,,,
+491,SVB Financial Group,1983,Financial Services,7401.00,22.8,1672.00,-8.8,211793.00,53.60,8553,0,,,,,,,,,,
+492,Par Pacific Holdings,1984,Energy,7321.80,55.4,364.20,0,3280.60,1772.90,1397,0,,,,,,,,,,
+493,Albemarle,1994,Chemicals,7320.10,120,2689.80,2075,15456.50,25927.90,7400,0,https://www.reddit.com/r/Albemarle/,78,,,,,https://www.reddit.com/user/Albemarle909/,1,100,2021
+494,Vulcan Materials,1909,Construction and Engineering,7315.20,31.8,575.60,-14.2,14234.60,22827.20,11974,0,,,,,,,https://www.reddit.com/user/-Vulcan/,719,5411,2014
+495,Watsco,1945,Wholesale,7274.30,15.8,601.20,43.5,3488.20,12353.50,7238,0,,,,,,,https://www.reddit.com/user/watsco72/,1,0,2014
+496,KKR,1976,Financial Services,7273.40,-72.2,-841.10,-118,277077.20,45225.40,4150,-358,https://www.reddit.com/r/KolkataKnightRiders,24000,,,,,,,,
+497,Equinix,1998,Telecommunications,7263.10,9.5,704.30,40.8,30310.70,66872.60,12097,-10,,,,,,,https://www.reddit.com/user/Equinix5/,1,65,2019
+498,Sonoco Products,1899,Manufacturing,7250.60,29.7,466.40,0,7052.90,5974.70,22000,0,,,,,,,https://www.reddit.com/user/Sonoco2001/,4861,197,2020
+499,ServiceNow,2004,Technology,7245.00,22.9,325.00,41.3,13299.00,94338.20,20433,0,https://www.reddit.com/r/servicenow/,21000,,,,,https://www.reddit.com/user/servicenow/,1,0,2024
+500,Robert Half International,1948,Professional Services,7238.10,12,657.90,9.9,2964.50,8677.30,16300,-6,https://www.reddit.com/r/roberthalf,85,,,,,,,,
