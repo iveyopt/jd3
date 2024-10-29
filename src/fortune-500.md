@@ -28,18 +28,16 @@ Plot.plot({
   },
   x: {padding: 0.4},
   marks: [
-    Plot.ruleX(data, {
-      x: "rank",
-      y: "founded",
-      strokeWidth: 1
-    }),
+    Plot.tip(data, Plot.pointerX({
+      x: "Date", y: "Close"
+      title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
+    })),
     Plot.dot(data, {
       x: "rank",
       y: "founded",
       dx: 2,
       dy: 2,
-      r: 1,
-      title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
+      r: 2
     }),
     Plot.dot(data, {
       x: "rank",
@@ -47,15 +45,9 @@ Plot.plot({
       fill: "green",
       dx: -2,
       dy: -2,
-      title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday
-    }`
-})
-  ],
-  tooltip: {
-    fill: "red",
-    stroke: "blue",
-    r: 8
-  }
+      r: 2
+    }),
+  ]
 })
 ```
 
