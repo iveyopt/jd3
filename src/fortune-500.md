@@ -25,8 +25,8 @@ Plot.plot({
   },
   x: {padding: 0.4},
   marks: [
-    Plot.barY(data, {x: "rank", y: "founded", dx: 2, dy: 2}),
-    Plot.barY(data, {x: "rank", y: "redditorBrandCakeday", fill: "green", dx: -2, dy: -2})
+    Plot.lineY(data, {x: "rank", y: "founded", dx: 2, dy: 2}),
+    Plot.lineY(data, {x: "rank", y: "redditorBrandCakeday", fill: "green", dx: -2, dy: -2})
   ]
 })
 ```
