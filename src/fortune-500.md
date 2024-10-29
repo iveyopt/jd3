@@ -19,27 +19,11 @@ data
 
 ```js
 Plot.plot({
-  title: "When the companies were founded",
-  caption: "Figure 0",
-  width: Math.max(width, 550),
-  y: {
-    domain: [new Date("1780-01-01"), new Date("2030-01-01")],
-    grid: true
-  },
-  x: {padding: 0.4},
-  marks: [
-    Plot.dot(data, {x: "rank",y: "founded"})
-  ]
-})
-```
-
-```js
-Plot.plot({
   title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
   caption: "Figure 1",
   width: Math.max(width, 550),
   y: {
-    domain: [new Date("1780-01-01"), new Date("2030-01-01")],
+    domain: [1780, 2030],
     grid: true
   },
   x: {padding: 0.4},
