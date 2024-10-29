@@ -16,21 +16,13 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 data
 ```
 
-## Sampledata
-```js
-Plot.rectY({length: 10000}, Plot.binX({y: "count"}, {x: d3.randomNormal()})).plot()
-```
-
 ## When the companies were founded vs. when their brand ambassador's Reddit account was created
 ```js
 Plot.plot({
-  height: 2050,
-  width: 5000,
-  marginTop: 20,
-  marginRight: 20,
-  marginBottom: 30,
-  marginLeft: 40,
-  grid: true,
+  y: {
+    domain: [1780, 2030],
+    grid: true
+  },
   x: {padding: 0.4},
   marks: [
     Plot.barY(data, {x: "rank", y: "founded", dx: 2, dy: 2}),
