@@ -16,6 +16,11 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 data
 ```
 
+## Sampledata
+```js
+Plot.rectY({length: 10000}, Plot.binX({y: "count"}, {x: d3.randomNormal()})).plot()
+```
+
 ## When the companies were founded vs. when their brand ambassador's Reddit account was created
 ```js
 Plot.plot({
