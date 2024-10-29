@@ -16,10 +16,11 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 data
 ```
 
-## Table of data
-
 ```js
-Inputs.select(data, {label: "Pick an Industry"})
-Inputs.table(penguins)
+Plot.plot({
+  marks: [
+    Plot.lineY(data, {x: "founded", y: "revenue"})
+  ]
+})
 ```
 
