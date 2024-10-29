@@ -17,6 +17,6 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 ## Table of data
 
 ```js
-Inputs.table(data);
+Inputs.table(data, {rows: 20});
 ```
 
