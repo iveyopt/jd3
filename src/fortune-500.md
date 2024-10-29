@@ -29,7 +29,8 @@ Plot.plot({
   x: {padding: 0.4},
   marks: [
     Plot.tip(data, Plot.pointerX({
-      x: "Date", y: "Close"
+      x: "rank",
+      y: "founded",
       title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
     })),
     Plot.dot(data, {
