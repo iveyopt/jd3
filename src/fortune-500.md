@@ -16,6 +16,19 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 data
 ```
 
+## When the companies were founded vs. when their brand ambassador's Reddit account was created
+```js
+Plot.plot({
+  x: {padding: 0.4},
+  marks: [
+    Plot.barY(data, {x: "rank", y: "founded", dx: 2, dy: 2}),
+    Plot.barY(data, {x: "rank", y: "redditorBrandCakeday", fill: "green", dx: -2, dy: -2})
+  ]
+})
+```
+
+## Revenue change vs. ranking change, organized by industry
+
 ```js
 Plot.plot({
   grid: true,
@@ -23,7 +36,7 @@ Plot.plot({
   color: {legend: true},
   marks: [
     Plot.frame(),
-    Plot.dot(data, {x: "revenueChange", y: "profitsChange", stroke: "industry"})
+    Plot.dot(data, {x: "revenueChange", y: "rankChange", stroke: "industry"})
   ]
 })
 ```
