@@ -22,15 +22,17 @@ Plot.plot({
   title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
   caption: "Figure 1",
   width: Math.max(width, 550),
+  color: {legend: true},
   y: {
     domain: [1780, 2030],
     grid: true
   },
-  x: {padding: 0.4},
+  x: {label: "Date"},
   marks: [
     Plot.tip(data, Plot.pointerX({
       x: "rank",
       y: "founded",
+      fill: "white",
       title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
     })),
     Plot.dot(data, {
@@ -54,8 +56,36 @@ Plot.plot({
 
 ```js
 Plot.plot({
-  title: "Revenue change vs. ranking change, organized by industry",
+  title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
   caption: "Figure 2",
+  width: Math.max(width, 550),
+  color: {legend: true},
+
+  x: {label: "Date"},
+  y: {
+    grid: true,
+    label: "← Founded · Joined Reddit →",
+    labelAnchor: "center",
+    tickFormat: Math.abs
+  },
+  marks: [
+    Plot.dot(
+      data,
+      Plot.stackY2({
+        x: (d) => d.founded.getUTCFullYear(),
+        y: (d) => d.redditorBrandCakeday.getUTCFullYear(),
+        fill: "gender",
+      })
+    ),
+    Plot.ruleY([0])
+  ]
+})
+```
+
+```js
+Plot.plot({
+  title: "Revenue change vs. ranking change, organized by industry",
+  caption: "Figure 3",
   width: Math.max(width, 550),
   grid: true,
   inset: 10,
