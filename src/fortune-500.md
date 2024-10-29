@@ -35,6 +35,10 @@ Plot.plot({
       fill: "white",
       title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
     })),
+    Plot.crosshair(data, {
+      x: "rank",
+      y: "founded"
+    }),
     Plot.dot(data, {
       x: "rank",
       y: "founded",
@@ -50,34 +54,6 @@ Plot.plot({
       dy: -2,
       r: 2
     }),
-  ]
-})
-```
-
-```js
-Plot.plot({
-  title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
-  caption: "Figure 2",
-  width: Math.max(width, 550),
-  color: {legend: true},
-
-  x: {label: "Date"},
-  y: {
-    grid: true,
-    label: "← Founded · Joined Reddit →",
-    labelAnchor: "center",
-    tickFormat: Math.abs
-  },
-  marks: [
-    Plot.dot(
-      data,
-      Plot.stackY2({
-        x: "founded",
-        y: "redditorBrandCakeday",
-        fill: "gender",
-      })
-    ),
-    Plot.ruleY([0])
   ]
 })
 ```
