@@ -20,7 +20,6 @@ data
 Plot.plot({
   grid: true,
   inset: 10,
-  aspectRatio: fixed ? 1 : undefined,
   color: {legend: true},
   marks: [
     Plot.frame(),
