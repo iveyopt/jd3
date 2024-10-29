@@ -17,9 +17,10 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 data
 ```
 
-## When the companies were founded vs. when their brand ambassador's Reddit account was created
 ```js
 Plot.plot({
+  title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
+  caption: "Figure 1",
   width: Math.max(width, 550),
   y: {
     domain: [new Date("1780-01-01"), new Date("2030-01-01")],
@@ -40,18 +41,23 @@ Plot.plot({
       y: "redditorBrandCakeday",
       fill: "green",
       dx: -2,
-      dy: -2
+      dy: -2,
       title: (d) =>
         `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
       })
-  ]
+  ],
+  tooltip: {
+    fill: "red",
+    stroke: "blue",
+    r: 8
+  }
 })
 ```
 
-## Revenue change vs. ranking change, organized by industry
-
 ```js
 Plot.plot({
+  title: "Revenue change vs. ranking change, organized by industry",
+  caption: "Figure 2",
   width: Math.max(width, 550),
   grid: true,
   inset: 10,
