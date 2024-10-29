@@ -28,10 +28,7 @@ Plot.plot({
   },
   x: {padding: 0.4},
   marks: [
-    Plot.dot(data, {
-      x: "rank",
-      y: "founded"
-      })
+    Plot.dot(data, {x: "rank",y: "founded"})
   ]
 })
 ```
@@ -47,29 +44,9 @@ Plot.plot({
   },
   x: {padding: 0.4},
   marks: [
-    Plot.dot(data, {
-      x: "rank",
-      y: "founded",
-      dx: 2,
-      dy: 2,
-      title: (d) =>
-        `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
-      }),
-    Plot.dot(data, {
-      x: "rank",
-      y: "redditorBrandCakeday",
-      fill: "green",
-      dx: -2,
-      dy: -2,
-      title: (d) =>
-        `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
-      })
-  ],
-  tooltip: {
-    fill: "red",
-    stroke: "blue",
-    r: 8
-  }
+    Plot.dot(data, {x: "rank", y: "founded", dx: 2, dy: 2}),
+    Plot.dot(data, {x: "rank", y: "redditorBrandCakeday", fill: "green", dx: -2, dy: -2})
+  ]
 })
 ```
 
