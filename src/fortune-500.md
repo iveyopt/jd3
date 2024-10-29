@@ -19,6 +19,13 @@ data
 ## When the companies were founded vs. when their brand ambassador's Reddit account was created
 ```js
 Plot.plot({
+  height: 2050,
+  width: 5000,
+  marginTop: 20,
+  marginRight: 20,
+  marginBottom: 30,
+  marginLeft: 40,
+  grid: true,
   x: {padding: 0.4},
   marks: [
     Plot.barY(data, {x: "rank", y: "founded", dx: 2, dy: 2}),
