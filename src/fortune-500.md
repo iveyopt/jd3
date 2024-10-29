@@ -9,7 +9,7 @@ toc: false
 <span style="color: red;"><span style="text-transform: uppercase; font-style:italic">Disclaimer:</span> Parts of this data were AI-generated. The data used in this project has not been verified and may not be correct.</span>
 
 ```js
-const data = await d3.csv("data/f500reddit.csv");
+const data = FileAttachment("./data/f500reddit.csv").csv();
 ```
 
 ## Table of data
