@@ -10,6 +10,7 @@ toc: false
 
 ```js
 const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
+
 ```
 
 ```js
@@ -22,6 +23,7 @@ Plot.plot({
   width: Math.max(width, 550),
   y: {
     domain: [1780, 2030],
+    tickFormat: Plot.formatDate(),
     grid: true
   },
   x: {padding: 0.4},
