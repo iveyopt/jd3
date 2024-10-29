@@ -44,12 +44,7 @@ Plot.plot({
       title: (d) =>
         `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
       })
-  ],
-  tooltip: {
-    fill: "red",
-    stroke: "blue",
-    r: 8
-  }
+  ]
 })
 ```
 
