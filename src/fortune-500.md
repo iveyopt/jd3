@@ -72,8 +72,8 @@ Plot.plot({
     Plot.dot(
       data,
       Plot.stackY2({
-        x: (d) => d.founded.getUTCFullYear(),
-        y: (d) => d.redditorBrandCakeday.getUTCFullYear(),
+        x: "founded",
+        y: "redditorBrandCakeday",
         fill: "gender",
       })
     ),
