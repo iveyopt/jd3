@@ -19,14 +19,15 @@ data
 ## When the companies were founded vs. when their brand ambassador's Reddit account was created
 ```js
 Plot.plot({
+  width: Math.max(width, 550),
   y: {
     domain: [1780, 2030],
     grid: true
   },
   x: {padding: 0.4},
   marks: [
-    Plot.lineY(data, {x: "rank", y: "founded", dx: 2, dy: 2}),
-    Plot.lineY(data, {x: "rank", y: "redditorBrandCakeday", fill: "green", dx: -2, dy: -2})
+    Plot.dot(data, {x: "rank", y: "founded", dx: 2, dy: 2}),
+    Plot.dot(data, {x: "rank", y: "redditorBrandCakeday", fill: "green", dx: -2, dy: -2})
   ]
 })
 ```
@@ -35,6 +36,7 @@ Plot.plot({
 
 ```js
 Plot.plot({
+  width: Math.max(width, 550),
   grid: true,
   inset: 10,
   color: {legend: true},
