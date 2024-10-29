@@ -30,16 +30,9 @@ Plot.plot({
   marks: [
     Plot.dot(data, {
       x: "rank",
-      y: "founded",
-      title: (d) =>
-        `${d.company} \n Founded: ${d.founded}`
+      y: "founded"
       })
-  ],
-  tooltip: {
-    fill: "red",
-    stroke: "blue",
-    r: 8
-  }
+  ]
 })
 ```
 
