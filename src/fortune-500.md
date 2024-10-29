@@ -12,6 +12,10 @@ toc: false
 const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 ```
 
+```js
+data
+```
+
 ## Table of data
 
 ```js
