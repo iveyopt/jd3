@@ -77,8 +77,6 @@ Plot.plot({
     label: "Revenue (millions)"
   },
   marks: [
-    Plot.voronoi(data, {x: "revenue", y: "subredditOfficialMembers", fill: "industry", fillOpacity: 0.2, stroke: "var(--vp-c-bg)"}),
-    Plot.frame(),
     Plot.dot(data, {x: "revenue", y: "subredditOfficialMembers", fill: "industry"})
   ]
 })
