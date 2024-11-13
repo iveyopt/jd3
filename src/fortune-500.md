@@ -43,24 +43,26 @@ Plot.plot({
       filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "founded",
-      dx: 2,
-      dy: 2,
-      r: 2
+      dx: 4,
+      dy: 4,
+      r: 4
     }),
     Plot.dot(data, {
       filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "redditorBrandCakeday",
       fill: "green",
-      dx: -2,
-      dy: -2,
-      r: 2
+      dx: -4,
+      dy: -4,
+      r: 4
     }),
     Plot.crosshair(data, {
+      filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "founded"
     }),
     Plot.tip(data, Plot.pointerX({
+      filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "founded",
       fill: "white",
