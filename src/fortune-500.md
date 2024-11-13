@@ -40,6 +40,7 @@ Plot.plot({
   },
   marks: [
     Plot.dot(data, {
+      filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "founded",
       dx: 2,
@@ -47,6 +48,7 @@ Plot.plot({
       r: 2
     }),
     Plot.dot(data, {
+      filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "redditorBrandCakeday",
       fill: "green",
