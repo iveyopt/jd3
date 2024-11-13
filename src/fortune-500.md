@@ -18,6 +18,13 @@ data
 ```
 
 ```js
+const industryFilter = view(
+  Inputs.select(data, {
+    label: "Industry",
+    format: (d) => d.industry,
+    value: teams.find((d) => d.industry === "Technology")
+  })
+);
 Plot.plot({
   title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
   caption: "Figure 1",
