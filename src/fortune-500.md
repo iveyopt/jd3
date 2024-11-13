@@ -110,9 +110,64 @@ Plot.plot({
 ```
 
 ```js
+const companyFilter = view(
+      Inputs.select(data.map(d => d.company), {label: "Company", sort: true, unique: true})
+)
+```
+
+The section below is a not-working-yet plot where I'm trying to get a bar chart of the employee subreddit membership number layered over the total employees number as 100% — so if one place has 50 employees in the subreddit out of 100 total employees and another place has 25 employees in the subreddit out of 50 total employees, they both show as 50% filled. It isn't working yet and needs some help. 
+
+```js
+Plot.plot({
+  title: "Percent of employees present in employee subreddit",
+  caption: "Figure 3",
+  width: Math.max(width, 550),
+  grid: true,
+  inset: 10,
+  color: {legend: true},
+  y: {
+    grid: true,
+    label: "Subreddit Members",
+  },
+  x: {
+    grid: true,
+    label: ""
+  },
+  x: {
+    axis: "top",
+    grid: true,
+    percent: true
+  },
+  marks: [
+    Plot.barY(data, {
+      filter: (d) => d.industry == industryFilter && d.subredditEmployeeMembers !=== null,
+      x: "employees",
+      y: "subredditOfficialMembers",
+      fill: "industry"
+    }),
+    Plot.crosshair(data, {
+      filter: (d) => d.industry == industryFilter,
+      x: "employees",
+      y: "subredditEmployeeMembers",
+    }),
+    Plot.tip(data, Plot.pointerX({
+      filter: (d) => d.industry == industryFilter,
+      x: "employees", y: "subredditEmployeeMembers",
+      fill: "white",
+      title: (d) => `${d.company} \n Employees ($M): ${d.employees} \n Members: ${d.subredditEmployeeMembers}`
+    }))
+  ]
+  marks: [
+    Plot.ruleX([0]),
+    Plot.barX(alphabet, {x: "frequency", y: "letter", sort: {y: "x", reverse: true}})
+  ]
+})
+```
+
+<!-- ```js
 Plot.plot({
   title: "Revenue change vs. ranking change, organized by industry",
-  caption: "Figure 3",
+  caption: "Figure 0",
   width: Math.max(width, 550),
   grid: true,
   inset: 10,
@@ -126,5 +181,5 @@ Plot.plot({
       stroke: "industry"})
   ]
 })
-```
+``` -->
 
