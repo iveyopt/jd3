@@ -22,7 +22,7 @@ const industryFilter = view(
   Inputs.select(data, {
     label: "Industry",
     format: (d) => d.industry,
-    value: teams.find((d) => d.industry === "Technology")
+    value: data.find((d) => d.industry === "Technology")
   })
 );
 Plot.plot({
