@@ -21,6 +21,9 @@ data
 const industryFilter = view(
       Inputs.select(data.map(d => d.industry), {label: "Industry", sort: true, unique: true})
 )
+```
+
+```js
 Plot.plot({
   title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
   caption: "Figure 1",
