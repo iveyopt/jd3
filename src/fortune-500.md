@@ -17,6 +17,7 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 data
 ```
 
+## Select an industry below to view data:
 ```js
 const industryFilter = view(
       Inputs.select(data.map(d => d.industry), {label: "Industry", sort: true, unique: true})
@@ -87,11 +88,19 @@ Plot.plot({
     label: "Revenue (millions)"
   },
   marks: [
-    Plot.dot(data, {x: "revenue", y: "subredditOfficialMembers", fill: "industry"}),
+    Plot.dot(data, {
+      filter: (d) => d.industry == industryFilter,
+      x: "revenue",
+      y: "subredditOfficialMembers",
+      fill: "industry"
+    }),
     Plot.crosshair(data, {
-      x: "revenue", y: "subredditOfficialMembers",
+      filter: (d) => d.industry == industryFilter,
+      x: "revenue",
+      y: "subredditOfficialMembers",
     }),
     Plot.tip(data, Plot.pointerX({
+      filter: (d) => d.industry == industryFilter,
       x: "revenue", y: "subredditOfficialMembers",
       fill: "white",
       title: (d) => `${d.company} \n Revenue ($M): ${d.revenue} \n Members: ${d.subredditOfficialMembers}`
@@ -110,7 +119,11 @@ Plot.plot({
   color: {legend: true},
   marks: [
     Plot.frame(),
-    Plot.dot(data, {x: "revenueChange", y: "rankChange", stroke: "industry"})
+    Plot.dot(data, {
+      filter: (d) => d.industry == industryFilter,
+      x: "revenueChange",
+      y: "rankChange",
+      stroke: "industry"})
   ]
 })
 ```
