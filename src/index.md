@@ -1,5 +1,5 @@
 ---
-theme: light
+theme: [light, wide]
 title: Fortune 500 Companies
 toc: false
 ---
@@ -22,19 +22,23 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 data
 ```
 
-## Select an industry:
-500 companies is a lot! Select one or more industries from the list below to view only the data associated with that industry.
+## Industry
+500 companies means a lot of data! Select one or more industries from the list below to narrow the visualizations to only the data associated with those industries.
 ```js
 const industryFilter = view(
       Inputs.checkbox(
         d3.group(data, (d => d.industry), {
-          label: "Industry",
+          label: "Select industries",
           sort: true,
           unique: true,
           multiple: true,
         })
      )
 )
+```
+
+```js
+industryFilter
 ```
 
 ```js
@@ -68,8 +72,8 @@ Plot.plot({
            y1: "founded",
            x2: "rank",
            y2: "redditorBrandCakeday",
-           bend: true,
-           stroke: "black"
+           bend: "false",
+           stroke: "black",
     }),
     //Draw the cake dates
     Plot.dot(data, {
