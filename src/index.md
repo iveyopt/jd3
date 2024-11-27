@@ -1,5 +1,5 @@
 ---
-theme: [light, wide]
+theme: dashboard
 title: Fortune 500 Companies
 toc: false
 ---
