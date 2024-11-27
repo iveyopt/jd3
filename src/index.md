@@ -101,7 +101,7 @@ Plot.plot({
       y: "founded",
       fill: "white",
       color: "black",
-      title: (d) => `${d.company} (# ${d.rank}) \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`,
+      title: (d) => `${d.company}  \n(#${d.rank}) \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`,
       fontSize: 16,
       anchor: "bottom",
     }))
