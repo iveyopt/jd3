@@ -30,7 +30,6 @@ Plot.plot({
   title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
   caption: "Figure 1",
   width: Math.max(width, 550),
-  color: {label: "Industry", legend: true},
   y: {
     domain: [1780, 2030],
     grid: true,
@@ -76,17 +75,21 @@ Plot.plot({
       dy: -4,
       r: 4
     }),
-    Plot.crosshair(data, {
+    /*Plot.crosshair(data, {
       filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "founded"
-    }),
+    }),*/
     Plot.tip(data, Plot.pointerX({
       filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "founded",
       fill: "white",
-      title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`
+      title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`,
+      fontSize: 16,
+      fontFamily: "Roboto",
+      anchor: "bottom",
+      color: "black", 
     }))
   ]
 })
