@@ -93,12 +93,6 @@ Plot.plot({
       y: "redditorBrandCakeday",
       fill: "white",
       stroke: "black",
-      format {
-        rank: true,
-        founded: true,
-        redditorBrandCakeday: true,
-        stroke: "pink",
-      },
       title: (d) => `${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`,
       fontSize: 16,
       fontFamily: "Roboto",
