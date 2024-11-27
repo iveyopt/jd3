@@ -8,6 +8,9 @@ toc: false
       * {
             font-family: Roboto;
       }
+     p, h1, h2, h3, h4, h5, h6 {
+          max-width: 100%;
+     }
 </style>
       
 # Fortune 500 Companies & Reddit
