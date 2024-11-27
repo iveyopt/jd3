@@ -41,19 +41,21 @@ Plot.plot({
     label: "Ranking"
   },
   marks: [
-    Plot.ruleX(data,
+    Plot.link(
+      data,
       Plot.groupX(
         {
-          y1: "founded",
-          y2: "redditorBrandCakeday"
+          y1: (D) => d3.sum(D, (d) => d === "founded"),
+          y2: (D) => d3.sum(D, (d) => d === "redditorBrandCakeday"),
+          stroke: (D) => d3.sum(D, (d) => d === "redditorBrandCakeday") - d3.sum(D, (d) => d === "founded")
         },
         {
           x: "rank",
           y1: "founded",
-          y2: "redditorBrandCakeday",
+          y2: "founded",
           markerStart: "dot",
           markerEnd: "arrow",
-          strokeWidth: 2,
+          strokeWidth: 2
         }
       )
     ),
