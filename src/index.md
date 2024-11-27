@@ -49,11 +49,13 @@ Plot.plot({
       data,
       Plot.groupX(
         {
+          filter: (d) => d.industry == industryFilter,
           y1: (D) => d3.sum(D, (d) => d === "founded"),
           y2: (D) => d3.sum(D, (d) => d === "redditorBrandCakeday"),
           stroke: (D) => d3.sum(D, (d) => d === "redditorBrandCakeday") - d3.sum(D, (d) => d === "founded")
         },
         {
+          filter: (d) => d.industry == industryFilter,
           x: "rank",
           y1: "founded",
           y2: "redditorBrandCakeday",
