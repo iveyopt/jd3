@@ -39,27 +39,15 @@ const industryFilter = view(
     }
   )
 )
-/*const industryFilter = view(
-      Inputs.checkbox(
-        data.map((d) => d.industry), {
-          label: "Select industries",
-          sort: true,
-          unique: true,
-          multiple: true,
-        }
-     )
-)*/
-```
-### Selected industries:
-```js
-industryFilter
 ```
 
 ```js
 Plot.plot({
   title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
+  subtitle: "Black dots indicate companies' founding dates, and green dots indicate the 'Cake Day' for the company's brand ambassador's Reddit account (that is, the date the account was created). Black dots without a connected green dot indicate that the company has no Reddit ambassador account. Hover over a dot to show the company info!",
   caption: "Figure 1",
   width: Math.max(width, 550),
+  marginBottom: 100px,
   y: {
     domain: [1780, 2030],
     tickFormat: "",
@@ -73,7 +61,7 @@ Plot.plot({
   marks: [
     //Draw the founded dates
     Plot.dot(data, {
-      filter: (d) => industryFilter.includes(d.industry) && d.redditorBrandCakeday !== null,
+      filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       y: "founded",
       fill: "black",
@@ -106,12 +94,12 @@ Plot.plot({
     Plot.tip(data, Plot.pointerX({
       filter: (d) => industryFilter.includes(d.industry) && d.redditorBrandCakeday !== null,
       x: "rank",
-      y: "redditorBrandCakeday",
+      y: "founded",
       fill: "white",
       color: "black",
       title: (d) => `${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`,
       fontSize: 16,
-      anchor: "top",
+      anchor: "bottom",
     }))
   ]
 })
