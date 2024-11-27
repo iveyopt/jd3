@@ -21,7 +21,6 @@ toc: false
 
 ```js
 const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
-
 ```
 
 ```js
@@ -51,11 +50,11 @@ Plot.plot({
   subtitle: "Black dots indicate companies' founding dates, and green dots indicate the 'Cake Day' for the company's brand ambassador's Reddit account (that is, the date the account was created). Black dots without a connected green dot indicate that the company has no Reddit ambassador account. Hover over a dot to show the company info!",
   caption: "Figure 1",
   width: Math.max(width, 550),
-  marginBottom: "100",
-  marginTop: "100",
+  /*marginBottom: "100",
+  marginTop: "100",*/
   y: {
     domain: [1780, 2030],
-    //tickFormat: "",
+    tickFormat: "",
     grid: true,
     label: "Date",
   },
