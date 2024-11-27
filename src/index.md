@@ -36,7 +36,8 @@ Plot.plot({
   caption: "Figure 1",
   width: Math.max(width, 550),
   y: {
-    domain: [new Date("1780-01-01"), new Date("2030-01-01")],
+    domain: [1780, 2030],
+    tickFormat: "",
     grid: true,
     label: "Date",
   },
