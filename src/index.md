@@ -26,11 +26,10 @@ data
 500 companies is a lot! Select an industry from the dropdown below to view only the data associated with that industry. (Currently, this tool does not include the ability to compare across multiple industries.)
 ```js
 const industryFilter = view(
-      Inputs.checkbox(data.map(d => d.industry), {
+      Inputs.select(data.map(d => d.industry), {
           label: "Industry",
           sort: true,
           unique: true,
-          multiple: true,
      })
 )
 ```
