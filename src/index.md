@@ -1,5 +1,4 @@
 ---
-theme: dashboard
 title: Fortune 500 Companies
 toc: false
 ---
