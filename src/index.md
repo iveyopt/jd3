@@ -1,4 +1,5 @@
 ---
+theme: near-midnight
 title: Fortune 500 Companies
 toc: false
 ---
@@ -16,7 +17,8 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 data
 ```
 
-## Select an industry below to view data:
+## Select an industry:
+500 companies is a lot! Select an industry from the dropdown below to view only the data associated with that industry. (Currently, this tool does not include the ability to compare across multiple industries.)
 ```js
 const industryFilter = view(
       Inputs.select(data.map(d => d.industry), {label: "Industry", sort: true, unique: true})
@@ -39,6 +41,12 @@ Plot.plot({
     label: "Ranking"
   },
   marks: [
+    Plot.ruleX(data,
+      Plot.groupX(
+        {y1: "founded", y2: "redditorBrandCakeday"},
+        {...xy, sort: {x: "y1"}}
+      )
+    ),
     Plot.dot(data, {
       filter: (d) => d.industry == industryFilter,
       x: "rank",
