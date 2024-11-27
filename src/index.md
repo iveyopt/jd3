@@ -11,6 +11,9 @@ toc: false
      p, h1, h2, h3, h4, h5, h6 {
           max-width: 100%;
      }
+     button, input, textarea {
+          accent-color: green;
+     }
 </style>
       
 # Fortune 500 Companies & Reddit
