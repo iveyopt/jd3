@@ -94,7 +94,7 @@ Plot.plot({
       fontSize: 16,
       fontFamily: "Roboto",
       anchor: "bottom",
-      color: "black", 
+      currentColor: "black", 
     }))
   ]
 })
