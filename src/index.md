@@ -23,14 +23,17 @@ data
 ```
 
 ## Select an industry:
-500 companies is a lot! Select an industry from the dropdown below to view only the data associated with that industry. (Currently, this tool does not include the ability to compare across multiple industries.)
+500 companies is a lot! Select one or more industries from the list below to view only the data associated with that industry.
 ```js
 const industryFilter = view(
-      Inputs.select(data.map(d => d.industry), {
+      Inputs.checkbox(
+        d3.group(data, (d => d.industry), {
           label: "Industry",
           sort: true,
           unique: true,
-     })
+          multiple: true,
+        })
+     )
 )
 ```
 
@@ -50,22 +53,17 @@ Plot.plot({
     label: "Ranking"
   },
   marks: [
+    //Draw the founded dates
     Plot.dot(data, {
-      filter: (d) => d.industry == industryFilter && d.redditorBrandCakeday !== null,
+      filter: (d) => industryFilter.includes(d.industry) && d.redditorBrandCakeday !== null,
       x: "rank",
       y: "founded",
       fill: "black",
       r: 4
     }),
-    Plot.dot(data, {
-      filter: (d) => d.industry == industryFilter,
-      x: "rank",
-      y: "redditorBrandCakeday",
-      fill: "green",
-      r: 4
-    }),
+    //Draw the connecting line
     Plot.link(data, {
-           filter: (d) => d.industry == industryFilter,
+           filter: (d) => industryFilter.includes(d.industry),
            x1: "rank",
            y1: "founded",
            x2: "rank",
@@ -73,13 +71,22 @@ Plot.plot({
            bend: true,
            stroke: "black"
     }),
+    //Draw the cake dates
+    Plot.dot(data, {
+      filter: (d) => industryFilter.includes(d.industry),
+      x: "rank",
+      y: "redditorBrandCakeday",
+      fill: "green",
+      r: 4
+    }),
     /*Plot.crosshair(data, {
-      filter: (d) => d.industry == industryFilter,
+      filter: (d) => industryFilter.includes(d.industry) && d.redditorBrandCakeday !== null,
       x: "rank",
       y: "founded"
     }),*/
+    //Add the tooltips
     Plot.tip(data, Plot.pointerX({
-      filter: (d) => d.industry == industryFilter,
+      filter: (d) => industryFilter.includes(d.industry) && d.redditorBrandCakeday !== null,
       x: "rank",
       y: "redditorBrandCakeday",
       fill: "white",
@@ -108,18 +115,18 @@ Plot.plot({
   },
   marks: [
     Plot.dot(data, {
-      filter: (d) => d.industry == industryFilter,
+      filter: (d) => industryFilter.includes(d.industry),
       x: "revenue",
       y: "subredditOfficialMembers",
       fill: "industry"
     }),
     Plot.crosshair(data, {
-      filter: (d) => d.industry == industryFilter,
+      filter: (d) => industryFilter.includes(d.industry),
       x: "revenue",
       y: "subredditOfficialMembers",
     }),
     Plot.tip(data, Plot.pointerX({
-      filter: (d) => d.industry == industryFilter,
+      filter: (d) => industryFilter.includes(d.industry),
       x: "revenue", y: "subredditOfficialMembers",
       fill: "white",
       title: (d) => `${d.company} \n Revenue ($M): ${d.revenue} \n Members: ${d.subredditOfficialMembers}`
