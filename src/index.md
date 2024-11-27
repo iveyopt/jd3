@@ -30,7 +30,7 @@ Plot.plot({
   title: "When the companies were founded vs. when their brand ambassador's Reddit account was created",
   caption: "Figure 1",
   width: Math.max(width, 550),
-  color: {legend: true},
+  color: {label: "Industry", legend: true, scheme: "YlGnBu"},
   y: {
     domain: [1780, 2030],
     grid: true,
@@ -43,8 +43,18 @@ Plot.plot({
   marks: [
     Plot.ruleX(data,
       Plot.groupX(
-        {y1: "founded", y2: "redditorBrandCakeday"},
-        {...xy, sort: {x: "y1"}}
+        {
+          y1: "founded",
+          y2: "redditorBrandCakeday"
+        },
+        {
+          x: "rank",
+          y1: "founded",
+          y2: "redditorBrandCakeday",
+          markerStart: "dot",
+          markerEnd: "arrow",
+          strokeWidth: 2,
+        }
       )
     ),
     Plot.dot(data, {
