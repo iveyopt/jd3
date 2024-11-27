@@ -26,7 +26,7 @@ data
 500 companies means a lot of data! Select one or more industries from the list below to narrow the visualizations to only the data associated with those industries.
 ```js
 const industryFilter = view(
-      Inputs.select(
+      Inputs.checkbox(
         data.map((d => d.industry), {
           label: "Select industries",
           sort: true,
@@ -36,7 +36,7 @@ const industryFilter = view(
      )
 )
 ```
-
+### Selected industries:
 ```js
 industryFilter
 ```
