@@ -45,32 +45,11 @@ Plot.plot({
     label: "Ranking"
   },
   marks: [
-    Plot.link(
-      data,
-      Plot.groupX(
-        {
-          filter: (d) => d.industry == industryFilter,
-          y1: (D) => d3.sum(D, (d) => d === "founded"),
-          y2: (D) => d3.sum(D, (d) => d === "redditorBrandCakeday"),
-          stroke: (D) => d3.sum(D, (d) => d === "redditorBrandCakeday") - d3.sum(D, (d) => d === "founded")
-        },
-        {
-          filter: (d) => d.industry == industryFilter,
-          x: "rank",
-          y1: "founded",
-          y2: "redditorBrandCakeday",
-          markerStart: "dot",
-          markerEnd: "arrow",
-          strokeWidth: 2
-        }
-      )
-    ),
     Plot.dot(data, {
       filter: (d) => d.industry == industryFilter,
       x: "rank",
       y: "founded",
-      dx: 4,
-      dy: 4,
+      fill: "black",
       r: 4
     }),
     Plot.dot(data, {
@@ -78,10 +57,18 @@ Plot.plot({
       x: "rank",
       y: "redditorBrandCakeday",
       fill: "green",
-      dx: -4,
-      dy: -4,
       r: 4
     }),
+    Plot.link(data, {
+           filter: (d) => d.industry == industryFilter,
+           x1: "rank",
+           y1: "founded",
+           x2: "rank",
+           y2: "redditorBrandCakeday",
+           bend: true,
+           stroke: "black"
+      }
+    ),
     /*Plot.crosshair(data, {
       filter: (d) => d.industry == industryFilter,
       x: "rank",
@@ -92,10 +79,9 @@ Plot.plot({
       x: "rank",
       y: "redditorBrandCakeday",
       fill: "white",
-      stroke: "black",
+      color: "black",
       title: (d) => `${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`,
       fontSize: 16,
-      fontFamily: "Roboto",
       anchor: "top",
     }))
   ]
