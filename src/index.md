@@ -27,7 +27,7 @@ data
 ```js
 const industryFilter = view(
       Inputs.checkbox(
-        data.map((d => d.industry), {
+        data.map((d) => d.industry), {
           label: "Select industries",
           sort: true,
           unique: true,
