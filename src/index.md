@@ -36,7 +36,7 @@ Plot.plot({
   caption: "Figure 1",
   width: Math.max(width, 550),
   y: {
-    domain: [1780, 2030],
+    domain: [new Date("1780-01-01"), new Date("2030-01-01")],
     grid: true,
     label: "Date",
   },
@@ -56,7 +56,7 @@ Plot.plot({
         {
           x: "rank",
           y1: "founded",
-          y2: "founded",
+          y2: "redditorBrandCakeday",
           markerStart: "dot",
           markerEnd: "arrow",
           strokeWidth: 2
@@ -88,13 +88,13 @@ Plot.plot({
     Plot.tip(data, Plot.pointerX({
       filter: (d) => d.industry == industryFilter,
       x: "rank",
-      y: "founded",
+      y: "redditorBrandCakeday",
       fill: "white",
       title: (d) => `${d.company} \n Founded: ${d.founded} \n Joined Reddit: ${d.redditorBrandCakeday}`,
       fontSize: 16,
       fontFamily: "Roboto",
-      anchor: "bottom",
-      currentColor: "black", 
+      
+      anchor: "top",
     }))
   ]
 })
