@@ -1,5 +1,5 @@
 ---
-theme: near-midnight
+theme: light
 title: Fortune 500 Companies
 toc: false
 ---
@@ -67,8 +67,7 @@ Plot.plot({
            y2: "redditorBrandCakeday",
            bend: true,
            stroke: "black"
-      }
-    ),
+    }),
     /*Plot.crosshair(data, {
       filter: (d) => d.industry == industryFilter,
       x: "rank",
