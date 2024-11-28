@@ -54,7 +54,7 @@ Plot.plot({
   marginRight: 100,
   marginLeft: 100,
   y: {
-    domain: [new Date("1780-01-01T00:00:00.000Z"), new Date("2030-01-01T00:00:00.000Z")],
+    domain: [new Date("1780-01-01T00:00:00.000Z"), new Date("2040-01-01T00:00:00.000Z")],
     tickFormat: Plot.formatIsoDate,
     interval: "year",
     grid: true,
@@ -69,7 +69,8 @@ Plot.plot({
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
-      y: "founded",
+      //y: "founded",
+      y: d => new Date(d.founded),
       fill: "black",
       r: 4
     }),
