@@ -54,8 +54,9 @@ Plot.plot({
   marginRight: 100,
   marginLeft: 100,
   y: {
-    domain: [1780, 2030],
-    tickFormat: d => d,
+    //domain: [1780, 2030],
+    //tickFormat: d => d,
+    transform: (y) => y.date.getFullYear(),
     grid: true,
     label: "Date",
   },
