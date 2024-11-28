@@ -71,7 +71,7 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       //y: "founded",
-      y: (y) => d.founded.toISOString().slice(0, 10),
+      y: (d) => d.founded.toISOString().slice(0, 10),
       fill: "black",
       r: 4
     }),
