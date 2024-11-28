@@ -71,7 +71,7 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       //y: "founded",
-      y: (y) => parse(d.founded, 0, 1));
+      y: (y) => d3.utcParse("%Y")(d.founded);
       fill: "black",
       r: 4
     }),
