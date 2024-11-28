@@ -113,10 +113,10 @@ Plot.plot({
       fill: "white",
       color: "black",
       title: (d) => 
-      (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n>${d.company} \nFounded: ${d.founded}  ? \nJoined Reddit: ${d.redditorBrandCakeday}`
+      (d.redditorBrandCakeday !== null) 
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded}  ? \nJoined Reddit: ${d.redditorBrandCakeday}`
       :
-          `#${d.rank}  \n>${d.company} \nFounded: ${d.founded}  ? \nNo Reddit account`,
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded}  ? \nNo Reddit account`,
       fontSize: 16,
       anchor: "bottom",
     }))
