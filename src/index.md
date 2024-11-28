@@ -56,7 +56,7 @@ Plot.plot({
   y: {
     //domain: [1780, 2030],
     tickFormat: ".",
-    transform: (y) => new Date( y.date.toString() ),
+    transform: (y) => new Date( y.date ),
     grid: true,
     label: "Date",
   },
