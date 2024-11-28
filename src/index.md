@@ -57,7 +57,7 @@ Plot.plot({
     domain: [new Date("1780-01-01T00:00:00.000Z"), new Date("2040-01-01T00:00:00.000Z")],
     //tickFormat: Plot.formatIsoDate,
     //interval: d3.timeYear,
-    tickFormat: "%Y",
+    //tickFormat: "%Y",
     grid: true,
     label: "Date",
   },
