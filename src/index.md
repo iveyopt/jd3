@@ -70,7 +70,8 @@ Plot.plot({
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
-      y: "founded",
+      //y: "founded",
+      y: (y) => new Date(d.founded + "-01-01T00:00:00.000Z");
       fill: "black",
       r: 4
     }),
