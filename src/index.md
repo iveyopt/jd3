@@ -55,8 +55,6 @@ Plot.plot({
   marginLeft: 100,
   y: {
     //domain: [1780, 2030],
-    tickFormat: ".",
-    transform: (y) => new Date( y.date ),
     grid: true,
     label: "Date",
   },
@@ -83,7 +81,7 @@ Plot.plot({
            bend: "false",
            stroke: "black",
     }),
-    //Draw the cake dates
+    //Draw the cake day dates
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
