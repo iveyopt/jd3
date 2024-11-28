@@ -54,9 +54,8 @@ Plot.plot({
   marginRight: 100,
   marginLeft: 100,
   y: {
-    type: "time",
-    //domain: [1780, 2030],
-    tickFormat: " ",
+    domain: [1780, 2030],
+    tickFormat: ".2",
     grid: true,
     label: "Date",
   },
