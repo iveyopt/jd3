@@ -54,7 +54,7 @@ Plot.plot({
   marginRight: 100,
   marginLeft: 100,
   y: {
-    //domain: [1780, 2030],
+    domain: [new Date("1780-01-01T00:00:00.000Z"), new Date("2030-01-01T00:00:00.000Z")],
     tickFormat: Plot.formatIsoDate,
     interval: "year",
     grid: true,
