@@ -59,7 +59,7 @@ Plot.plot({
   marginRight: 100,
   marginLeft: 100,
   y: {
-    domain: [new Date("1780-01-01T00:00:00.000Z"), new Date("2040-01-01T00:00:00.000Z")],
+    domain: [new Date("1770-01-01T00:00:00.000Z"), new Date("2040-01-01T00:00:00.000Z")],
     //tickFormat: Plot.formatIsoDate,
     //interval: d3.timeYear,
     //tickFormat: "%Y",
@@ -114,7 +114,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} ((d.redditorBrandCakeday - d.founded) years later)`
       :
           `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
