@@ -46,6 +46,12 @@ const industryFilter = view(
 ```
 
 ```js
+var foundedDate = data.map(
+     (d) => d.founded,
+)
+```
+
+```js
 Plot.plot({
   title: "Figure 1: Founding Dates vs. Cake Days",
   subtitle: "Black dots indicate companies' founding dates, and green dots indicate the 'Cake Day' for the company's brand ambassador's Reddit account (that is, the date the account was created). Black dots without a connected green dot indicate that the company has no Reddit ambassador account. Hover over a dot to show the company info!",
@@ -71,7 +77,7 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       //y: "founded",
-      y: (y) => new Date(d.founded + "-01-01T00:00:00.000Z");
+      y: (y) => new Date(Date.UTC(d.founded, 0, 1));
       fill: "black",
       r: 4
     }),
