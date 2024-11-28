@@ -55,7 +55,7 @@ Plot.plot({
   subtitle: "Black dots indicate companies' founding dates, and green dots indicate the 'Cake Day' for the company's brand ambassador's Reddit account (that is, the date the account was created). Black dots without a connected green dot indicate that the company has no Reddit ambassador account. Hover over a dot to show the company info!",
   width: Math.max(width, 550),
   style: "overflow: visible",
-  marginTop: 100,
+  //marginTop: 100,
   marginRight: 100,
   marginLeft: 100,
   y: {
@@ -114,9 +114,9 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded}  ? \nJoined Reddit: ${d.redditorBrandCakeday}`
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`
       :
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded}  ? \nNo Reddit account`,
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
       anchor: "bottom",
     }))
