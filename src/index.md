@@ -64,10 +64,12 @@ Plot.plot({
     //tickFormat: "%Y",
     grid: true,
     label: "Date",
+    labelAnchor: "bottom",
   },
   x: {
     grid: true,
-    label: "Ranking"
+    label: "Ranking",
+    labelAnchor: "left",
   },
   marks: [
     //Draw the founded dates
