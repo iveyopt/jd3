@@ -64,12 +64,12 @@ Plot.plot({
     //tickFormat: "%Y",
     grid: true,
     label: "Date",
-    labelAnchor: "bottom",
+    labelAnchor: "center",
   },
   x: {
     grid: true,
     label: "Ranking",
-    labelAnchor: "left",
+    labelAnchor: "center",
   },
   marks: [
     //Draw the founded dates
@@ -111,7 +111,7 @@ Plot.plot({
       y: (d) => parseTime(d.founded),
       fill: "white",
       color: "black",
-      title: (d) => `${d.company}  \n(#${d.rank}) \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`,
+      title: (d) => `${d.company}  \n(#${d.rank}) \nFounded: ${d.founded} (d.redditorBrandCakeday !== null) ? \nJoined Reddit: ${d.redditorBrandCakeday} : \nNo Reddit account`,
       fontSize: 16,
       anchor: "bottom",
     }))
