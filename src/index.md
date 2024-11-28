@@ -55,7 +55,8 @@ Plot.plot({
   marginLeft: 100,
   y: {
     domain: [1780, 2030],
-    tickFormat: d3.format(",.0f"),
+    tickFormat: "",
+    interval: 1,
     grid: true,
     label: "Date",
   },
@@ -96,7 +97,7 @@ Plot.plot({
       y: "founded"
     }),*/
     //Add the tooltips
-    Plot.tip(data, Plot.pointerX({
+    Plot.tip(data, Plot.pointer({
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       y: "founded",
