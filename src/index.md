@@ -106,7 +106,7 @@ Plot.plot({
       y: (d) => parseTime(d.founded),
     }),*/
     //Add the tooltips
-    Plot.tip(data, Plot.pointer({
+    Plot.tip(data, Plot.pointerX({
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       y: (d) => parseTime(d.founded),
