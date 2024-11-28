@@ -70,7 +70,7 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       //y: "founded",
-      y: d => new Date(d.founded),
+      y: d => new Date(d.founded.getUTCFullYear()),
       fill: "black",
       r: 4
     }),
