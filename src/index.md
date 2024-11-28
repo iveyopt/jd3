@@ -70,8 +70,8 @@ Plot.plot({
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
-      //y: "founded",
-      y: (d) => d.founded.toISOString().slice(0, 10),
+      y: "founded",
+      //y: (d) => d.founded.toISOString().slice(0, 10),
       fill: "black",
       r: 4
     }),
