@@ -83,9 +83,9 @@ Plot.plot({
     Plot.link(data, {
            filter: (d) => industryFilter.includes(d.industry),
            x1: "rank",
-           y1: "founded",
+           y1: (d) => parseTime(d.founded),
            x2: "rank",
-           y2: "redditorBrandCakeday",
+           y2: (d) => parseTime(d.redditorBrandCakeday),
            bend: "false",
            stroke: "black",
     }),
@@ -93,20 +93,20 @@ Plot.plot({
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
-      y: "redditorBrandCakeday",
+      y: (d) => parseTime(d.redditorBrandCakeday),
       fill: "green",
       r: 4
     }),
     /*Plot.crosshair(data, {
       filter: (d) => industryFilter.includes(d.industry) && d.redditorBrandCakeday !== null,
       x: "rank",
-      y: "founded"
+      y: (d) => parseTime(d.founded),
     }),*/
     //Add the tooltips
     Plot.tip(data, Plot.pointer({
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
-      y: "founded",
+      y: (d) => parseTime(d.founded),
       fill: "white",
       color: "black",
       title: (d) => `${d.company}  \n(#${d.rank}) \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`,
