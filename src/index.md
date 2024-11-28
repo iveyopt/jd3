@@ -55,8 +55,10 @@ Plot.plot({
   marginLeft: 100,
   y: {
     domain: [new Date("1780-01-01T00:00:00.000Z"), new Date("2040-01-01T00:00:00.000Z")],
-    tickFormat: Plot.formatIsoDate,
-    interval: "year",
+    //tickFormat: Plot.formatIsoDate,
+    //interval: d3.timeYear,
+    ticks: d3.utcYear,
+    tickFormat: "\n%Y",
     grid: true,
     label: "Date",
   },
@@ -69,8 +71,7 @@ Plot.plot({
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
-      //y: "founded",
-      y: d => new Date(d.founded.getUTCFullYear()),
+      y: "founded",
       fill: "black",
       r: 4
     }),
