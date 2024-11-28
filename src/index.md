@@ -27,6 +27,10 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 ```js
 data
 ```
+```js
+//Parser for dates
+const parseTime = d3.utcParse("%Y");
+```
 
 ## Industry
 500 companies means a lot of data! Select one or more industries from the list below to narrow the visualizations to only the data associated with those industries.
@@ -70,8 +74,8 @@ Plot.plot({
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
-      y: "founded",
-      //y: (d) => d.founded.toISOString().slice(0, 10),
+      //y: "founded",
+      y: (d) => parseTime(d.founded),
       fill: "black",
       r: 4
     }),
