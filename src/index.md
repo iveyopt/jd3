@@ -10,6 +10,7 @@ toc: false
       }
      p, h1, h2, h3, h4, h5, h6 {
           max-width: 100%;
+          text-wrap: auto;
      }
      button, input, textarea {
           accent-color: green;
@@ -53,8 +54,8 @@ Plot.plot({
   marginRight: 100,
   marginLeft: 100,
   y: {
-    domain: ["1780", "2030"],
-    tickFormat: "",
+    domain: [1780, 2030],
+    tickFormat: d3.format(",.0f"),
     grid: true,
     label: "Date",
   },
