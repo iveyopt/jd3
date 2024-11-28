@@ -56,7 +56,6 @@ Plot.plot({
   y: {
     domain: [1780, 2030],
     tickFormat: "",
-    ticks: "year",
     interval: 1,
     grid: true,
     label: "Date",
