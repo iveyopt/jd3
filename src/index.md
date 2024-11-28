@@ -56,7 +56,7 @@ Plot.plot({
   y: {
     //domain: [1780, 2030],
     tickFormat: ".",
-    transform: (y) => y.date.getFullYear().toString(),
+    transform: (y) => new Date( y.date.getUTCFullYear().toString() ),
     grid: true,
     label: "Date",
   },
