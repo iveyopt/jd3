@@ -114,8 +114,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          var yearsLater = d.redditorBrandCakeday - d.founded,
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} \n(yearsLater years later)`
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} \n(todoYearsLater years later)`
       :
           `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
