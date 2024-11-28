@@ -71,7 +71,7 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       //y: "founded",
-      y: (y) => new Date(Date.UTC(d.founded, 0, 1));
+      y: (y) => parse(d.founded, 0, 1));
       fill: "black",
       r: 4
     }),
