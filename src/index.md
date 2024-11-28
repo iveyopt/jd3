@@ -54,6 +54,7 @@ Plot.plot({
   title: "Figure 1: Founding Dates vs. Cake Days",
   subtitle: "Black dots indicate companies' founding dates, and green dots indicate the 'Cake Day' for the company's brand ambassador's Reddit account (that is, the date the account was created). Black dots without a connected green dot indicate that the company has no Reddit ambassador account. Hover over a dot to show the company info!",
   width: Math.max(width, 550),
+  style: "overflow: visible",
   marginTop: 100,
   marginRight: 100,
   marginLeft: 100,
@@ -111,7 +112,11 @@ Plot.plot({
       y: (d) => parseTime(d.founded),
       fill: "white",
       color: "black",
-      title: (d) => `${d.company}  \n(#${d.rank}) \nFounded: ${d.founded} (d.redditorBrandCakeday !== null) ? \nJoined Reddit: ${d.redditorBrandCakeday} : \nNo Reddit account`,
+      if (d.redditorBrandCakeday !== null) {
+          title: (d) => `#${d.rank}  \n>${d.company} \nFounded: ${d.founded}  ? \nJoined Reddit: ${d.redditorBrandCakeday}`,
+      } else {
+          title: (d) => `#${d.rank}  \n>${d.company} \nFounded: ${d.founded}  ? \nNo Reddit account`,
+      }
       fontSize: 16,
       anchor: "bottom",
     }))
