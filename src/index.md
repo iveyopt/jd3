@@ -112,11 +112,11 @@ Plot.plot({
       y: (d) => parseTime(d.founded),
       fill: "white",
       color: "black",
-      if (d.redditorBrandCakeday !== null) {
-          title: (d) => `#${d.rank}  \n>${d.company} \nFounded: ${d.founded}  ? \nJoined Reddit: ${d.redditorBrandCakeday}`,
-      } else {
-          title: (d) => `#${d.rank}  \n>${d.company} \nFounded: ${d.founded}  ? \nNo Reddit account`,
-      }
+      title: (d) => 
+      (d.redditorBrandCakeday !== null) ?
+          `#${d.rank}  \n>${d.company} \nFounded: ${d.founded}  ? \nJoined Reddit: ${d.redditorBrandCakeday}`
+      :
+          `#${d.rank}  \n>${d.company} \nFounded: ${d.founded}  ? \nNo Reddit account`,
       fontSize: 16,
       anchor: "bottom",
     }))
