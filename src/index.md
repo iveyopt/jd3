@@ -34,12 +34,6 @@ data
 //Parser for dates
 const parseTime = d3.utcParse("%Y");
 ```
-```js
-//Map the yearsAgo value for founding vs cakeday
-var yearsAgo = data.map(
-     (d) => (d.redditorBrandCakeday) - (d.founded)
-);
-```
 
 ## Industry
 500 companies means a lot of data! Select one or more industries from the list below to narrow the visualizations to only the data associated with those industries.
@@ -115,7 +109,9 @@ Plot.plot({
       y: (d) => parseTime(d.founded),
     }),*/
     //Add the tooltips
-    Plot.tip(data, Plot.pointerX({
+    Plot.tip(data,
+     Plot.pointerX({
+      yearsAgo: (d) => (d.founded + d.redditorBrandCakeday),
       filter: (d) => industryFilter.includes(d.industry),
       x: "rank",
       y: (d) => parseTime(d.founded),
