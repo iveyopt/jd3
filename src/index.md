@@ -130,11 +130,9 @@ Plot.plot({
 
 ### Figure 2: Revenues vs. membership in official subreddit
 Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
-(NOTE: The sliders have been disabled temporarily for zoom troubleshooting.)
 
 ```js
-const y_min = view(Inputs.range([2500, 6500], {value: 2500, label: "Bottom of chart"}));
-const y_max = view(Inputs.range([2500, 6500], {value: 6500, label: "Top of chart"}));
+const y_max = view(Inputs.range([5000000, 500000], {value: 5000000, label: "Maximum chart height"}));
 ```
 
 ```js
@@ -149,7 +147,7 @@ Plot.plot({
     grid: true,
     label: "Subreddit Members",
     labelAnchor: "center",
-     //domain: [y_min, y_max],
+    domain: [0, y_max],
   },
   x: {
     grid: true,
