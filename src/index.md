@@ -15,6 +15,7 @@ toc: false
      button, input, textarea {
           accent-color: green;
      }
+     
 </style>
       
 # Fortune 500 Companies & Reddit
@@ -118,7 +119,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} \n(todo: yearsAgo years later)`
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`
       :
           `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
@@ -130,7 +131,7 @@ Plot.plot({
 
 ### Figure 2: Revenues vs. membership in official subreddit
 Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
-(NOTE: The sliders have been disabled for the moment as zoom troubleshooting is ongoing.)
+(NOTE: The sliders have been disabled temporarily for zoom troubleshooting.)
 
 <!--```js
 viewof y_min = Inputs.range([2500, 6500], {value: 2500, label: "Bottom of chart"})
@@ -139,15 +140,22 @@ viewof y_max = Inputs.range([2500, 6500], {value: 6500, label: "Top of chart"});
 
 ```js
 Plot.plot({
+  marginTop: 100,
+  marginBottom: 100,
+  marginRight: 100,
+  marginLeft: 100,
   width: Math.max(width, 550),
+  style: "overflow: visible",
   y: {
     grid: true,
     label: "Subreddit Members",
+    fontSize: 16,
      //domain: [y_min, y_max],
   },
   x: {
     grid: true,
-    label: "Revenue (millions)"
+    label: "Revenue (millions)",
+    fontSize: 16,
   },
   marks: [
     Plot.dot(data, {
@@ -167,7 +175,7 @@ Plot.plot({
       x: "revenue", y: "subredditOfficialMembers",
       fill: "white",
       color: "black",
-      title: (d) => `${d.company} \n Revenue ($M): ${d.revenue} \n Members: ${d.subredditOfficialMembers}`,
+      title: (d) => `${d.company} \nRevenue ($M): ${d.revenue} \nMembers: ${d.subredditOfficialMembers}`,
       fontSize: 16,
       anchor: "bottom",
     }))
