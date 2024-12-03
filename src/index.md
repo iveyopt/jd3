@@ -119,7 +119,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} (${d.yearsAgo})`
+          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} (yearsAgo)`
       :
           `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
@@ -149,29 +149,29 @@ Plot.plot({
     grid: true,
     label: "Subreddit Members",
     labelAnchor: "center",
-    domain: [0, y_max],
+    domain: [1, y_max],
   },
   x: {
     grid: true,
     label: "Revenue (millions)",
     labelAnchor: "center",
-    domain: [0, x_max],
+    domain: [1, x_max],
   },
   marks: [
     Plot.dot(data, {
-      filter: (d) => industryFilter.includes(d.industry),
+      filter: (d) => industryFilter.includes(d.industry) && d.subredditOfficialMembers !== null,
       x: "revenue",
       y: "subredditOfficialMembers",
       fill: "green",
       r: 4,
     }),
     Plot.crosshair(data, {
-      filter: (d) => industryFilter.includes(d.industry),
+      filter: (d) => industryFilter.includes(d.industry) && d.subredditOfficialMembers !== null,
       x: "revenue",
       y: "subredditOfficialMembers",
     }),
     Plot.tip(data, Plot.pointerX({
-      filter: (d) => industryFilter.includes(d.industry),
+      filter: (d) => industryFilter.includes(d.industry) && d.subredditOfficialMembers !== null,
       x: "revenue", y: "subredditOfficialMembers",
       fill: "white",
       color: "black",
