@@ -158,7 +158,6 @@ Plot.plot({
     domain: [1, x_max],
   },
   marks: [
-    Plot.frame(),
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry) && d.subredditOfficialMembers !== null,
       x: "revenue",
