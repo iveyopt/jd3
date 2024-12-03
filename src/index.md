@@ -20,7 +20,7 @@ toc: false
      }
 </style>
       
-# Fortune 500 Companies & Reddit
+# Fortune 5100 Companies & Reddit
 <span style="text-transform: uppercase; font-style:italic">Disclaimer:</span> Parts of this data were AI-generated. The data used in this project has not been verified and may not be correct.
 
 ```js
