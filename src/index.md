@@ -158,7 +158,7 @@ Plot.plot({
     grid: true,
     label: "Revenue (millions)",
     labelAnchor: "center",
-    domain: [1, x_max],
+    //domain: [1, x_max],
   },
   marks: [
     Plot.dot(data, {
