@@ -73,7 +73,7 @@ Plot.plot({
   },
   x: {
     grid: true,
-    label: "Ranking",
+    label: "Fortune 500 Ranking",
     labelAnchor: "center",
   },
   marks: [
