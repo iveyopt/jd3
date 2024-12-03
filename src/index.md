@@ -101,11 +101,12 @@ Plot.plot({
     }),
     //Draw the number label text by the line
     Plot.text(data, {
-      x: "rank",
-      y: (d) => parseTime(d.redditorBrandCakeday),
-      text: (d) => d.redditorBrandCakeday - d.founded,
-      textAnchor: "start",
-      dx: 6,
+          filter: (d) => industryFilter.includes(d.industry),
+          x: "rank",
+          y: (d) => parseTime(d.redditorBrandCakeday),
+          text: (d) => d.redditorBrandCakeday - d.founded,
+          textAnchor: "start",
+          dx: 6,
     }),
     //Draw the cake day dates
     Plot.dot(data, {
@@ -130,7 +131,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} (${(d) => d.redditorBrandCakeday - d.founded} years later)`
+          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} ((d) => d.redditorBrandCakeday - d.founded years later)`
       :
           `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
