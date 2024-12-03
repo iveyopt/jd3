@@ -92,19 +92,6 @@ Plot.plot({
            bend: "false",
            stroke: "black",
     }),
-    //Draw the number label text by the line
-    Plot.tip(data,
-       Plot.pointerX({
-          filter: (d) => industryFilter.includes(d.industry),
-          x: "rank",
-          y: (d) => parseTime(d.founded),
-          title: (d) => d.redditorBrandCakeday - d.founded,
-          fill: "white",
-          color: "black",
-          fontSize: 16,
-          anchor: "top",
-      })
-    ),
     //Draw the cake day dates
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
@@ -167,6 +154,7 @@ Plot.plot({
     domain: [1, x_max],
   },
   marks: [
+    Plot.frame(),
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry) && d.subredditOfficialMembers !== null,
       x: "revenue",
