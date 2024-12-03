@@ -15,6 +15,9 @@ toc: false
      button, input, textarea {
           accent-color: green;
      }
+     g>text {
+         font-size: 16px;
+     }
      form>label {
          width: 200px !important;
      }
@@ -58,9 +61,9 @@ Plot.plot({
   subtitle: "Black dots indicate companies' founding dates, and green dots indicate the 'Cake Day' for the company's brand ambassador's Reddit account (that is, the date the account was created). Black dots without a connected green dot indicate that the company has no Reddit ambassador account. Hover over a dot to show the company info!",
   width: Math.max(width, 550),
   style: "overflow: visible",
-  //marginTop: 100,
   marginRight: 100,
   marginLeft: 100,
+  marginBottom: 50,
   y: {
     domain: [new Date("1770-01-01T00:00:00.000Z"), new Date("2040-01-01T00:00:00.000Z")],
     grid: true,
@@ -137,7 +140,7 @@ const x_max = view(Inputs.range([500, 700000], {value: 700000, label: "Maximum c
 ```js
 Plot.plot({
   marginTop: 50,
-  marginBottom: 100,
+  marginBottom: 50,
   marginRight: 100,
   marginLeft: 100,
   width: Math.max(width, 550),
