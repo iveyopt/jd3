@@ -20,7 +20,7 @@ toc: false
      }
 </style>
       
-# Fortune 5100 Companies & Reddit
+# Fortune 500 Companies & Reddit
 <span style="text-transform: uppercase; font-style:italic">Disclaimer:</span> Parts of this data were AI-generated. The data used in this project has not been verified and may not be correct.
 
 ```js
@@ -36,7 +36,7 @@ const parseTime = d3.utcParse("%Y");
 ```
 ```js
 //Calculate yearsAgo for Figure 1
-var yearsAgo = data.map((d) => (d.founded + d.redditorBrandCakeday))
+//var yearsAgo = data.map((d) => (d.founded + d.redditorBrandCakeday))
 ```
 
 ## Industry
@@ -122,7 +122,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} (yearsAgo)`
+          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`
       :
           `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
