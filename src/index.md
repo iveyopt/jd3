@@ -132,17 +132,19 @@ Plot.plot({
 Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
 
 ```js
-const y_max = view(Inputs.range([5000000, 500000], {value: 5000000, label: "Maximum chart height"}));
+const y_max = view(Inputs.range([5000000, 50000], {value: 5000000, label: "Maximum chart height"}));
 ```
 
 ```js
 Plot.plot({
-  marginTop: 100,
+  marginTop: 50,
   marginBottom: 100,
   marginRight: 100,
   marginLeft: 100,
   width: Math.max(width, 550),
-  style: "overflow: visible",
+  style: "overflow: hidden",
+  symbol: {legend: true},
+  color: {legend: true},
   y: {
     grid: true,
     label: "Subreddit Members",
@@ -159,7 +161,7 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "revenue",
       y: "subredditOfficialMembers",
-      fill: "green",
+      fill: "industry",
       r: 4,
     }),
     Plot.crosshair(data, {
