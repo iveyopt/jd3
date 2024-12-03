@@ -24,9 +24,9 @@ toc: false
 const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 ```
 
-```js
+<!--```js
 data
-```
+```-->
 ```js
 //Parser for dates
 const parseTime = d3.utcParse("%Y");
@@ -130,11 +130,12 @@ Plot.plot({
 
 ### Figure 2: Revenues vs. membership in official subreddit
 Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
+(NOTE: The sliders have been disabled for the moment as zoom troubleshooting is ongoing.)
 
-```js
+<!--```js
 viewof y_min = Inputs.range([2500, 6500], {value: 2500, label: "Bottom of chart"})
 viewof y_max = Inputs.range([2500, 6500], {value: 6500, label: "Top of chart"});
-```
+```-->
 
 ```js
 Plot.plot({
@@ -142,7 +143,7 @@ Plot.plot({
   y: {
     grid: true,
     label: "Subreddit Members",
-     domain: [y_min, y_max],
+     //domain: [y_min, y_max],
   },
   x: {
     grid: true,
