@@ -70,9 +70,6 @@ Plot.plot({
   marginLeft: 100,
   y: {
     domain: [new Date("1770-01-01T00:00:00.000Z"), new Date("2040-01-01T00:00:00.000Z")],
-    //tickFormat: Plot.formatIsoDate,
-    //interval: d3.timeYear,
-    //tickFormat: "%Y",
     grid: true,
     label: "Date",
     labelAnchor: "center",
@@ -103,13 +100,14 @@ Plot.plot({
            stroke: "black",
     }),
     //Draw the number label text by the line
-    /*Plot.text(data, {
+    Plot.text(data, {
       x: "rank",
       y: (d) => parseTime(d.redditorBrandCakeday),
       text: (d) => d.redditorBrandCakeday - d.founded,
       textAnchor: "start",
-      dx: 6
-    }),*/
+      dx: 6,
+      fill: "white",
+    }),
     //Draw the cake day dates
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
