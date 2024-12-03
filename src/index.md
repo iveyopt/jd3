@@ -128,15 +128,20 @@ Plot.plot({
 })
 ```
 
+## Figure 2: Revenues vs. membership in official subreddit
+Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
+```js
+viewof y_min = Inputs.range([2500, 6500], {value: 2500, label: "Bottom of chart"})
+viewof y_max = Inputs.range([2500, 6500], {value: 6500, label: "Top of chart"});
+```
+
 ```js
 Plot.plot({
-  title: "Revenues vs. membership in official subreddit",
-  caption: "Figure 2",
   width: Math.max(width, 550),
-  color: {legend: true},
   y: {
     grid: true,
     label: "Subreddit Members",
+     domain: [y_min, y_max],
   },
   x: {
     grid: true,
@@ -147,7 +152,9 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "revenue",
       y: "subredditOfficialMembers",
-      fill: "industry"
+      fill: "green",
+      r: 4,
+     clip: true
     }),
     Plot.crosshair(data, {
       filter: (d) => industryFilter.includes(d.industry),
@@ -158,7 +165,10 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "revenue", y: "subredditOfficialMembers",
       fill: "white",
+      color: "black",
       title: (d) => `${d.company} \n Revenue ($M): ${d.revenue} \n Members: ${d.subredditOfficialMembers}`
+     fontSize: 16,
+      anchor: "bottom",
     }))
   ]
 })
