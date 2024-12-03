@@ -36,9 +36,10 @@ const parseTime = d3.utcParse("%Y");
 ```
 ```js
 //Calculate yearsAgo for Figure 1
-function yearsAgo(a, b) {
+/*function yearsAgo(a, b) {
   return a - b;
-}
+}*/
+var yearsAgo = 'hey';
 ```
 
 ## Industry
@@ -102,13 +103,13 @@ Plot.plot({
            stroke: "black",
     }),
     //Draw the number label text by the line
-    Plot.text(data, {
+    /*Plot.text(data, {
       x: "rank",
       y: (d) => parseTime(d.redditorBrandCakeday),
       text: (d) => d.redditorBrandCakeday - d.founded,
       textAnchor: "start",
       dx: 6
-    }),
+    }),*/
     //Draw the cake day dates
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
@@ -132,7 +133,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`
+          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} (${yearsAgo} years later)`
       :
           `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
