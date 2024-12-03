@@ -37,7 +37,7 @@ const parseTime = d3.utcParse("%Y");
 ```js
 //Map the yearsAgo value for founding vs cakeday
 var yearsAgo = data.map(
-     (d) => ((d.redditorBrandCakeday) - (d.founded))
+     (d) => (d.redditorBrandCakeday) - (d.founded)
 );
 ```
 
@@ -138,6 +138,7 @@ Use the sliders below to zoom the second chart — some companies have way more 
 
 ```js
 const y_max = view(Inputs.range([50000, 6000000], {value: 6000000, label: "Maximum chart height"}));
+const x_max = view(Inputs.range([50, 500], {value: 500, label: "Maximum chart width"}));
 ```
 
 ```js
@@ -158,6 +159,7 @@ Plot.plot({
     grid: true,
     label: "Revenue (millions)",
     labelAnchor: "center",
+    domain: [0, x_max],
   },
   marks: [
     Plot.dot(data, {
