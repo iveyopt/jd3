@@ -16,7 +16,7 @@ toc: false
           accent-color: green;
      }
      form>label {
-         width: fit-content !important;
+         width: 200px !important;
      }
 </style>
       
@@ -36,7 +36,7 @@ const parseTime = d3.utcParse("%Y");
 ```
 ```js
 //Calculate yearsAgo for Figure 1
-var yearsAgo = data.map(d => d.redditorBrandCakedaye - d.founded)
+var yearsAgo = data.map(d => d.redditorBrandCakeday - d.founded)
 ```
 
 ## Industry
