@@ -118,7 +118,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} \n(yearsAgo years later)`
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} \n(todo: yearsAgo years later)`
       :
           `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
@@ -164,7 +164,7 @@ Plot.plot({
 })
 ```
 
-```js
+<!--```js
 const companyFilter = view(
       Inputs.select(data.map(d => d.company), {label: "Company", sort: true, unique: true})
 )
@@ -217,7 +217,7 @@ Plot.plot({
     Plot.barX(alphabet, {x: "frequency", y: "letter", sort: {y: "x", reverse: true}})
   ]
 })
-```
+```-->
 
 <!-- ```js
 Plot.plot({
