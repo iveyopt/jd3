@@ -105,7 +105,7 @@ Plot.plot({
     Plot.text(data, {
       x: "rank",
       y: (d) => parseTime(d.redditorBrandCakeday),
-      text: ((f) => (d) => parseTime(d.redditorBrandCakeday) - parseTime(d.founded)),
+      text: (d) => d.redditorBrandCakeday - d.founded,
       textAnchor: "start",
       dx: 6
     }),
