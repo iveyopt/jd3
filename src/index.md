@@ -31,6 +31,10 @@ data
 //Parser for dates
 const parseTime = d3.utcParse("%Y");
 ```
+```js
+//Map the yearsAgo value for founding vs cakeday
+var yearsAgo = data.map((d) => (d.redditorBrandCakeday) - (d.founded));
+```
 
 ## Industry
 500 companies means a lot of data! Select one or more industries from the list below to narrow the visualizations to only the data associated with those industries.
@@ -114,7 +118,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} \n(todoYearsLater years later)`
+          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} \n(yearsAgo years later)`
       :
           `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
