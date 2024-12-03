@@ -15,6 +15,9 @@ toc: false
      button, input, textarea {
           accent-color: green;
      }
+     form>label {
+         width: fit-content !important;
+     }
 </style>
       
 # Fortune 500 Companies & Reddit
@@ -118,9 +121,9 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`
+          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`
       :
-          `#${d.rank}  \n${d.company} \nFounded: ${d.founded} \nNo Reddit account`,
+          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
       anchor: "bottom",
     }))
@@ -132,7 +135,7 @@ Plot.plot({
 Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
 
 ```js
-const y_max = view(Inputs.range([5000000, 50000], {value: 5000000, label: "Maximum chart height"}));
+const y_max = view(Inputs.range([50000, 6000000], {value: 6000000, label: "Maximum chart height"}));
 ```
 
 ```js
@@ -143,8 +146,6 @@ Plot.plot({
   marginLeft: 100,
   width: Math.max(width, 550),
   style: "overflow: hidden",
-  symbol: {legend: true},
-  color: {legend: true},
   y: {
     grid: true,
     label: "Subreddit Members",
@@ -161,7 +162,7 @@ Plot.plot({
       filter: (d) => industryFilter.includes(d.industry),
       x: "revenue",
       y: "subredditOfficialMembers",
-      fill: "industry",
+      fill: "green",
       r: 4,
     }),
     Plot.crosshair(data, {
@@ -174,7 +175,7 @@ Plot.plot({
       x: "revenue", y: "subredditOfficialMembers",
       fill: "white",
       color: "black",
-      title: (d) => `${d.company} \nRevenue ($M): ${d.revenue} \nMembers: ${d.subredditOfficialMembers}`,
+      title: (d) => `${d.company} \nIndustry: ${d.industry} \nRevenue ($M): ${d.revenue} \nMembers: ${d.subredditOfficialMembers}`,
       fontSize: 16,
       anchor: "bottom",
     }))
