@@ -15,7 +15,6 @@ toc: false
      button, input, textarea {
           accent-color: green;
      }
-     
 </style>
       
 # Fortune 500 Companies & Reddit
@@ -133,10 +132,10 @@ Plot.plot({
 Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
 (NOTE: The sliders have been disabled temporarily for zoom troubleshooting.)
 
-<!--```js
-viewof y_min = Inputs.range([2500, 6500], {value: 2500, label: "Bottom of chart"})
-viewof y_max = Inputs.range([2500, 6500], {value: 6500, label: "Top of chart"});
-```-->
+```js
+const y_min = view(Inputs.range([2500, 6500], {value: 2500, label: "Bottom of chart"}));
+const y_max = view(Inputs.range([2500, 6500], {value: 6500, label: "Top of chart"}));
+```
 
 ```js
 Plot.plot({
@@ -149,13 +148,13 @@ Plot.plot({
   y: {
     grid: true,
     label: "Subreddit Members",
-    fontSize: 16,
+    labelAnchor: "center",
      //domain: [y_min, y_max],
   },
   x: {
     grid: true,
     label: "Revenue (millions)",
-    fontSize: 16,
+    labelAnchor: "center",
   },
   marks: [
     Plot.dot(data, {
