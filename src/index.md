@@ -23,8 +23,8 @@ toc: false
      }
 </style>
       
-# Fortune 500 Companies & Reddit
-<span style="text-transform: uppercase; font-style:italic">Disclaimer:</span> Parts of this data were AI-generated. The data used in this project has not been verified and may not be correct.
+## Want to explore the data further? Check out the visualizations below!
+<span style="text-transform: uppercase; font-style:italic">Disclaimer:</span> Parts of the data were AI-generated. The data used in this project has not been verified and may not be correct.
 
 ```js
 const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
@@ -38,7 +38,7 @@ data
 const parseTime = d3.utcParse("%Y");
 ```
 
-## Industry
+### Select an Industry
 500 companies means a lot of data! Select one or more industries from the list below to narrow the visualizations to only the data associated with those industries.
 ```js
 const industryFilter = view(
