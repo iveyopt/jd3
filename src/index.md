@@ -36,7 +36,9 @@ const parseTime = d3.utcParse("%Y");
 ```
 ```js
 //Calculate yearsAgo for Figure 1
-var yearsAgo = data.map(d => d.redditorBrandCakeday - d.founded)
+function yearsAgo(a, b) {
+  return a - b;
+}
 ```
 
 ## Industry
@@ -122,7 +124,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} (${yearsAgo})`
+          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} (yearsAgo(${d.redditorBrandCakeday}, ${d.founded}))`
       :
           `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
