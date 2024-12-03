@@ -136,8 +136,8 @@ Plot.plot({
 Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
 
 ```js
-const y_max = view(Inputs.range([50000, 6000000], {value: 6000000, label: "Maximum chart height"}));
-const x_max = view(Inputs.range([50, 500], {value: 500, label: "Maximum chart width"}));
+const y_max = view(Inputs.range([50000, 6000000], {value: 6000000, label: "Maximum chart height (Members)"}));
+const x_max = view(Inputs.range([500, 700000], {value: 700000, label: "Maximum chart width (Revenue)"}));
 ```
 
 ```js
@@ -158,7 +158,7 @@ Plot.plot({
     grid: true,
     label: "Revenue (millions)",
     labelAnchor: "center",
-    //domain: [1, x_max],
+    domain: [1, x_max],
   },
   marks: [
     Plot.dot(data, {
