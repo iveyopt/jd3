@@ -34,13 +34,6 @@ data
 //Parser for dates
 const parseTime = d3.utcParse("%Y");
 ```
-```js
-//Calculate yearsAgo for Figure 1
-/*function yearsAgo(a, b) {
-  return a - b;
-}*/
-//var yearsAgo = 'hey';
-```
 
 ## Industry
 500 companies means a lot of data! Select one or more industries from the list below to narrow the visualizations to only the data associated with those industries.
@@ -100,14 +93,18 @@ Plot.plot({
            stroke: "black",
     }),
     //Draw the number label text by the line
-    Plot.text(data, {
+    Plot.tip(data,
+       Plot.pointerX({
           filter: (d) => industryFilter.includes(d.industry),
           x: "rank",
           y: (d) => parseTime(d.redditorBrandCakeday),
-          text: (d) => d.redditorBrandCakeday - d.founded,
-          textAnchor: "start",
-          dx: 6,
-    }),
+          title: (d) => d.redditorBrandCakeday - d.founded,
+          fill: "white",
+          color: "black",
+          fontSize: 16,
+          anchor: "bottom",
+      })
+    ),
     //Draw the cake day dates
     Plot.dot(data, {
       filter: (d) => industryFilter.includes(d.industry),
