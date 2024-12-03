@@ -39,7 +39,7 @@ const parseTime = d3.utcParse("%Y");
 /*function yearsAgo(a, b) {
   return a - b;
 }*/
-var yearsAgo = 'hey';
+//var yearsAgo = 'hey';
 ```
 
 ## Industry
