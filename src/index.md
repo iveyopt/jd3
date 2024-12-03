@@ -97,12 +97,12 @@ Plot.plot({
        Plot.pointerX({
           filter: (d) => industryFilter.includes(d.industry),
           x: "rank",
-          y: (d) => parseTime(d.redditorBrandCakeday),
+          y: (d) => parseTime(d.founded),
           title: (d) => d.redditorBrandCakeday - d.founded,
           fill: "white",
           color: "black",
           fontSize: 16,
-          anchor: "bottom",
+          anchor: "top",
       })
     ),
     //Draw the cake day dates
@@ -128,7 +128,7 @@ Plot.plot({
       color: "black",
       title: (d) => 
       (d.redditorBrandCakeday !== null) ?
-          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday}`
+          `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nJoined Reddit: ${d.redditorBrandCakeday} (${d.redditorBrandCakeday - d.founded} years later)`
       :
           `#${d.rank}  \n${d.company} \nIndustry: ${d.industry} \nFounded: ${d.founded} \nNo Reddit account`,
       fontSize: 16,
