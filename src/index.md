@@ -98,6 +98,7 @@ Plot.plot({
       x: "rank",
       y: (d) => parseTime(d.redditorBrandCakeday),
       fill: "green",
+      stroke: "black",
       r: 4
     }),
     /*Plot.crosshair(data, {
@@ -129,7 +130,7 @@ Plot.plot({
 Use the sliders below to zoom the second chart — some companies have way more subreddit members than others!
 
 ```js
-const y_max = view(Inputs.range([50000, 6000000], {value: 6000000, label: "Maximum chart height (Members)"}));
+const y_max = view(Inputs.range([10000, 6000000], {value: 6000000, label: "Maximum chart height (Members)"}));
 const x_max = view(Inputs.range([500, 700000], {value: 700000, label: "Maximum chart width (Revenue)"}));
 ```
 
@@ -160,6 +161,7 @@ Plot.plot({
       x: "revenue",
       y: "subredditOfficialMembers",
       fill: "green",
+      stroke: "black",
       r: 4,
     }),
     Plot.crosshair(data, {
