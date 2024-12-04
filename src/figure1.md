@@ -30,8 +30,7 @@ const data = FileAttachment("./data/f500reddit.csv").csv({typed: true});
 const parseTime = d3.utcParse("%Y");
 ```
 
-### Select an Industry
-500 companies means a lot of data! Select one or more industries from the list below to display only the data associated with those industries.
+### Select One or More Industries to View
 ```js
 const industryFilter = view(
   Inputs.checkbox(
